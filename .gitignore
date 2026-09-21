@@ -17,3 +17,7 @@ Thumbs.db
 # Data: ignore big raw downloads but keep the folder itself
 data/raw/*
 !data/raw/.gitkeep
+
+# Ignore the cleaning solution notebook & guide (kept locally only)
+notebook/01.ipynb
+notebook/01g.md
