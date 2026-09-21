@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets (API tokens)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data: ignore big raw downloads but keep the folder itself
+data/raw/*
+!data/raw/.gitkeep
