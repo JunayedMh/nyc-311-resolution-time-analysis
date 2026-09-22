@@ -1,35 +1,53 @@
 # NYC 311 Resolution Time Analysis
 
-Analyzing which complaint types and boroughs have the slowest 311 service request resolution times in NYC.
+Analyzing which complaint types and boroughs take longest to resolve in NYC's 311 service request system.
 
 ## Data
 
-- Source: NYC Open Data, 311 Service Requests
-- Period: January 1-7, 2025 (first week)
-- Size: 90,565 requests
-- Key columns: created_date, closed_date, complaint_type, borough, agency, status
+**Source:** NYC Open Data, 311 Service Requests  
+**Period:** January 1-7, 2025  
+**Original records:** 90,565  
+**Cleaned and analyzed:** 85,122 (94%)
 
-## Findings
+## Resolution Time Overview
 
-### Slowest complaint types (median days to close)
+After cleaning, 85,122 closed requests span a wide range of resolution speeds.
 
-1. [Type A]: X days
-2. [Type B]: Y days
-3. ...
+- **Median resolution time:** 0 days (half of requests close same-day)
+- **Mean:** 6.65 days (pulled up by outliers)
+- **Standard deviation:** 31.13 days
+- **Range:** 0 to 622 days
+- **75th percentile:** 1 day (three-quarters close within one day)
 
-### Slowest boroughs
+The distribution is heavily skewed—most requests close immediately, but a long tail extends to over 600 days. Median is the appropriate measure of typical resolution time.
 
-[Borough]: X days median
+## Data Quality
 
-### Open requests
+- **Status:** All 85,122 records are Closed (100%)
+- **Core fields:** Zero missing values in created date, closed date, agency, complaint type, borough, or zip code
+- **Optional fields:** 973 records (1.1%) have missing descriptor, which is a sub-classification detail, not critical to analysis
 
-X% of requests are still open (no closed_date as of data pull date)
+## Cleaning Decisions
 
-## Limitations
+- **Filtered to Closed requests only.** Excluded 462 in-progress, open, or pending requests (cannot calculate resolution time without close date)
+- **Imputed missing close dates.** 230 Closed requests with no recorded close date were assigned January 7, 2025 at 11:59:59 PM (end of data collection week)
+- **Dropped Unspecified borough.** 37 requests with borough="Unspecified" were excluded (not analyzable geographically)
+- **Kept missing descriptors.** 973 records retain null descriptors since this is an optional lookup detail
 
-- First week only; seasonal variation not captured
-- Does not include all 311 calls (see NYC data notes)
-- Resolution time includes time waiting for customer follow-up, not just agency work time
+## Next Steps: EDA and Visualization
+
+This cleaned dataset is ready for exploratory analysis to answer:
+
+- Which complaint types resolve fastest? Slowest?
+- Do boroughs differ in resolution speed?
+- Do agencies show different performance patterns?
+- What drives the 622-day maximum outliers?
+
+See `02_eda.ipynb` for exploratory findings and `03_visualization.ipynb` for charts.
+
+## Tools
+
+Python 3.12, pandas, matplotlib, Socrata API
 
 ## Files
 
