@@ -43,8 +43,6 @@ This cleaned dataset is ready for exploratory analysis to answer:
 - Do agencies show different performance patterns?
 - What drives the 622-day maximum outliers?
 
-See `02_eda.ipynb` for exploratory findings and `03_visualization.ipynb` for charts.
-
 ## Tools
 
 Python 3.12, pandas, matplotlib, Socrata API
