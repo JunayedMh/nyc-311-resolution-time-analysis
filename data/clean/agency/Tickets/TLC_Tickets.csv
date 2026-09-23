@@ -1,0 +1,527 @@
+Unique_Key,Created_Date,Closed_Date,Agency,Complaint_Type,Descriptor,Borough,Incident_Zip,Status,Open_Data_Channel_Type,Resolution_Days
+63576556,2025-01-01 01:33:49,2025-03-04 09:36:54,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,62
+63582296,2025-01-01 00:42:41,2025-03-21 07:43:16,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,79
+63585684,2025-01-01 16:43:55,2025-01-02 11:16:57,TLC,Lost Property,Bag/Wallet,Brooklyn,11224.0,Closed,Phone,0
+63585708,2025-01-01 19:24:00,2025-01-22 07:34:06,TLC,Taxi Complaint,Driver Complaint - Passenger,Staten Island,10314.0,Closed,Phone,20
+63585709,2025-01-01 02:13:12,2025-03-21 07:52:42,TLC,Taxi Complaint,Driver Complaint - Passenger,Brooklyn,11249.0,Closed,Online,79
+63586435,2025-01-01 21:14:19,2025-03-28 07:03:13,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10018.0,Closed,Online,85
+63586980,2025-01-01 19:16:11,2025-01-02 11:46:35,TLC,Lost Property,Bag/Wallet,Manhattan,10019.0,Closed,Phone,0
+63587014,2025-01-01 22:53:16,2025-01-03 08:57:22,TLC,Lost Property,Other,Manhattan,10019.0,Closed,Phone,1
+63587123,2025-01-01 19:09:50,2025-01-02 11:37:11,TLC,Lost Property,Bag/Wallet,Queens,11430.0,Closed,Phone,0
+63587588,2025-01-01 14:19:40,2025-03-05 10:51:44,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Online,62
+63588123,2025-01-01 04:30:05,2025-08-01 14:14:09,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10123.0,Closed,Online,212
+63588447,2025-01-01 18:53:04,2025-01-02 11:30:06,TLC,Lost Property,Bag/Wallet,Manhattan,10001.0,Closed,Phone,0
+63588453,2025-01-02 00:24:12,2025-03-21 08:14:07,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11422.0,Closed,Online,78
+63588714,2025-01-01 16:01:16,2025-02-18 13:56:42,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,47
+63588715,2025-01-01 16:00:28,2025-03-28 07:04:02,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10009.0,Closed,Online,85
+63588728,2025-01-01 09:09:21,2025-05-30 18:15:58,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,149
+63588854,2025-01-01 16:02:57,2025-03-28 07:03:46,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11249.0,Closed,Online,85
+63589170,2025-01-01 17:43:15,2025-03-21 08:11:10,TLC,Green Taxi Complaint,Driver Complaint - Passenger,Manhattan,10039.0,Closed,Phone,78
+63589362,2025-01-01 19:24:06,2025-01-02 13:14:05,TLC,Lost Property,Bag/Wallet,Manhattan,10003.0,Closed,Phone,0
+63589363,2025-01-01 04:13:07,2025-01-02 10:11:38,TLC,Lost Property,Other,Manhattan,10021.0,Closed,Phone,1
+63589468,2025-01-01 17:11:18,2025-02-06 07:42:54,TLC,Green Taxi Complaint,Driver Complaint - Passenger,Queens,11101.0,Closed,Phone,35
+63589472,2025-01-01 02:29:34,2025-01-17 07:41:11,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11222.0,Closed,Mobile,16
+63589492,2025-01-01 14:47:50,2025-01-02 10:07:06,TLC,Lost Property,Bag/Wallet,Manhattan,10002.0,Closed,Phone,0
+63589493,2025-01-01 09:34:19,2025-01-02 13:12:40,TLC,Lost Property,Bag/Wallet,Manhattan,10012.0,Closed,Online,1
+63589502,2025-01-01 18:16:37,2025-01-02 11:25:34,TLC,Lost Property,Bag/Wallet,Manhattan,10010.0,Closed,Online,0
+63589857,2025-01-01 02:07:50,2025-03-21 07:55:15,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10002.0,Closed,Mobile,79
+63590709,2025-01-01 21:33:47,2025-01-02 14:46:57,TLC,Lost Property,Electronics/Phones,Manhattan,10128.0,Closed,Phone,0
+63590946,2025-01-01 21:41:21,2025-01-02 15:59:21,TLC,Lost Property,Bag/Wallet,Queens,11369.0,Closed,Phone,0
+63591309,2025-01-01 21:28:45,2025-04-08 08:34:31,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,96
+63591310,2025-01-01 16:04:39,2025-01-28 14:19:28,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11249.0,Closed,Online,26
+63591860,2025-01-01 13:27:08,2025-05-15 08:56:51,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10011.0,Closed,Online,133
+63591871,2025-01-01 11:15:52,2025-03-21 08:03:51,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10029.0,Closed,Phone,78
+63591881,2025-01-01 10:05:02,2025-01-02 13:14:37,TLC,Lost Property,Bag/Wallet,Manhattan,10014.0,Closed,Phone,1
+63591981,2025-01-01 19:10:15,2025-01-02 08:50:52,TLC,Lost Property,Other,Queens,11430.0,Closed,Phone,0
+63592049,2025-01-01 02:02:52,2025-02-18 10:50:00,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11102.0,Closed,Phone,48
+63592050,2025-01-01 11:22:34,2025-10-24 12:52:37,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10007.0,Closed,Online,296
+63592432,2025-01-01 12:21:33,2025-05-30 06:53:36,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10019.0,Closed,Online,148
+63592433,2025-01-01 19:03:03,2025-01-17 13:21:42,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,15
+63592836,2025-01-01 18:03:26,2025-04-23 08:10:23,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10017.0,Closed,Phone,111
+63593176,2025-01-01 14:02:47,2025-05-05 12:10:20,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,123
+63593198,2025-01-01 01:59:12,2025-01-02 13:03:53,TLC,Lost Property,Bag/Wallet,Manhattan,10011.0,Closed,Online,1
+63593205,2025-01-01 12:53:49,2025-01-02 15:12:28,TLC,Lost Property,Bag/Wallet,Manhattan,10003.0,Closed,Online,1
+63593206,2025-01-01 11:36:00,2025-01-02 15:06:05,TLC,Lost Property,Electronics/Phones,Manhattan,10003.0,Closed,Online,1
+63593265,2025-01-01 12:23:19,2025-03-21 08:06:41,TLC,Taxi Complaint,Driver Complaint - Passenger,Brooklyn,11238.0,Closed,Online,78
+63593271,2025-01-01 18:09:45,2025-01-02 11:27:46,TLC,Lost Property,Bag/Wallet,Manhattan,10065.0,Closed,Online,0
+63593294,2025-01-01 09:14:03,2025-01-02 13:09:18,TLC,Lost Property,Electronics/Phones,Manhattan,10036.0,Closed,Phone,1
+63593403,2025-01-01 15:59:46,2025-02-18 13:57:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10009.0,Closed,Online,47
+63593605,2025-01-01 10:06:31,2025-03-28 07:04:19,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,85
+63593606,2025-01-01 13:40:36,2025-03-04 09:38:36,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,61
+63593615,2025-01-01 16:05:19,2025-03-28 07:03:29,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,85
+63593709,2025-01-01 02:45:55,2025-03-21 08:00:50,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Brooklyn,11232.0,Closed,Mobile,79
+63594371,2025-01-01 02:37:22,2025-03-21 07:57:26,TLC,Taxi Complaint,Driver Complaint - Passenger,Brooklyn,11201.0,Closed,Phone,79
+63594380,2025-01-01 20:12:56,2025-04-09 07:41:19,TLC,Taxi Complaint,Driver Complaint - Passenger,Brooklyn,11222.0,Closed,Online,97
+63594553,2025-01-01 17:15:02,2025-03-21 08:09:00,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,78
+63595552,2025-01-02 12:45:02,2025-01-02 12:50:13,TLC,Lost Property,Electronics/Phones,Manhattan,10111.0,Closed,Unknown,0
+63595683,2025-01-02 13:04:10,2025-03-21 10:36:02,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11219.0,Closed,Phone,77
+63595848,2025-01-02 12:12:40,2025-03-04 09:40:08,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,60
+63595857,2025-01-02 12:21:42,2025-03-14 10:33:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10075.0,Closed,Online,70
+63595858,2025-01-02 08:30:36,2025-03-21 08:23:43,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10461.0,Closed,Phone,77
+63595859,2025-01-02 14:21:17,2025-02-18 13:54:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,46
+63595863,2025-01-02 11:59:02,2025-04-29 09:35:53,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,116
+63596087,2025-01-02 04:42:00,2025-03-21 08:16:50,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Brooklyn,11203.0,Closed,Phone,78
+63596194,2025-01-02 11:48:31,2025-06-03 13:09:25,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10036.0,Closed,Mobile,152
+63596200,2025-01-02 14:45:21,2025-03-28 07:01:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,84
+63596269,2025-01-02 17:30:12,2025-01-19 10:00:18,TLC,Taxi Complaint,Vehicle Complaint,Bronx,10452.0,Closed,Online,16
+63596775,2025-01-02 21:17:04,2025-01-03 11:22:55,TLC,Lost Property,Bag/Wallet,Manhattan,10018.0,Closed,Phone,0
+63597099,2025-01-02 11:00:12,2025-04-23 08:12:11,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Bronx,10451.0,Closed,Online,110
+63597416,2025-01-02 09:40:50,2025-01-02 09:43:11,TLC,Lost Property,Electronics/Phones,Manhattan,10009.0,Closed,Unknown,0
+63598074,2025-01-02 22:21:00,2025-03-06 07:54:44,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10002.0,Closed,Online,62
+63598084,2025-01-02 15:05:49,2025-02-03 12:30:30,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,31
+63598086,2025-01-02 12:16:17,2025-02-18 13:56:27,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,47
+63598092,2025-01-02 21:42:58,2025-03-13 11:28:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11420.0,Closed,Online,69
+63598093,2025-01-02 13:54:21,2025-03-07 13:02:20,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10017.0,Closed,Online,63
+63598102,2025-01-02 15:31:38,2025-07-03 10:12:23,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,181
+63598103,2025-01-02 12:05:17,2025-03-28 07:02:57,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10028.0,Closed,Online,84
+63598110,2025-01-02 08:57:58,2025-04-11 08:37:26,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10023.0,Closed,Phone,98
+63598113,2025-01-02 13:00:56,2025-03-21 10:31:59,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Phone,77
+63598133,2025-01-02 12:08:27,2025-02-20 08:57:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Online,48
+63598134,2025-01-02 12:06:34,2025-03-28 07:02:40,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10021.0,Closed,Online,84
+63598135,2025-01-02 22:18:58,2025-02-20 09:06:57,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Online,48
+63598136,2025-01-02 22:18:17,2025-03-27 15:24:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Online,83
+63598142,2025-01-02 11:25:41,2025-05-30 06:53:20,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11231.0,Closed,Online,147
+63598203,2025-01-02 12:53:16,2025-03-21 10:29:19,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Brooklyn,11233.0,Closed,Phone,77
+63598211,2025-01-02 17:44:52,2025-01-03 15:06:19,TLC,Lost Property,Electronics/Phones,Manhattan,10003.0,Closed,Online,0
+63598676,2025-01-02 13:21:03,2025-01-19 11:32:59,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Queens,11101.0,Closed,Mobile,16
+63599195,2025-01-02 15:32:20,2025-04-09 07:40:11,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10282.0,Closed,Online,96
+63599218,2025-01-02 15:39:24,2025-02-19 11:24:01,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,47
+63599557,2025-01-02 12:22:58,2025-01-02 12:28:03,TLC,Lost Property,Bag/Wallet,Manhattan,10014.0,Closed,Unknown,0
+63599914,2025-01-02 12:18:20,2025-03-28 07:02:05,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10021.0,Closed,Online,84
+63599917,2025-01-02 18:12:39,2025-05-09 16:17:48,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10019.0,Closed,Phone,126
+63599925,2025-01-02 19:47:24,2025-03-21 10:40:58,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,77
+63599930,2025-01-02 14:16:35,2025-04-10 10:24:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,97
+63599955,2025-01-02 12:35:02,2025-05-05 12:13:29,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Phone,122
+63599957,2025-01-02 22:13:16,2025-02-03 13:42:51,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Online,31
+63599963,2025-01-02 12:19:59,2025-02-18 13:56:13,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10075.0,Closed,Online,47
+63599982,2025-01-02 19:03:48,2025-01-03 11:08:34,TLC,Lost Property,Bag/Wallet,Manhattan,10021.0,Closed,Phone,0
+63599988,2025-01-02 15:37:22,2025-08-21 08:33:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,230
+63599989,2025-01-02 14:47:06,2025-03-28 07:01:16,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,84
+63599990,2025-01-02 11:56:20,2025-04-10 10:25:17,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10028.0,Closed,Online,97
+63600076,2025-01-02 15:53:46,2025-01-03 14:56:10,TLC,Lost Property,Other,Manhattan,10017.0,Closed,Unknown,0
+63601120,2025-01-02 12:24:34,2025-07-21 10:20:37,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10036.0,Closed,Online,199
+63601776,2025-01-02 13:02:02,2025-03-21 10:33:50,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11222.0,Closed,Mobile,77
+63601777,2025-01-02 13:59:44,2025-01-03 09:02:00,TLC,Lost Property,Electronics/Phones,Manhattan,10036.0,Closed,Online,0
+63601812,2025-01-02 09:09:42,2025-01-02 09:17:58,TLC,Lost Property,Clothing/Glasses,Queens,11430.0,Closed,Unknown,0
+63601838,2025-01-02 14:58:20,2025-02-20 09:03:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,48
+63601839,2025-01-02 22:10:55,2025-03-21 13:18:01,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,77
+63601866,2025-01-02 22:13:56,2025-02-03 13:44:31,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Online,31
+63601872,2025-01-02 14:15:18,2025-02-18 13:55:40,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10027.0,Closed,Online,46
+63601874,2025-01-02 11:40:32,2025-02-05 08:15:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11432.0,Closed,Phone,33
+63601875,2025-01-02 11:57:35,2025-01-09 08:01:28,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10028.0,Closed,Online,6
+63601955,2025-01-02 15:28:09,2025-01-29 08:15:10,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,26
+63601956,2025-01-02 14:24:22,2025-04-10 10:24:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,97
+63601970,2025-01-02 13:07:31,2025-04-18 08:34:18,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10019.0,Closed,Online,105
+63602595,2025-01-02 18:52:55,2025-01-22 07:34:43,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10016.0,Closed,Phone,19
+63602745,2025-01-02 17:56:38,2025-01-19 10:03:06,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Brooklyn,11228.0,Closed,Phone,16
+63602985,2025-01-02 15:25:23,2025-01-02 15:28:22,TLC,Lost Property,Bag/Wallet,Manhattan,10036.0,Closed,Unknown,0
+63603195,2025-01-02 13:23:56,2025-01-02 13:26:26,TLC,Lost Property,Bag/Wallet,Brooklyn,11201.0,Closed,Unknown,0
+63603505,2025-01-02 09:57:02,2025-03-21 08:25:15,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Mobile,77
+63603633,2025-01-02 11:07:21,2025-03-06 07:51:25,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,62
+63603646,2025-01-02 22:16:03,2025-03-27 15:25:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,83
+63603650,2025-01-02 07:28:57,2025-03-21 08:20:00,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,78
+63603685,2025-01-02 15:01:02,2025-04-09 07:40:45,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,96
+63603686,2025-01-02 14:59:34,2025-01-19 09:18:02,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,16
+63603696,2025-01-02 14:22:17,2025-02-20 09:01:41,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10029.0,Closed,Online,48
+63603720,2025-01-02 15:36:00,2025-03-27 15:28:40,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,83
+63603721,2025-01-02 15:09:03,2025-02-20 09:05:16,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,48
+63603724,2025-01-02 22:21:41,2025-02-03 13:46:14,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,31
+63603728,2025-01-02 22:15:23,2025-03-27 15:25:50,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Online,83
+63604670,2025-01-02 14:47:43,2025-01-03 10:04:57,TLC,Lost Property,Electronics/Phones,Manhattan,10013.0,Closed,Online,0
+63604719,2025-01-02 16:44:24,2025-03-06 07:53:02,TLC,Taxi Complaint,Driver Complaint - Passenger,Brooklyn,11211.0,Closed,Phone,62
+63604830,2025-01-02 14:30:02,2025-01-02 14:31:16,TLC,Lost Property,Electronics/Phones,Manhattan,10001.0,Closed,Unknown,0
+63604831,2025-01-02 08:12:42,2025-01-02 09:07:46,TLC,Lost Property,Electronics/Phones,Manhattan,10018.0,Closed,Unknown,0
+63605050,2025-01-02 09:35:08,2025-01-02 09:40:32,TLC,Lost Property,Bag/Wallet,Manhattan,10036.0,Closed,Unknown,0
+63605215,2025-01-02 08:25:06,2025-01-02 12:50:40,TLC,Lost Property,Other,Manhattan,10019.0,Closed,Unknown,0
+63605365,2025-01-02 17:22:33,2025-03-27 15:28:25,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10036.0,Closed,Mobile,83
+63605518,2025-01-02 22:22:21,2025-02-03 13:47:52,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,31
+63605521,2025-01-02 15:27:15,2025-04-09 07:40:29,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,96
+63605523,2025-01-02 12:09:13,2025-03-28 07:02:20,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,84
+63605525,2025-01-02 22:19:40,2025-03-27 15:24:05,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Online,83
+63605599,2025-01-02 14:05:55,2025-02-27 10:53:12,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,55
+63605639,2025-01-02 15:35:08,2025-02-03 13:40:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11215.0,Closed,Online,31
+63605658,2025-01-02 19:01:48,2025-03-21 10:38:01,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10121.0,Closed,Online,77
+63605700,2025-01-02 20:49:11,2025-05-09 16:17:29,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,126
+63605919,2025-01-02 17:57:26,2025-01-03 15:17:04,TLC,Lost Property,Other,Manhattan,10021.0,Closed,Online,0
+63606629,2025-01-02 14:59:45,2025-01-03 14:46:22,TLC,Lost Property,Clothing/Glasses,Manhattan,10019.0,Closed,Unknown,0
+63606914,2025-01-02 08:37:38,2025-04-22 14:34:11,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10022.0,Closed,Online,110
+63607012,2025-01-02 09:25:40,2025-01-02 12:54:55,TLC,Lost Property,Bag/Wallet,Manhattan,10019.0,Closed,Unknown,0
+63607231,2025-01-02 15:08:29,2025-01-03 10:25:09,TLC,Lost Property,Bag/Wallet,Manhattan,10001.0,Closed,Unknown,0
+63607286,2025-01-03 00:30:24,2025-06-03 13:11:41,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10461.0,Closed,Mobile,151
+63607470,2025-01-02 14:04:52,2025-03-28 07:01:48,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10014.0,Closed,Online,84
+63607491,2025-01-02 14:07:46,2025-03-26 14:50:07,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,83
+63607539,2025-01-02 15:11:57,2025-07-21 08:32:17,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,199
+63607540,2025-01-02 22:16:45,2025-03-27 15:25:12,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,83
+63607543,2025-01-02 12:14:57,2025-06-17 12:02:30,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,165
+63607631,2025-01-02 14:12:26,2025-02-18 13:55:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10031.0,Closed,Online,46
+63608420,2025-01-02 17:22:56,2025-03-11 08:31:49,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Queens,11369.0,Closed,Phone,67
+63608516,2025-01-02 18:26:02,2025-04-16 11:17:00,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Queens,11378.0,Closed,Online,103
+63608842,2025-01-02 22:10:10,2025-03-27 15:27:52,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,83
+63609169,2025-01-02 12:11:37,2025-02-20 08:59:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,48
+63609170,2025-01-02 14:18:57,2025-04-09 07:41:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,96
+63609303,2025-01-02 18:02:06,2025-03-27 15:28:09,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10002.0,Closed,Mobile,83
+63609629,2025-01-02 22:12:33,2025-03-27 15:26:15,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Online,83
+63609630,2025-01-02 15:03:00,2025-03-27 15:28:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10027.0,Closed,Online,84
+63609640,2025-01-02 14:31:49,2025-05-20 19:06:02,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,138
+63610558,2025-01-03 19:36:51,2025-06-18 11:21:12,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10023.0,Closed,Mobile,165
+63610702,2025-01-03 22:37:22,2025-03-21 11:15:32,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11370.0,Closed,Online,76
+63610740,2025-01-03 23:22:08,2025-01-06 12:53:42,TLC,Lost Property,Bag/Wallet,Manhattan,10012.0,Closed,Phone,2
+63610756,2025-01-03 15:16:48,2025-03-21 10:56:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11106.0,Closed,Mobile,76
+63610757,2025-01-03 16:40:32,2025-03-21 11:03:13,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11434.0,Closed,Phone,76
+63610780,2025-01-03 11:05:48,2025-02-18 10:57:18,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,45
+63610787,2025-01-03 18:13:35,2025-01-06 15:41:04,TLC,Lost Property,Bag/Wallet,Queens,11375.0,Closed,Phone,2
+63610903,2025-01-03 15:40:28,2025-03-21 10:58:29,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10029.0,Closed,Phone,76
+63610937,2025-01-03 13:38:10,2025-01-24 10:29:12,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11231.0,Closed,Online,20
+63610963,2025-01-03 18:11:44,2025-03-27 15:17:27,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,82
+63610964,2025-01-03 17:03:46,2025-03-27 15:22:58,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,82
+63610965,2025-01-03 08:57:57,2025-03-27 15:23:45,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10456.0,Closed,Online,83
+63610970,2025-01-03 17:06:33,2025-02-03 13:54:15,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,30
+63611912,2025-01-03 13:14:47,2025-01-03 13:26:45,TLC,Lost Property,Bag/Wallet,Queens,11430.0,Closed,Unknown,0
+63612173,2025-01-03 08:40:36,2025-01-06 09:26:15,TLC,Lost Property,Bag/Wallet,Manhattan,10022.0,Closed,Unknown,3
+63612328,2025-01-03 10:10:00,2025-03-21 10:47:50,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10001.0,Closed,Online,77
+63612329,2025-01-03 16:43:02,2025-03-21 11:06:21,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Phone,76
+63612435,2025-01-03 19:56:33,2025-03-21 11:12:57,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Phone,76
+63612436,2025-01-03 16:06:44,2025-01-06 12:34:22,TLC,Lost Property,Clothing/Glasses,Manhattan,10028.0,Closed,Online,2
+63612506,2025-01-03 17:10:07,2025-02-03 13:55:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,30
+63612532,2025-01-03 17:25:47,2025-03-27 15:20:07,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,82
+63612533,2025-01-03 14:24:05,2025-06-03 13:17:18,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10037.0,Closed,Online,150
+63612626,2025-01-03 16:59:35,2025-03-27 15:23:29,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,82
+63612667,2025-01-03 17:20:51,2025-03-27 15:20:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,82
+63613693,2025-01-03 19:48:24,2025-08-11 17:20:58,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Mobile,219
+63613711,2025-01-03 18:18:19,2025-03-06 07:59:09,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,61
+63613856,2025-01-03 10:12:26,2025-01-06 15:17:07,TLC,Lost Property,Bag/Wallet,Manhattan,10001.0,Closed,Unknown,3
+63614050,2025-01-03 17:29:00,2025-03-06 07:57:31,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10075.0,Closed,Online,61
+63614051,2025-01-03 17:27:39,2025-04-09 07:39:54,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,95
+63614082,2025-01-03 12:36:57,2025-05-07 12:20:50,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11420.0,Closed,Phone,123
+63614182,2025-01-03 13:39:37,2025-06-20 09:03:31,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,167
+63614202,2025-01-03 17:15:35,2025-03-27 15:21:16,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,82
+63614209,2025-01-03 17:33:16,2025-03-04 09:43:07,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10026.0,Closed,Online,59
+63614231,2025-01-03 17:24:32,2025-02-19 12:01:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,46
+63614232,2025-01-03 18:14:44,2025-03-27 15:17:07,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11215.0,Closed,Online,82
+63614977,2025-01-03 05:07:20,2025-01-03 11:14:33,TLC,Lost Property,Electronics/Phones,Queens,11430.0,Closed,Phone,0
+63615119,2025-01-03 11:57:35,2025-03-07 09:26:39,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,62
+63615221,2025-01-03 22:03:15,2025-08-04 07:43:02,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Brooklyn,11206.0,Closed,Phone,212
+63615222,2025-01-03 19:54:41,2025-03-21 11:10:19,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11102.0,Closed,Mobile,76
+63615240,2025-01-03 14:56:50,2025-01-06 11:33:31,TLC,Lost Property,Bag/Wallet,Manhattan,10128.0,Closed,Online,2
+63615297,2025-01-03 18:54:13,2025-06-03 13:19:14,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Bronx,10468.0,Closed,Phone,150
+63615396,2025-01-03 18:56:01,2025-03-20 10:32:34,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10021.0,Closed,Phone,75
+63615596,2025-01-03 17:30:26,2025-03-27 15:19:50,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10028.0,Closed,Online,82
+63615597,2025-01-03 17:10:49,2025-03-27 15:21:33,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,82
+63615611,2025-01-03 17:09:20,2025-03-27 15:21:51,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,82
+63615663,2025-01-03 17:31:49,2025-08-25 10:48:59,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,233
+63615683,2025-01-03 13:21:18,2025-04-09 11:02:09,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Phone,95
+63615775,2025-01-03 17:07:18,2025-03-27 15:22:06,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,82
+63615808,2025-01-03 18:05:08,2025-03-27 15:18:45,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10029.0,Closed,Online,82
+63616470,2025-01-03 02:50:52,2025-01-03 11:18:05,TLC,Lost Property,Electronics/Phones,Queens,11369.0,Closed,Phone,0
+63616803,2025-01-03 09:56:21,2025-03-21 10:45:48,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Bronx,10452.0,Closed,Online,77
+63616831,2025-01-04 00:46:15,2025-04-17 14:36:15,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Bronx,10469.0,Closed,Online,103
+63616849,2025-01-03 17:53:01,2025-03-21 11:08:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10013.0,Closed,Online,76
+63616893,2025-01-03 11:46:32,2025-03-21 10:49:41,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10036.0,Closed,Phone,76
+63616949,2025-01-03 14:10:53,2025-02-06 07:45:11,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Bronx,10467.0,Closed,Phone,33
+63617188,2025-01-03 17:22:45,2025-02-03 14:05:10,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,30
+63617189,2025-01-03 17:07:58,2025-02-18 13:54:16,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,45
+63617214,2025-01-03 20:59:43,2025-03-27 15:16:49,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11238.0,Closed,Online,82
+63617215,2025-01-03 17:36:43,2025-03-04 09:44:57,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10034.0,Closed,Online,59
+63617230,2025-01-03 17:21:33,2025-03-27 15:20:23,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10028.0,Closed,Online,82
+63617231,2025-01-03 16:58:55,2025-02-03 13:49:52,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,30
+63617273,2025-01-03 16:58:10,2025-03-04 09:41:45,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,59
+63618243,2025-01-03 20:42:46,2025-05-09 16:17:09,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,125
+63618312,2025-01-03 22:12:45,2025-04-10 10:24:04,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,96
+63618354,2025-01-03 10:02:03,2025-04-14 11:03:47,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,101
+63618377,2025-01-03 23:48:22,2025-06-09 11:50:00,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,156
+63618400,2025-01-03 12:51:10,2025-03-28 09:04:24,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10019.0,Closed,Online,83
+63618516,2025-01-03 11:52:21,2025-11-14 11:48:55,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10004.0,Closed,Phone,314
+63618802,2025-01-03 17:04:28,2025-03-27 15:22:37,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,82
+63618895,2025-01-03 17:34:03,2025-03-27 15:19:33,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10026.0,Closed,Online,82
+63618912,2025-01-03 18:01:00,2025-03-14 10:35:40,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10019.0,Closed,Online,69
+63618913,2025-01-03 17:12:44,2025-03-11 08:33:38,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,66
+63618914,2025-01-03 20:57:42,2025-04-23 14:12:14,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11238.0,Closed,Online,109
+63619354,2025-01-03 13:06:20,2025-01-06 15:23:46,TLC,Lost Property,Clothing/Glasses,Manhattan,10019.0,Closed,Unknown,3
+63619550,2025-01-03 15:12:51,2025-01-03 15:21:22,TLC,Lost Property,Bag/Wallet,Manhattan,10018.0,Closed,Unknown,0
+63619905,2025-01-03 19:25:01,2025-01-06 13:03:08,TLC,Lost Property,Bag/Wallet,Queens,11430.0,Closed,Phone,2
+63619909,2025-01-03 14:55:56,2025-03-11 09:54:12,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10023.0,Closed,Phone,66
+63620009,2025-01-03 17:30:53,2025-01-06 15:26:36,TLC,Lost Property,Electronics/Phones,Manhattan,10028.0,Closed,Phone,2
+63620263,2025-01-03 17:05:09,2025-03-27 15:22:22,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,82
+63620350,2025-01-03 17:02:19,2025-02-03 13:51:44,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,30
+63620351,2025-01-03 17:19:27,2025-02-03 14:03:23,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10027.0,Closed,Online,30
+63620359,2025-01-03 17:37:24,2025-03-27 15:19:01,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10034.0,Closed,Online,82
+63620384,2025-01-03 22:11:06,2025-04-09 07:39:36,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11238.0,Closed,Online,95
+63620385,2025-01-03 11:03:45,2025-02-27 11:03:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11106.0,Closed,Online,54
+63620863,2025-01-03 09:09:59,2025-01-03 09:14:36,TLC,Lost Property,Other,Manhattan,10028.0,Closed,Unknown,0
+63621055,2025-01-03 10:30:24,2025-01-03 15:53:08,TLC,Lost Property,Electronics/Phones,Queens,11369.0,Closed,Unknown,0
+63621366,2025-01-03 11:45:55,2025-03-07 10:28:26,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11222.0,Closed,Mobile,62
+63621495,2025-01-03 15:57:36,2025-03-21 11:00:18,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10022.0,Closed,Online,76
+63621529,2025-01-03 21:54:53,2025-01-06 15:47:48,TLC,Lost Property,Electronics/Phones,Manhattan,10035.0,Closed,Phone,2
+63621759,2025-01-03 08:52:07,2025-03-21 10:43:06,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Bronx,10455.0,Closed,Phone,77
+63621777,2025-01-03 17:16:23,2025-03-27 15:21:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10030.0,Closed,Online,82
+63621778,2025-01-03 17:00:58,2025-03-27 15:23:13,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,82
+63621790,2025-01-03 17:18:15,2025-02-03 13:57:37,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10027.0,Closed,Online,30
+63621791,2025-01-03 17:28:20,2025-06-06 14:30:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10017.0,Closed,Online,153
+63621941,2025-01-03 17:35:57,2025-03-27 15:19:17,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10027.0,Closed,Online,82
+63621973,2025-01-03 19:02:54,2025-01-10 09:15:43,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10017.0,Closed,Online,6
+63622902,2025-01-04 15:02:33,2025-03-17 14:13:36,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,71
+63622903,2025-01-04 19:22:16,2025-03-06 08:24:43,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,60
+63622914,2025-01-04 11:01:53,2025-03-27 15:16:29,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,82
+63622925,2025-01-04 15:14:29,2025-03-04 09:48:01,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10031.0,Closed,Online,58
+63622952,2025-01-04 23:15:44,2025-03-21 11:37:46,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11371.0,Closed,Online,75
+63622957,2025-01-04 13:08:46,2025-03-10 08:20:17,TLC,Taxi Complaint,Vehicle Complaint,Manhattan,10065.0,Closed,Phone,64
+63622958,2025-01-04 12:25:17,2025-03-21 11:19:35,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,75
+63622959,2025-01-04 13:27:30,2025-03-21 11:22:00,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Phone,75
+63622963,2025-01-04 14:13:20,2025-02-06 07:47:03,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10036.0,Closed,Phone,32
+63622974,2025-01-04 07:45:23,2025-01-15 10:08:35,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Phone,11
+63623461,2025-01-04 17:17:13,2025-03-21 11:33:34,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10001.0,Closed,Online,75
+63623566,2025-01-05 00:32:19,2025-02-06 07:50:57,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10021.0,Closed,Phone,32
+63624361,2025-01-04 15:29:36,2025-05-08 11:08:15,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,123
+63624398,2025-01-04 08:28:27,2025-01-30 08:01:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11208.0,Closed,Online,25
+63624516,2025-01-04 15:17:14,2025-03-21 11:26:20,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11369.0,Closed,Mobile,75
+63625767,2025-01-04 21:03:05,2025-06-16 18:39:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10013.0,Closed,Online,162
+63625774,2025-01-04 14:06:53,2025-07-14 17:17:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11101.0,Closed,Online,191
+63625849,2025-01-04 20:07:19,2025-02-06 07:48:52,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Manhattan,10282.0,Closed,Phone,32
+63626020,2025-01-04 22:10:46,2025-03-04 09:49:33,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Mobile,58
+63626207,2025-01-04 22:28:40,2025-01-07 11:12:36,TLC,Lost Property,Clothing/Glasses,Manhattan,10003.0,Closed,Phone,2
+63626250,2025-01-04 14:39:33,2025-01-06 09:38:54,TLC,Lost Property,Clothing/Glasses,Manhattan,10001.0,Closed,Phone,1
+63626251,2025-01-05 00:47:04,2025-01-06 11:02:09,TLC,Lost Property,Bag/Wallet,Manhattan,10002.0,Closed,Phone,1
+63627305,2025-01-04 18:56:52,2025-03-27 15:14:07,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10009.0,Closed,Online,81
+63627346,2025-01-04 21:03:48,2025-05-23 09:13:41,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10013.0,Closed,Online,138
+63627350,2025-01-04 14:59:10,2025-03-04 09:46:24,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,58
+63627351,2025-01-04 02:00:28,2025-04-10 10:19:48,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10013.0,Closed,Online,96
+63627352,2025-01-04 19:39:29,2025-04-10 08:55:08,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Online,95
+63627353,2025-01-04 19:38:46,2025-06-18 11:23:52,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,164
+63627374,2025-01-04 10:52:27,2025-01-06 09:35:50,TLC,Lost Property,Electronics/Phones,Manhattan,10003.0,Closed,Online,1
+63627385,2025-01-04 22:25:17,2025-01-07 10:53:18,TLC,Lost Property,Jewelry,Manhattan,10016.0,Closed,Online,2
+63627400,2025-01-04 11:49:29,2025-04-04 08:32:20,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Mobile,89
+63627416,2025-01-04 06:41:54,2025-06-17 10:27:37,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,164
+63627422,2025-01-04 12:47:05,2025-01-06 11:44:44,TLC,Lost Property,Bag/Wallet,Manhattan,10003.0,Closed,Phone,1
+63627445,2025-01-04 21:36:27,2025-01-07 10:50:12,TLC,Lost Property,Bag/Wallet,Manhattan,10036.0,Closed,Phone,2
+63628068,2025-01-04 07:26:17,2025-03-21 11:17:25,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Mobile,76
+63628906,2025-01-04 15:07:53,2025-03-27 15:15:49,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10030.0,Closed,Online,82
+63628963,2025-01-04 15:08:41,2025-04-09 07:39:17,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10027.0,Closed,Online,94
+63629071,2025-01-04 15:26:04,2025-02-28 14:46:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11370.0,Closed,Online,54
+63629278,2025-01-04 17:50:37,2025-01-06 09:58:14,TLC,Lost Property,Bag/Wallet,Queens,11369.0,Closed,Phone,1
+63629279,2025-01-05 01:45:09,2025-01-07 11:39:56,TLC,Lost Property,Bag/Wallet,Manhattan,10003.0,Closed,Online,2
+63630378,2025-01-04 15:10:46,2025-03-27 15:15:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,82
+63630461,2025-01-04 14:12:48,2025-09-24 11:06:57,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Online,262
+63630533,2025-01-04 20:42:01,2025-01-07 10:47:38,TLC,Lost Property,Bag/Wallet,Manhattan,10012.0,Closed,Online,2
+63630871,2025-01-04 16:01:09,2025-03-21 11:30:24,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Phone,75
+63631177,2025-01-04 18:56:57,2025-01-06 16:04:29,TLC,Lost Property,Other,Manhattan,10011.0,Closed,Phone,1
+63631252,2025-01-04 21:17:26,2025-06-12 07:22:12,TLC,Green Taxi Complaint,Driver Complaint - Passenger,Bronx,10458.0,Closed,Phone,158
+63631955,2025-01-04 18:31:24,2025-03-21 11:35:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,75
+63631956,2025-01-04 14:05:06,2025-03-06 08:13:57,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10018.0,Closed,Online,60
+63631957,2025-01-04 19:25:35,2025-03-27 15:13:46,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,81
+63631964,2025-01-04 08:13:05,2025-04-23 14:13:45,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Online,109
+63632010,2025-01-04 19:26:52,2025-04-16 11:16:46,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,101
+63632036,2025-01-04 15:10:03,2025-03-05 10:53:33,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10027.0,Closed,Online,59
+63632078,2025-01-04 15:11:15,2025-02-03 14:06:52,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11377.0,Closed,Phone,29
+63632259,2025-01-04 16:01:21,2025-01-06 09:40:24,TLC,Lost Property,Electronics/Phones,Manhattan,10023.0,Closed,Phone,1
+63632404,2025-01-04 15:20:12,2025-03-21 11:28:46,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10023.0,Closed,Mobile,75
+63632749,2025-01-05 01:11:19,2025-02-18 13:54:01,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10021.0,Closed,Mobile,44
+63632754,2025-01-04 21:12:57,2025-01-06 09:54:32,TLC,Lost Property,Clothing/Glasses,Queens,11369.0,Closed,Phone,1
+63633484,2025-01-04 14:11:46,2025-01-16 07:53:08,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,11
+63633526,2025-01-04 15:03:54,2025-03-27 15:16:08,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10034.0,Closed,Online,82
+63633577,2025-01-04 17:08:39,2025-01-06 11:37:50,TLC,Lost Property,Bag/Wallet,Manhattan,10019.0,Closed,Phone,1
+63633658,2025-01-04 12:19:46,2025-01-06 11:11:09,TLC,Lost Property,Bag/Wallet,Manhattan,10017.0,Closed,Phone,1
+63633851,2025-01-04 13:58:22,2025-02-20 09:08:58,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10028.0,Closed,Mobile,46
+63633990,2025-01-04 08:56:17,2025-04-29 09:37:56,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10003.0,Closed,Mobile,115
+63634153,2025-01-04 17:17:31,2025-03-17 14:15:22,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10019.0,Closed,Phone,71
+63634924,2025-01-05 18:53:08,2025-02-18 08:31:37,TLC,Taxi Complaint,Vehicle Complaint,Manhattan,10022.0,Closed,Online,43
+63635060,2025-01-05 14:26:25,2025-01-06 11:21:45,TLC,Lost Property,Clothing/Glasses,Manhattan,10023.0,Closed,Phone,0
+63635127,2025-01-05 16:07:41,2025-03-04 09:59:05,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10029.0,Closed,Online,57
+63635128,2025-01-05 15:45:14,2025-03-24 14:57:15,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10025.0,Closed,Online,77
+63635129,2025-01-05 13:08:27,2025-03-27 15:12:21,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,81
+63635130,2025-01-05 14:51:48,2025-01-30 08:20:10,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11235.0,Closed,Online,24
+63635135,2025-01-05 07:58:23,2025-03-27 15:13:21,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,81
+63635139,2025-01-05 12:03:13,2025-03-27 15:13:03,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11373.0,Closed,Online,81
+63635147,2025-01-05 15:47:55,2025-04-09 07:38:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,93
+63635343,2025-01-05 10:54:52,2025-11-07 11:32:53,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,306
+63635403,2025-01-05 06:37:02,2025-02-05 07:29:31,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10016.0,Closed,Online,31
+63635406,2025-01-05 01:58:53,2025-03-21 11:39:39,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,75
+63636502,2025-01-05 13:30:04,2025-01-30 07:40:47,TLC,For Hire Vehicle Complaint,Driver Report - Non Passenger,Queens,11430.0,Closed,Online,24
+63636515,2025-01-05 20:41:10,2025-01-07 14:53:09,TLC,Lost Property,Bag/Wallet,Manhattan,10023.0,Closed,Phone,1
+63636525,2025-01-05 14:48:43,2025-04-02 15:04:09,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Phone,87
+63636571,2025-01-05 07:51:55,2025-01-07 12:13:52,TLC,Lost Property,Electronics/Phones,Manhattan,10009.0,Closed,Phone,2
+63636572,2025-01-05 19:36:15,2025-01-07 13:21:25,TLC,Lost Property,Electronics/Phones,Manhattan,10065.0,Closed,Phone,1
+63636616,2025-01-05 12:21:37,2025-05-20 19:07:56,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Online,135
+63636628,2025-01-05 14:07:59,2025-01-19 10:05:34,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Queens,11430.0,Closed,Phone,13
+63636691,2025-01-05 16:12:21,2025-03-04 10:00:36,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,57
+63638108,2025-01-05 20:20:03,2025-01-07 14:45:19,TLC,Lost Property,Other,Manhattan,10004.0,Closed,Phone,1
+63638129,2025-01-05 03:02:26,2025-04-08 10:59:17,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Queens,11106.0,Closed,Online,93
+63638205,2025-01-05 14:14:49,2025-04-16 11:16:29,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,100
+63638279,2025-01-05 15:58:26,2025-03-04 09:57:37,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10021.0,Closed,Online,57
+63638280,2025-01-05 12:05:50,2025-03-04 09:52:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11106.0,Closed,Online,57
+63638354,2025-01-05 15:45:57,2025-03-27 15:04:16,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,80
+63638355,2025-01-05 13:39:24,2025-03-27 15:11:46,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10019.0,Closed,Online,81
+63638388,2025-01-05 16:04:20,2025-06-06 14:34:04,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10029.0,Closed,Online,151
+63638389,2025-01-05 15:47:16,2025-02-03 14:08:36,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,28
+63639348,2025-01-05 07:27:33,2025-03-21 11:41:29,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11422.0,Closed,Online,75
+63639462,2025-01-05 16:57:15,2025-01-07 10:43:27,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11420.0,Closed,Phone,1
+63639639,2025-01-05 16:07:36,2025-03-21 11:48:43,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11232.0,Closed,Online,74
+63639805,2025-01-05 15:27:10,2025-03-27 15:05:05,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,80
+63639816,2025-01-05 08:19:11,2025-06-03 13:21:12,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,149
+63639823,2025-01-05 15:05:20,2025-03-04 09:54:30,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10029.0,Closed,Online,57
+63639940,2025-01-05 10:04:50,2025-05-09 07:46:49,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,123
+63639972,2025-01-05 15:48:35,2025-03-27 15:03:41,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,80
+63640882,2025-01-05 21:36:00,2025-01-07 15:39:38,TLC,Lost Property,Clothing/Glasses,Manhattan,10036.0,Closed,Phone,1
+63641343,2025-01-05 15:27:50,2025-03-27 15:04:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,80
+63641474,2025-01-05 08:01:19,2025-03-04 09:51:11,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Online,58
+63642887,2025-01-05 15:07:12,2025-03-31 09:18:43,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10029.0,Closed,Online,84
+63642888,2025-01-05 15:32:53,2025-03-04 09:56:08,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,57
+63642933,2025-01-05 18:35:35,2025-01-07 13:18:14,TLC,Lost Property,Bag/Wallet,Manhattan,10011.0,Closed,Phone,1
+63643013,2025-01-05 05:35:28,2025-05-05 08:32:54,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Queens,11430.0,Closed,Phone,120
+63644124,2025-01-05 16:59:35,2025-04-10 10:19:16,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10028.0,Closed,Online,94
+63644353,2025-01-05 22:43:44,2025-03-21 09:55:27,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10470.0,Closed,Mobile,74
+63644575,2025-01-05 02:53:46,2025-01-07 12:01:37,TLC,Lost Property,Other,Manhattan,10014.0,Closed,Phone,2
+63644621,2025-01-05 15:46:37,2025-03-27 15:04:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,80
+63644636,2025-01-05 12:02:31,2025-04-09 07:39:02,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11427.0,Closed,Online,93
+63644665,2025-01-05 15:51:30,2025-03-27 15:03:25,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10017.0,Closed,Online,80
+63645498,2025-01-05 11:20:13,2025-03-21 11:45:13,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,75
+63645627,2025-01-05 17:40:14,2025-10-08 07:48:38,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10023.0,Closed,Online,275
+63645703,2025-01-05 11:56:58,2025-01-06 11:11:44,TLC,Lost Property,Clothing/Glasses,Manhattan,10002.0,Closed,Phone,0
+63645969,2025-01-05 18:47:37,2025-03-21 11:50:44,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Phone,74
+63646015,2025-01-05 12:05:06,2025-03-27 15:12:47,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11432.0,Closed,Online,81
+63646032,2025-01-05 14:11:02,2025-03-21 13:23:25,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,74
+63646092,2025-01-05 20:04:42,2025-03-27 15:03:09,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,80
+63646122,2025-01-05 14:24:45,2025-01-07 12:57:43,TLC,Lost Property,Bag/Wallet,Manhattan,10022.0,Closed,Phone,1
+63646281,2025-01-05 15:34:06,2025-04-09 07:38:46,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,93
+63647396,2025-01-05 22:10:56,2025-01-06 11:34:12,TLC,Lost Property,Jewelry,Queens,11430.0,Closed,Phone,0
+63647467,2025-01-06 16:06:56,2025-01-06 16:07:59,TLC,Lost Property,Other,Manhattan,10001.0,Closed,Unknown,0
+63647529,2025-01-06 23:00:31,2025-03-06 08:26:19,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Online,58
+63647534,2025-01-06 12:51:53,2025-05-02 08:38:32,TLC,Green Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10014.0,Closed,Phone,115
+63647560,2025-01-06 14:55:31,2025-01-07 10:31:48,TLC,Lost Property,Clothing/Glasses,Manhattan,10036.0,Closed,Unknown,0
+63647765,2025-01-06 09:03:13,2025-04-09 07:38:14,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10026.0,Closed,Online,92
+63647769,2025-01-06 23:35:42,2025-01-08 15:30:37,TLC,Lost Property,Electronics/Phones,Queens,11430.0,Closed,Phone,1
+63647774,2025-01-06 10:24:25,2025-03-04 10:02:28,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,56
+63647775,2025-01-06 18:24:13,2025-02-07 07:50:26,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10475.0,Closed,Phone,31
+63647896,2025-01-06 11:03:06,2025-01-06 11:17:21,TLC,Lost Property,Bag/Wallet,Manhattan,10012.0,Closed,Unknown,0
+63649458,2025-01-06 13:25:52,2025-01-07 10:25:35,TLC,Lost Property,Other,Queens,11430.0,Closed,Unknown,0
+63649467,2025-01-06 15:01:18,2025-01-08 15:27:35,TLC,Lost Property,Other,Manhattan,10024.0,Closed,Unknown,2
+63649524,2025-01-06 09:06:52,2025-01-07 09:46:25,TLC,Lost Property,Bag/Wallet,Manhattan,10002.0,Closed,Unknown,1
+63649525,2025-01-06 23:07:58,2025-01-07 08:29:42,TLC,Lost Property,Bag/Wallet,Queens,11430.0,Closed,Phone,0
+63649534,2025-01-06 09:33:41,2025-02-07 07:46:20,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10028.0,Closed,Mobile,31
+63649537,2025-01-06 14:16:11,2025-04-09 07:37:22,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10007.0,Closed,Mobile,92
+63649581,2025-01-06 20:31:51,2025-03-21 13:27:18,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10017.0,Closed,Mobile,73
+63649582,2025-01-06 06:18:12,2025-03-21 09:58:58,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,74
+63649601,2025-01-06 19:47:56,2025-01-07 09:28:32,TLC,Lost Property,Clothing/Glasses,Manhattan,10036.0,Closed,Phone,0
+63649648,2025-01-06 16:24:40,2025-03-27 15:01:39,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,79
+63649649,2025-01-06 18:42:21,2025-03-27 15:00:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11372.0,Closed,Online,79
+63649668,2025-01-06 08:06:09,2025-05-09 07:46:24,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10019.0,Closed,Online,122
+63649669,2025-01-06 16:17:22,2025-03-27 15:01:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11211.0,Closed,Online,79
+63649981,2025-01-06 15:14:33,2025-01-06 15:27:51,TLC,Lost Property,Clothing/Glasses,Manhattan,10011.0,Closed,Unknown,0
+63651289,2025-01-06 18:27:59,2025-01-07 09:19:13,TLC,Lost Property,Clothing/Glasses,Manhattan,10012.0,Closed,Online,0
+63651642,2025-01-06 09:15:42,2025-03-27 15:02:50,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,80
+63652706,2025-01-06 22:08:12,2025-01-07 09:44:00,TLC,Lost Property,Other,Manhattan,10022.0,Closed,Online,0
+63653266,2025-01-06 16:29:55,2025-02-05 09:56:49,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10036.0,Closed,Online,29
+63653294,2025-01-06 09:04:37,2025-06-03 13:24:19,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Mobile,148
+63653352,2025-01-06 09:10:56,2025-02-18 11:00:52,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,43
+63653355,2025-01-06 17:10:38,2025-07-15 08:48:25,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,189
+63653362,2025-01-06 22:05:54,2025-03-21 10:16:09,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10023.0,Closed,Online,73
+63653433,2025-01-06 00:10:02,2025-03-21 09:57:05,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,74
+63653434,2025-01-06 19:11:54,2025-03-27 15:00:36,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10001.0,Closed,Mobile,79
+63653594,2025-01-06 16:26:07,2025-03-27 15:01:13,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10002.0,Closed,Online,79
+63655191,2025-01-06 22:56:26,2025-02-05 08:17:47,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10023.0,Closed,Phone,29
+63655246,2025-01-06 20:52:25,2025-03-21 10:13:56,TLC,Taxi Complaint,Vehicle Complaint,Queens,11430.0,Closed,Online,73
+63655309,2025-01-06 04:59:18,2025-06-05 08:02:27,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Online,150
+63655314,2025-01-06 14:46:28,2025-05-23 07:55:51,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,136
+63655382,2025-01-06 18:39:32,2025-03-04 08:58:14,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11372.0,Closed,Online,56
+63655405,2025-01-06 10:28:15,2025-04-09 07:37:58,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,92
+63655472,2025-01-06 10:33:26,2025-04-09 07:37:40,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10009.0,Closed,Online,92
+63657049,2025-01-06 10:51:15,2025-01-07 09:53:51,TLC,Lost Property,Jewelry,Manhattan,10016.0,Closed,Mobile,0
+63657058,2025-01-06 13:59:58,2025-10-28 08:59:05,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Brooklyn,11215.0,Closed,Phone,294
+63657063,2025-01-06 12:04:41,2025-01-07 10:03:05,TLC,Lost Property,Bag/Wallet,Manhattan,10003.0,Closed,Unknown,0
+63657080,2025-01-06 09:01:10,2025-05-20 19:09:55,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10011.0,Closed,Mobile,134
+63657152,2025-01-06 14:24:50,2025-03-21 10:02:46,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Online,73
+63657168,2025-01-06 17:52:19,2025-01-07 15:47:05,TLC,Lost Property,Electronics/Phones,Queens,11430.0,Closed,Phone,0
+63657279,2025-01-06 22:27:27,2025-03-21 10:18:03,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10001.0,Closed,Online,73
+63657307,2025-01-06 18:10:18,2025-01-07 08:42:57,TLC,Lost Property,Electronics/Phones,Manhattan,10018.0,Closed,Phone,0
+63657323,2025-01-06 15:41:48,2025-03-04 10:06:13,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11377.0,Closed,Phone,56
+63657348,2025-01-06 16:23:05,2025-05-30 06:52:41,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,143
+63657349,2025-01-06 10:22:21,2025-03-27 15:02:32,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,80
+63657517,2025-01-06 18:37:37,2025-06-16 18:39:16,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11372.0,Closed,Online,161
+63658494,2025-01-06 15:02:01,2025-03-21 10:06:09,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Online,73
+63658985,2025-01-06 12:18:54,2025-01-07 10:09:25,TLC,Lost Property,Electronics/Phones,Manhattan,10128.0,Closed,Unknown,0
+63659023,2025-01-06 18:31:30,2025-03-21 10:08:29,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10029.0,Closed,Phone,73
+63659116,2025-01-07 00:14:41,2025-01-07 13:29:54,TLC,Lost Property,Electronics/Phones,Manhattan,10017.0,Closed,Phone,0
+63659133,2025-01-06 11:24:36,2025-03-04 13:29:34,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10004.0,Closed,Mobile,57
+63659231,2025-01-06 10:21:31,2025-04-22 14:37:23,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,106
+63659255,2025-01-06 09:50:21,2025-01-06 09:57:09,TLC,Lost Property,Other,Manhattan,10003.0,Closed,Unknown,0
+63659276,2025-01-06 10:44:49,2025-01-06 10:58:50,TLC,Lost Property,Clothing/Glasses,Manhattan,10121.0,Closed,Unknown,0
+63659277,2025-01-06 08:39:12,2025-01-06 09:18:31,TLC,Lost Property,Clothing/Glasses,Manhattan,10065.0,Closed,Unknown,0
+63659296,2025-01-06 16:21:32,2025-03-04 08:54:16,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11249.0,Closed,Online,56
+63659297,2025-01-06 10:30:52,2025-03-27 15:02:13,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,80
+63660512,2025-01-05 23:57:22,2025-06-18 07:36:48,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10121.0,Closed,Online,163
+63660923,2025-01-07 01:35:17,2025-03-21 10:20:24,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,73
+63660945,2025-01-06 18:37:34,2025-03-21 10:11:56,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Manhattan,10032.0,Closed,Phone,73
+63660951,2025-01-06 12:20:22,2025-03-04 10:04:15,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10461.0,Closed,Mobile,56
+63660996,2025-01-06 18:29:27,2025-04-10 10:18:44,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10035.0,Closed,Online,93
+63661041,2025-01-06 03:46:05,2025-04-08 11:01:10,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,92
+63661045,2025-01-06 10:18:53,2025-01-06 11:06:19,TLC,Lost Property,Bag/Wallet,Manhattan,10028.0,Closed,Unknown,0
+63661063,2025-01-06 10:57:47,2025-05-14 13:39:39,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10012.0,Closed,Phone,128
+63661117,2025-01-06 12:14:13,2025-01-30 10:55:11,TLC,For Hire Vehicle Complaint,Equipment Complaint,Queens,11370.0,Closed,Phone,23
+63661186,2025-01-06 09:18:20,2025-04-16 11:16:14,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,100
+63662336,2025-01-06 14:49:52,2025-01-08 15:21:27,TLC,Lost Property,Electronics/Phones,Manhattan,10003.0,Closed,Unknown,2
+63663612,2025-01-07 18:43:12,2025-02-18 11:39:29,TLC,For Hire Vehicle Complaint,Car Service Company Complaint,Brooklyn,11219.0,Closed,Phone,41
+63663688,2025-01-07 09:30:03,2025-01-08 15:43:23,TLC,Lost Property,Bag/Wallet,Manhattan,10012.0,Closed,Unknown,1
+63663701,2025-01-07 20:57:06,2025-01-08 09:23:35,TLC,Lost Property,Electronics/Phones,Manhattan,10029.0,Closed,Phone,0
+63663704,2025-01-07 16:56:06,2025-01-08 14:52:16,TLC,Lost Property,Other,Manhattan,10036.0,Closed,Phone,0
+63664340,2025-01-07 19:58:20,2025-04-22 14:40:38,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Phone,104
+63664371,2025-01-07 19:52:35,2025-05-30 06:52:24,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Phone,142
+63664488,2025-01-07 10:42:45,2025-03-04 09:05:46,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11217.0,Closed,Online,55
+63664497,2025-01-07 09:56:36,2025-01-07 10:03:03,TLC,Lost Property,Bag/Wallet,Queens,11430.0,Closed,Unknown,0
+63664505,2025-01-07 15:53:42,2025-03-23 17:10:47,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Queens,11375.0,Closed,Online,75
+63664513,2025-01-07 11:21:34,2025-04-09 07:35:58,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Online,91
+63665931,2025-01-07 11:15:34,2025-01-27 07:26:16,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10065.0,Closed,Phone,19
+63666228,2025-01-07 12:34:41,2025-03-23 17:07:39,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10012.0,Closed,Phone,75
+63666436,2025-01-07 12:01:19,2025-03-27 14:59:41,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10009.0,Closed,Online,79
+63666438,2025-01-07 10:06:06,2025-03-04 09:03:59,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,55
+63666476,2025-01-07 09:34:10,2025-03-06 08:28:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,57
+63666500,2025-01-07 09:58:36,2025-03-27 14:59:58,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10021.0,Closed,Online,79
+63667832,2025-01-07 19:51:07,2025-01-08 09:37:54,TLC,Lost Property,Electronics/Phones,Manhattan,10019.0,Closed,Online,0
+63668024,2025-01-07 18:39:40,2025-04-15 15:08:43,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Brooklyn,11218.0,Closed,Phone,97
+63668031,2025-01-07 10:16:51,2025-01-08 14:49:53,TLC,Lost Property,Bag/Wallet,Manhattan,10028.0,Closed,Unknown,1
+63668243,2025-01-07 18:06:22,2025-03-23 17:14:17,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Online,74
+63668244,2025-01-07 20:08:50,2025-03-27 14:58:22,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Phone,78
+63668245,2025-01-07 10:16:39,2025-03-21 10:25:01,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11369.0,Closed,Phone,73
+63668258,2025-01-07 19:20:22,2025-04-03 11:38:38,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10128.0,Closed,Mobile,85
+63668330,2025-01-07 14:55:17,2025-03-31 12:36:09,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11215.0,Closed,Online,82
+63668381,2025-01-07 17:56:11,2025-03-03 09:48:25,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11234.0,Closed,Phone,54
+63668504,2025-01-07 10:46:43,2025-01-07 11:11:04,TLC,Lost Property,Bag/Wallet,Manhattan,10075.0,Closed,Unknown,0
+63670100,2025-01-07 18:16:30,2025-03-03 09:51:30,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10451.0,Closed,Online,54
+63670101,2025-01-07 10:00:42,2025-02-10 13:39:25,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10017.0,Closed,Online,34
+63670103,2025-01-07 17:42:41,2025-02-19 12:03:33,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10023.0,Closed,Online,42
+63670178,2025-01-07 18:12:37,2025-04-09 07:35:42,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10026.0,Closed,Online,91
+63670182,2025-01-07 19:02:04,2025-03-31 12:39:23,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Online,82
+63671807,2025-01-07 16:52:04,2025-03-23 17:12:35,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Phone,75
+63671925,2025-01-07 19:02:48,2025-03-23 17:18:06,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10022.0,Closed,Phone,74
+63671926,2025-01-07 20:34:16,2025-06-11 07:19:09,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10065.0,Closed,Online,154
+63671942,2025-01-07 15:44:01,2025-03-03 09:42:44,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,54
+63672015,2025-01-07 15:18:20,2025-03-23 17:09:12,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Queens,11430.0,Closed,Online,75
+63672178,2025-01-07 12:03:36,2025-01-12 15:16:27,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10009.0,Closed,Online,5
+63672191,2025-01-07 08:52:39,2025-01-07 09:01:44,TLC,Lost Property,Bag/Wallet,Manhattan,10128.0,Closed,Unknown,0
+63673346,2025-01-07 07:23:06,2025-03-21 10:22:30,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,73
+63673391,2025-01-07 20:15:56,2025-03-07 10:35:55,TLC,For Hire Vehicle Complaint,Driver Complaint - Passenger,Brooklyn,11201.0,Closed,Online,58
+63673459,2025-01-07 12:18:23,2025-04-07 09:05:17,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10017.0,Closed,Online,89
+63673728,2025-01-07 08:54:35,2025-03-27 15:00:17,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10003.0,Closed,Online,79
+63673807,2025-01-07 08:31:23,2025-03-04 09:00:01,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11209.0,Closed,Mobile,56
+63674007,2025-01-07 10:03:38,2025-03-04 09:02:03,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10016.0,Closed,Online,55
+63674014,2025-01-07 15:02:33,2025-02-19 10:25:57,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10001.0,Closed,Online,42
+63674249,2025-01-07 13:59:27,2025-01-07 14:06:25,TLC,Lost Property,Other,Manhattan,10014.0,Closed,Unknown,0
+63675319,2025-01-07 16:18:19,2025-05-20 19:11:33,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10001.0,Closed,Phone,133
+63675352,2025-01-07 08:35:28,2025-01-24 15:31:43,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11209.0,Closed,Mobile,17
+63675386,2025-01-07 14:06:57,2025-03-31 12:37:49,TLC,Taxi Complaint,Driver Complaint - Passenger,Manhattan,10001.0,Closed,Online,82
+63675387,2025-01-07 23:32:43,2025-03-23 17:20:03,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,74
+63675532,2025-01-07 16:54:51,2025-01-08 09:43:19,TLC,Lost Property,Bag/Wallet,Manhattan,10010.0,Closed,Phone,0
+63675661,2025-01-07 17:37:03,2025-03-27 14:59:04,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10021.0,Closed,Online,78
+63675806,2025-01-07 14:59:22,2025-01-08 15:12:06,TLC,Lost Property,Bag/Wallet,Manhattan,10022.0,Closed,Unknown,1
+63675904,2025-01-07 20:04:34,2025-03-27 14:58:48,TLC,Taxi Complaint,Driver Complaint - Non Passenger,Manhattan,10017.0,Closed,Phone,78
+63675985,2025-01-07 11:24:48,2025-03-03 08:46:00,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11238.0,Closed,Online,54
+63676009,2025-01-07 14:42:47,2025-01-07 14:51:10,TLC,Lost Property,Bag/Wallet,Manhattan,10024.0,Closed,Unknown,0
+63677229,2025-01-07 15:23:28,2025-01-08 14:59:35,TLC,Lost Property,Bag/Wallet,Manhattan,10121.0,Closed,Unknown,0
+63677507,2025-01-07 13:08:14,2025-01-08 15:30:02,TLC,Lost Property,Clothing/Glasses,Manhattan,10028.0,Closed,Unknown,1
+63677585,2025-01-07 09:31:15,2025-04-10 08:57:02,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10010.0,Closed,Online,92
+63677586,2025-01-07 15:50:17,2025-07-25 15:05:50,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11201.0,Closed,Online,198
+63677608,2025-01-07 15:45:12,2025-03-27 14:59:21,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Brooklyn,11215.0,Closed,Online,78
+63677684,2025-01-07 10:32:47,2025-03-06 08:29:08,TLC,Taxi Complaint,Driver Complaint - Passenger,Queens,11430.0,Closed,Phone,57
+63677693,2025-01-07 19:22:57,2025-01-17 07:43:31,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Bronx,10473.0,Closed,Mobile,9
+63677702,2025-01-07 11:05:44,2025-03-03 08:44:23,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10002.0,Closed,Mobile,54
+63677711,2025-01-07 11:54:05,2025-04-23 14:15:49,TLC,For Hire Vehicle Complaint,Driver Complaint - Non Passenger,Manhattan,10009.0,Closed,Online,106
+63677915,2025-01-07 15:03:46,2025-01-07 15:16:31,TLC,Lost Property,Electronics/Phones,Manhattan,10065.0,Closed,Unknown,0
+63677973,2025-01-07 14:22:04,2025-01-07 14:30:18,TLC,Lost Property,Electronics/Phones,Manhattan,10004.0,Closed,Unknown,0

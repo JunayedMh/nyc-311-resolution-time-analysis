@@ -1,0 +1,1238 @@
+Unique_Key,Created_Date,Closed_Date,Agency,Complaint_Type,Descriptor,Borough,Incident_Zip,Status,Open_Data_Channel_Type,Resolution_Days
+63572086,2025-01-01 00:51:02,2025-03-02 00:51:37,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10475.0,Closed,Online,60
+63575331,2025-01-01 00:08:11,2025-02-12 22:19:14,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10471.0,Closed,Phone,42
+63575361,2025-01-01 01:26:59,2025-01-01 01:26:59,DOHMH,Rodent,Rat Sighting,Bronx,10457.0,Closed,Mobile,0
+63577242,2025-01-01 01:42:12,2025-01-02 12:49:24,DOHMH,Rodent,Signs of Rodents,Brooklyn,11216.0,Closed,Mobile,1
+63578839,2025-01-01 00:15:17,2025-02-12 22:19:15,DOHMH,Smoking Or Vaping,Sign Inadequate,Bronx,10471.0,Closed,Phone,42
+63580473,2025-01-01 00:43:43,2025-01-02 10:24:48,DOHMH,Rodent,Rat Sighting,Brooklyn,11237.0,Closed,Online,1
+63582129,2025-01-01 01:35:39,2025-03-02 01:50:17,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10022.0,Closed,Online,60
+63585630,2025-01-01 13:07:56,2025-03-02 13:34:22,DOHMH,Food Establishment,Food Contaminated,Brooklyn,11213.0,Closed,Phone,60
+63585642,2025-01-01 23:32:44,2025-01-02 09:56:04,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10128.0,Closed,Online,0
+63585644,2025-01-01 13:15:41,2025-01-01 13:15:41,DOHMH,Rodent,Rat Sighting,Manhattan,10022.0,Closed,Phone,0
+63585668,2025-01-01 12:53:12,2025-01-05 18:16:23,DOHMH,Rodent,Condition Attracting Rodents,Staten Island,10314.0,Closed,Mobile,4
+63585675,2025-01-01 16:20:29,2025-01-01 16:20:29,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11368.0,Closed,Online,0
+63585686,2025-01-01 22:52:54,2025-01-01 22:52:54,DOHMH,Rodent,Rat Sighting,Manhattan,10075.0,Closed,Mobile,0
+63585687,2025-01-01 03:16:45,2025-01-03 15:48:49,DOHMH,Rodent,Rat Sighting,Queens,11106.0,Closed,Online,2
+63585710,2025-01-01 22:49:40,2025-01-11 07:59:31,DOHMH,Food Establishment,No Permit or License,Brooklyn,11220.0,Closed,Online,9
+63586886,2025-01-01 17:37:27,2025-01-11 09:06:20,DOHMH,Food Establishment,Rodents/Insects/Garbage,Staten Island,10308.0,Closed,Online,9
+63586934,2025-01-01 16:17:42,2025-02-27 14:48:33,DOHMH,Food Establishment,Food Worker Hygiene,Manhattan,10019.0,Closed,Online,56
+63586981,2025-01-01 15:48:03,2025-01-01 15:48:03,DOHMH,Rodent,Condition Attracting Rodents,Queens,11422.0,Closed,Online,0
+63586982,2025-01-01 18:09:49,2025-01-01 18:09:49,DOHMH,Rodent,Mouse Sighting,Brooklyn,11225.0,Closed,Mobile,0
+63586983,2025-01-01 23:55:08,2025-01-01 23:55:08,DOHMH,Rodent,Mouse Sighting,Bronx,10454.0,Closed,Phone,0
+63587063,2025-01-01 18:53:24,2025-01-02 07:42:35,DOHMH,Rodent,Rat Sighting,Manhattan,10026.0,Closed,Mobile,0
+63587065,2025-01-01 20:08:44,2025-01-01 20:08:44,DOHMH,Unleashed Dog,Unleashed Dog in Public,Bronx,10468.0,Closed,Online,0
+63587066,2025-01-01 14:06:53,2025-01-11 02:40:11,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Bronx,10453.0,Closed,Phone,9
+63587067,2025-01-01 22:34:16,2025-01-11 07:59:29,DOHMH,Food Establishment,Letter Grading,Brooklyn,11220.0,Closed,Online,9
+63587068,2025-01-01 10:24:52,2025-02-09 09:09:09,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10011.0,Closed,Phone,38
+63587830,2025-01-01 19:54:46,2025-03-02 20:18:39,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11419.0,Closed,Online,60
+63587870,2025-01-01 14:45:51,2025-03-02 15:03:30,DOHMH,Food Establishment,Food Contaminated,Brooklyn,11231.0,Closed,Online,60
+63587883,2025-01-01 11:08:57,2025-02-16 03:50:37,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11238.0,Closed,Online,45
+63588120,2025-01-01 21:40:35,2025-01-02 07:31:48,DOHMH,Rodent,Rat Sighting,Manhattan,10032.0,Closed,Online,0
+63588121,2025-01-01 09:12:23,2025-01-02 07:18:49,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63588122,2025-01-01 08:59:42,2025-01-02 07:18:49,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63588173,2025-01-01 13:03:16,2025-02-12 11:33:24,DOHMH,Indoor Sewage,Sewage Leak,Brooklyn,11212.0,Closed,Phone,41
+63588175,2025-01-01 07:43:46,2025-01-01 07:43:46,DOHMH,Rodent,Signs of Rodents,Queens,11385.0,Closed,Mobile,0
+63588196,2025-01-01 20:50:13,2025-03-02 21:11:20,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11428.0,Closed,Online,60
+63588197,2025-01-01 15:26:53,2025-01-11 06:45:05,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10036.0,Closed,Online,9
+63588201,2025-01-01 21:20:20,2025-03-02 21:39:49,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10024.0,Closed,Mobile,60
+63588416,2025-01-01 19:35:32,2025-01-11 17:03:54,DOHMH,Mobile Food Vendor,Equipment,Brooklyn,11214.0,Closed,Mobile,9
+63588448,2025-01-01 21:47:20,2025-01-06 10:53:47,DOHMH,Rodent,Mouse Sighting,Brooklyn,11225.0,Closed,Mobile,4
+63588449,2025-01-01 22:54:49,2025-01-01 22:54:49,DOHMH,Rodent,Condition Attracting Rodents,Queens,11363.0,Closed,Online,0
+63588450,2025-01-01 12:20:45,2025-01-01 12:20:45,DOHMH,Rodent,Rat Sighting,Staten Island,10314.0,Closed,Mobile,0
+63588451,2025-01-01 17:27:26,2025-01-01 17:27:26,DOHMH,Rodent,Rat Sighting,Manhattan,10021.0,Closed,Phone,0
+63588452,2025-01-01 21:00:41,2025-01-01 21:00:41,DOHMH,Rodent,Rat Sighting,Brooklyn,11226.0,Closed,Online,0
+63588826,2025-01-01 19:41:41,2025-01-02 09:50:45,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11419.0,Closed,Online,0
+63588991,2025-01-01 11:32:09,2025-01-10 22:58:45,DOHMH,Mobile Food Vendor,Food Source/Protection,Manhattan,10025.0,Closed,Online,9
+63589052,2025-01-01 11:44:34,2025-03-02 11:52:32,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11217.0,Closed,Phone,60
+63589348,2025-01-01 18:49:27,2025-01-02 08:59:43,DOHMH,Indoor Air Quality,Dust from Construction,Bronx,10454.0,Closed,Phone,0
+63589349,2025-01-01 21:00:07,2025-01-02 08:56:26,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10044.0,Closed,Phone,0
+63589350,2025-01-01 12:56:02,2025-01-01 12:56:02,DOHMH,Rodent,Rat Sighting,Staten Island,10314.0,Closed,Mobile,0
+63589352,2025-01-01 17:37:43,2025-01-30 16:18:32,DOHMH,Rodent,Signs of Rodents,Brooklyn,11238.0,Closed,Mobile,28
+63589353,2025-01-01 14:24:52,2025-01-02 10:36:46,DOHMH,Rodent,Signs of Rodents,Brooklyn,11206.0,Closed,Phone,0
+63589459,2025-01-01 13:19:34,2025-01-01 13:19:34,DOHMH,Rodent,Mouse Sighting,Queens,11370.0,Closed,Phone,0
+63589467,2025-01-01 12:33:03,2025-01-01 12:33:03,DOHMH,Rodent,Rat Sighting,Brooklyn,11233.0,Closed,Online,0
+63589471,2025-01-01 10:18:27,2025-03-02 10:41:06,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10019.0,Closed,Mobile,60
+63589481,2025-01-01 14:12:29,2025-01-10 21:34:41,DOHMH,Food Establishment,Pet/Animal,Manhattan,10036.0,Closed,Mobile,9
+63589482,2025-01-01 09:14:56,2025-01-10 21:23:42,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10069.0,Closed,Mobile,9
+63589722,2025-01-01 19:34:20,2025-01-11 17:03:53,DOHMH,Mobile Food Vendor,Food Worker Activity,Brooklyn,11214.0,Closed,Mobile,9
+63589724,2025-01-01 15:06:08,2025-01-01 15:06:08,DOHMH,Rodent,Rat Sighting,Brooklyn,11211.0,Closed,Mobile,0
+63589725,2025-01-01 10:46:56,2025-01-03 15:50:00,DOHMH,Rodent,Signs of Rodents,Queens,11372.0,Closed,Mobile,2
+63589727,2025-01-01 07:38:53,2025-01-03 11:15:55,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10028.0,Closed,Online,2
+63590119,2025-01-01 16:10:01,2025-01-02 09:40:47,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11357.0,Closed,Phone,0
+63590180,2025-01-01 09:11:09,2025-01-01 17:08:17,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10069.0,Closed,Phone,0
+63590268,2025-01-01 12:47:27,2025-03-02 12:53:07,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10030.0,Closed,Online,60
+63590310,2025-01-01 16:33:57,2025-01-10 19:44:50,DOHMH,Day Care,Day Care Facility,Brooklyn,11235.0,Closed,Phone,9
+63590332,2025-01-01 11:02:54,2025-02-16 03:50:36,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11238.0,Closed,Online,45
+63590649,2025-01-01 16:20:33,2025-01-03 13:54:47,DOHMH,Indoor Sewage,Sewage Leak,Queens,11357.0,Closed,Phone,1
+63590651,2025-01-01 15:29:51,2025-01-01 15:29:51,DOHMH,Rodent,Rat Sighting,Manhattan,10028.0,Closed,Mobile,0
+63590654,2025-01-01 08:57:37,2025-01-25 08:39:31,DOHMH,Food Establishment,Rodents/Insects/Garbage,Staten Island,10314.0,Closed,Online,23
+63590679,2025-01-01 06:09:21,2025-01-06 14:33:52,DOHMH,Rodent,Rat Sighting,Brooklyn,11218.0,Closed,Mobile,5
+63590680,2025-01-01 08:47:34,2025-01-02 07:18:49,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63590794,2025-01-01 15:28:07,2025-01-01 15:28:07,DOHMH,Rodent,Condition Attracting Rodents,Queens,11691.0,Closed,Mobile,0
+63590795,2025-01-01 23:33:06,2025-01-02 07:36:33,DOHMH,Rodent,Rat Sighting,Manhattan,10026.0,Closed,Online,0
+63590796,2025-01-01 17:40:18,2025-01-01 17:40:18,DOHMH,Rodent,Signs of Rodents,Brooklyn,11238.0,Closed,Mobile,0
+63590797,2025-01-01 13:38:07,2025-01-02 09:53:06,DOHMH,Unsanitary Pigeon Condition,Pigeon Odor,Manhattan,10009.0,Closed,Online,0
+63590798,2025-01-01 15:37:03,2025-01-11 06:55:43,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11355.0,Closed,Mobile,9
+63590947,2025-01-01 18:10:39,2025-01-02 10:39:07,DOHMH,Rodent,Rat Sighting,Brooklyn,11215.0,Closed,Phone,0
+63591511,2025-01-01 16:59:35,2025-02-10 15:19:22,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10035.0,Closed,Online,39
+63591592,2025-01-01 10:40:37,2025-02-04 07:53:55,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10011.0,Closed,Phone,33
+63591859,2025-01-01 08:41:54,2025-01-02 07:18:49,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63591910,2025-01-01 18:34:48,2025-03-02 18:45:12,DOHMH,Mobile Food Vendor,Insects / Pests,Bronx,10468.0,Closed,Online,60
+63591979,2025-01-01 19:31:37,2025-01-11 17:03:55,DOHMH,Mobile Food Vendor,Insects / Pests,Brooklyn,11214.0,Closed,Mobile,9
+63591983,2025-01-01 22:06:46,2025-01-01 22:06:46,DOHMH,Rodent,Rat Sighting,Bronx,10453.0,Closed,Phone,0
+63592014,2025-01-01 11:51:46,2025-01-01 11:51:46,DOHMH,Unsanitary Animal Pvt Property,Dog,Staten Island,10314.0,Closed,Phone,0
+63592033,2025-01-01 17:30:21,2025-01-15 11:11:31,DOHMH,Indoor Sewage,Sewage Leak,Bronx,10455.0,Closed,Online,13
+63592048,2025-01-01 11:18:05,2025-01-02 10:30:19,DOHMH,Rodent,Signs of Rodents,Brooklyn,11207.0,Closed,Mobile,0
+63593174,2025-01-01 15:30:35,2025-01-01 15:30:35,DOHMH,Rodent,Rat Sighting,Manhattan,10028.0,Closed,Mobile,0
+63593175,2025-01-01 01:56:34,2025-01-02 07:54:32,DOHMH,Rodent,Rat Sighting,Bronx,10468.0,Closed,Online,1
+63593180,2025-01-01 18:52:47,2025-03-02 19:13:52,DOHMH,Mobile Food Vendor,Insects / Pests,Bronx,10468.0,Closed,Online,60
+63593181,2025-01-01 15:04:21,2025-01-01 15:04:21,DOHMH,Rodent,Condition Attracting Rodents,Queens,11358.0,Closed,Online,0
+63593182,2025-01-01 10:39:20,2025-01-01 10:39:20,DOHMH,Rodent,Rat Sighting,Manhattan,10025.0,Closed,Phone,0
+63593183,2025-01-01 22:26:08,2025-03-02 22:28:57,DOHMH,Food Establishment,Letter Grading,Manhattan,10023.0,Closed,Online,60
+63593207,2025-01-01 20:28:06,2025-01-11 18:13:18,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10036.0,Closed,Mobile,9
+63593252,2025-01-01 15:11:40,2025-01-01 15:11:40,DOHMH,Rodent,Rat Sighting,Manhattan,10031.0,Closed,Online,0
+63593264,2025-01-01 21:44:20,2025-01-02 07:26:42,DOHMH,Rodent,Rat Sighting,Manhattan,10032.0,Closed,Online,0
+63593266,2025-01-01 16:07:02,2025-01-10 22:40:40,DOHMH,Food Establishment,Rodents/Insects/Garbage,Bronx,10458.0,Closed,Phone,9
+63593295,2025-01-01 19:28:00,2025-01-11 17:03:51,DOHMH,Mobile Food Vendor,Food Source/Protection,Brooklyn,11214.0,Closed,Mobile,9
+63593298,2025-01-02 00:12:19,2025-01-10 22:23:31,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10036.0,Closed,Mobile,8
+63593299,2025-01-01 09:55:35,2025-01-03 15:47:23,DOHMH,Rodent,Rat Sighting,Queens,11104.0,Closed,Phone,2
+63593300,2025-01-01 14:03:06,2025-01-01 14:03:06,DOHMH,Rodent,Signs of Rodents,Staten Island,10312.0,Closed,Phone,0
+63593301,2025-01-01 20:46:39,2025-01-01 20:46:39,DOHMH,Rodent,Signs of Rodents,Manhattan,10128.0,Closed,Mobile,0
+63593313,2025-01-01 13:11:44,2025-02-23 14:03:57,DOHMH,Food Establishment,Food Contains Foreign Object,Brooklyn,11201.0,Closed,Online,53
+63593358,2025-01-01 17:22:13,2025-01-11 05:27:44,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10036.0,Closed,Mobile,9
+63594022,2025-01-01 10:57:01,2025-02-11 09:53:39,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10011.0,Closed,Online,40
+63594042,2025-01-01 13:04:29,2025-01-01 16:59:41,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11232.0,Closed,Online,0
+63594150,2025-01-01 10:30:49,2025-02-13 16:53:24,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10011.0,Closed,Phone,43
+63594166,2025-01-01 18:38:10,2025-02-03 16:21:49,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11217.0,Closed,Online,32
+63594354,2025-01-02 00:09:58,2025-01-10 22:22:42,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10036.0,Closed,Mobile,8
+63594363,2025-01-01 09:13:21,2025-01-02 07:11:33,DOHMH,Rodent,Rat Sighting,Manhattan,10069.0,Closed,Mobile,0
+63594364,2025-01-01 14:00:45,2025-01-01 14:00:45,DOHMH,Rodent,Rat Sighting,Brooklyn,11226.0,Closed,Phone,0
+63594365,2025-01-01 11:47:46,2025-01-03 15:51:46,DOHMH,Rodent,Rat Sighting,Queens,11354.0,Closed,Phone,2
+63594369,2025-01-01 21:59:40,2025-01-02 09:53:21,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10016.0,Closed,Online,0
+63594370,2025-01-01 22:34:03,2025-01-01 22:34:03,DOHMH,Rodent,Rat Sighting,Bronx,10472.0,Closed,Phone,0
+63594379,2025-01-01 09:04:34,2025-01-02 07:18:49,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63594382,2025-01-01 14:51:46,2025-01-10 21:32:08,DOHMH,Food Establishment,Pet/Animal,Manhattan,10019.0,Closed,Mobile,9
+63594552,2025-01-01 20:47:34,2025-01-01 20:47:34,DOHMH,Rodent,Rat Sighting,Manhattan,10025.0,Closed,Online,0
+63594554,2025-01-01 21:35:17,2025-01-03 09:45:38,DOHMH,Unsanitary Animal Pvt Property,Dog,Bronx,10455.0,Closed,Online,1
+63594581,2025-01-01 09:38:13,2025-01-01 09:38:13,DOHMH,Rodent,Rat Sighting,Bronx,10466.0,Closed,Online,0
+63594583,2025-01-02 00:02:16,2025-01-03 15:58:22,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11379.0,Closed,Online,1
+63594584,2025-01-01 14:57:14,2025-03-02 15:03:32,DOHMH,Food Establishment,Allergy Information,Brooklyn,11231.0,Closed,Phone,60
+63594586,2025-01-01 10:50:33,2025-03-02 11:12:43,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10011.0,Closed,Online,60
+63595219,2025-01-01 13:10:30,2025-03-02 13:17:22,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11234.0,Closed,Online,60
+63595370,2025-01-01 22:02:09,2025-03-02 22:23:06,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10032.0,Closed,Online,60
+63595640,2025-01-02 10:57:21,2025-02-04 11:54:49,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10044.0,Closed,Online,33
+63595641,2025-01-02 09:20:41,2025-03-03 09:49:51,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10473.0,Closed,Online,60
+63595655,2025-01-02 10:51:04,2025-01-03 09:47:45,DOHMH,Rodent,Rat Sighting,Bronx,10456.0,Closed,Phone,0
+63595666,2025-01-02 19:47:30,2025-03-03 19:55:29,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11211.0,Closed,Phone,60
+63595903,2025-01-02 20:30:26,2025-01-03 09:17:32,DOHMH,Indoor Air Quality,Ventilation,Queens,11355.0,Closed,Phone,0
+63595904,2025-01-03 00:40:41,2025-01-03 07:37:58,DOHMH,Rodent,Rat Sighting,Manhattan,10032.0,Closed,Mobile,0
+63595905,2025-01-02 16:06:38,2025-01-05 18:27:22,DOHMH,Rodent,Rat Sighting,Brooklyn,11210.0,Closed,Phone,3
+63596040,2025-01-02 02:26:24,2025-01-02 09:05:38,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10469.0,Closed,Phone,0
+63596041,2025-01-02 07:57:29,2025-01-02 07:57:29,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10034.0,Closed,Phone,0
+63596042,2025-01-02 16:11:38,2025-01-03 16:04:30,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Queens,11417.0,Closed,Online,0
+63596056,2025-01-02 22:16:13,2025-01-03 09:27:17,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10462.0,Closed,Online,0
+63596080,2025-01-02 12:42:28,2025-01-02 15:26:12,DOHMH,Mold,Public Complaint - Comm Location,Brooklyn,11217.0,Closed,Phone,0
+63596088,2025-01-02 13:40:56,2025-01-03 09:29:03,DOHMH,Drinking Water,Illness Caused by Drinking Water,Queens,11385.0,Closed,Online,0
+63596089,2025-01-02 21:08:35,2025-01-07 14:48:44,DOHMH,Radioactive Material,Contamination Risk,Brooklyn,11213.0,Closed,Phone,4
+63596095,2025-01-02 07:26:16,2025-01-02 09:57:53,DOHMH,Mold,Public Complaint - Comm Location,Staten Island,10312.0,Closed,Online,0
+63596101,2025-01-02 12:48:59,2025-01-02 12:48:59,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11205.0,Closed,Online,0
+63596166,2025-01-02 16:19:04,2025-01-02 18:58:47,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Queens,11423.0,Closed,Phone,0
+63596170,2025-01-02 11:57:37,2025-01-02 11:57:37,DOHMH,Rodent,Rat Sighting,Manhattan,10032.0,Closed,Phone,0
+63596173,2025-01-02 15:50:23,2025-02-16 19:36:07,DOHMH,Food Establishment,Food Spoiled,Queens,11432.0,Closed,Online,45
+63596220,2025-01-02 15:59:54,2025-01-06 13:24:01,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11205.0,Closed,Online,3
+63596225,2025-01-02 10:10:58,2025-01-03 16:15:32,DOHMH,Unsanitary Animal Pvt Property,Other Animal,Queens,11433.0,Closed,Online,1
+63596268,2025-01-02 13:35:59,2025-01-06 13:36:12,DOHMH,Rodent,Rat Sighting,Brooklyn,11220.0,Closed,Online,4
+63596336,2025-01-02 10:41:37,2025-01-02 11:41:49,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11233.0,Closed,Phone,0
+63597090,2025-01-02 23:21:08,2025-01-11 08:34:06,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10026.0,Closed,Online,8
+63597166,2025-01-02 18:27:32,2025-03-03 18:41:43,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11216.0,Closed,Phone,60
+63597446,2025-01-02 01:06:30,2025-03-03 01:19:22,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10026.0,Closed,Online,60
+63597448,2025-01-02 23:10:06,2025-01-11 20:27:03,DOHMH,Food Establishment,Pet/Animal,Manhattan,10021.0,Closed,Online,8
+63597532,2025-01-02 15:05:30,2025-01-02 16:49:13,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10009.0,Closed,Online,0
+63597544,2025-01-02 13:44:35,2025-01-02 13:44:35,DOHMH,Rodent,Rat Sighting,Brooklyn,11226.0,Closed,Online,0
+63597548,2025-01-02 00:00:00,2025-01-02 00:00:01,DOHMH,Food Poisoning,1 or 2,Brooklyn,11235.0,Closed,Phone,0
+63597564,2025-01-02 20:49:54,2025-01-02 20:49:54,DOHMH,Rodent,Mouse Sighting,Brooklyn,11218.0,Closed,Online,0
+63597581,2025-01-02 11:15:39,2025-03-03 11:42:01,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11211.0,Closed,Phone,60
+63597614,2025-01-02 11:57:26,2025-03-03 12:10:42,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11233.0,Closed,Mobile,60
+63597861,2025-01-02 09:34:32,2025-01-02 10:59:03,DOHMH,Rodent,Rat Sighting,Brooklyn,11230.0,Closed,Mobile,0
+63598065,2025-01-02 11:27:48,2025-01-02 13:58:30,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10033.0,Closed,Mobile,0
+63598079,2025-01-02 22:29:18,2025-01-03 08:23:02,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11209.0,Closed,Phone,0
+63598116,2025-01-02 09:42:19,2025-01-02 09:42:19,DOHMH,Illegal Animal Kept As Pet,Rooster,Staten Island,10302.0,Closed,Online,0
+63598117,2025-01-02 19:45:11,2025-01-03 08:31:42,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11207.0,Closed,Online,0
+63598119,2025-01-02 23:27:03,2025-01-02 23:27:03,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11370.0,Closed,Phone,0
+63598147,2025-01-02 12:23:25,2025-03-03 12:43:51,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10036.0,Closed,Online,60
+63598152,2025-01-02 11:12:45,2025-01-03 09:50:21,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10454.0,Closed,Mobile,0
+63598160,2025-01-02 08:24:40,2025-01-02 08:24:40,DOHMH,Rodent,Signs of Rodents,Brooklyn,11222.0,Closed,Phone,0
+63598166,2025-01-02 16:40:47,2025-01-06 13:34:11,DOHMH,Rodent,Signs of Rodents,Brooklyn,11215.0,Closed,Mobile,3
+63598173,2025-01-02 19:11:48,2025-01-03 09:14:30,DOHMH,Indoor Air Quality,Other (Explain Below),Queens,11432.0,Closed,Phone,0
+63598185,2025-01-02 22:10:42,2025-01-03 09:24:16,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10462.0,Closed,Online,0
+63598189,2025-01-02 11:45:45,2025-01-11 04:40:35,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10022.0,Closed,Mobile,8
+63598191,2025-01-02 12:28:51,2025-01-02 12:28:51,DOHMH,Rodent,Rat Sighting,Staten Island,10309.0,Closed,Phone,0
+63598194,2025-01-02 14:27:35,2025-01-02 14:27:35,DOHMH,Rodent,Rat Sighting,Bronx,10460.0,Closed,Phone,0
+63598717,2025-01-02 15:38:49,2025-01-10 21:44:47,DOHMH,Tattooing,Dirty/Inadequate Eqp/Facility,Brooklyn,11226.0,Closed,Online,8
+63599223,2025-01-03 00:44:39,2025-01-03 09:33:57,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11373.0,Closed,Phone,0
+63599369,2025-01-02 10:00:41,2025-01-02 10:00:41,DOHMH,Rodent,Mouse Sighting,Staten Island,10314.0,Closed,Phone,0
+63599379,2025-01-02 16:37:19,2025-01-02 16:37:19,DOHMH,Rodent,Rat Sighting,Bronx,10462.0,Closed,Online,0
+63599398,2025-01-02 21:31:24,2025-01-11 06:40:24,DOHMH,Food Establishment,Toxic Chemical/Material,Brooklyn,11215.0,Closed,Online,8
+63599493,2025-01-02 14:21:22,2025-03-03 14:43:06,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10018.0,Closed,Phone,60
+63599665,2025-01-02 12:43:17,2025-01-02 14:06:18,DOHMH,Rodent,Rat Sighting,Manhattan,10028.0,Closed,Phone,0
+63599874,2025-01-02 10:07:15,2025-01-03 16:16:41,DOHMH,Rodent,Condition Attracting Rodents,Queens,11368.0,Closed,Mobile,1
+63599882,2025-01-02 13:51:25,2025-01-06 13:24:01,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11205.0,Closed,Online,3
+63599907,2025-01-02 17:16:02,2025-02-28 09:36:07,DOHMH,Mobile Food Vendor,Food Worker Activity,Queens,11374.0,Closed,Online,56
+63599916,2025-01-02 22:54:52,2025-01-03 07:36:06,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Mobile,0
+63599948,2025-01-02 19:42:27,2025-01-02 19:42:27,DOHMH,Illegal Animal Kept As Pet,Rooster,Brooklyn,11213.0,Closed,Phone,0
+63599978,2025-01-02 17:25:16,2025-01-02 17:25:16,DOHMH,Rodent,Condition Attracting Rodents,Staten Island,10303.0,Closed,Phone,0
+63599981,2025-01-02 11:27:16,2025-01-02 11:27:16,DOHMH,Rodent,Rat Sighting,Queens,11419.0,Closed,Phone,0
+63599992,2025-01-02 16:22:36,2025-01-02 16:22:36,DOHMH,Rodent,Rat Sighting,Brooklyn,11222.0,Closed,Mobile,0
+63600071,2025-01-02 18:36:22,2025-03-03 18:38:09,DOHMH,Food Establishment,Food Temperature,Queens,11435.0,Closed,Phone,60
+63600175,2025-01-02 18:17:49,2025-03-03 18:20:11,DOHMH,Food Establishment,Odor,Brooklyn,11209.0,Closed,Mobile,60
+63600885,2025-01-02 15:49:22,2025-03-03 16:05:03,DOHMH,Food Establishment,Food Protection,Queens,11414.0,Closed,Online,60
+63600886,2025-01-02 21:57:38,2025-01-11 05:54:45,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11103.0,Closed,Phone,8
+63601190,2025-01-02 00:00:00,2025-01-03 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10019.0,Closed,Online,1
+63601227,2025-01-02 18:14:46,2025-03-03 18:40:42,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11210.0,Closed,Mobile,60
+63601267,2025-01-03 01:00:27,2025-03-04 01:11:41,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11418.0,Closed,Mobile,60
+63601268,2025-01-03 00:50:51,2025-01-11 02:56:51,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11102.0,Closed,Mobile,8
+63601343,2025-01-02 17:05:12,2025-01-02 17:05:12,DOHMH,Unleashed Dog,Unleashed Dog in Public,Bronx,10463.0,Closed,Online,0
+63601410,2025-01-02 08:32:42,2025-01-10 22:59:16,DOHMH,Mobile Food Vendor,Food Source/Protection,Manhattan,10025.0,Closed,Online,8
+63601542,2025-01-02 10:20:21,2025-03-03 10:26:10,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11102.0,Closed,Online,60
+63601553,2025-01-02 09:42:18,2025-03-03 09:52:18,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11355.0,Closed,Online,60
+63601584,2025-01-02 05:31:02,2025-01-02 08:51:39,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Queens,11692.0,Closed,Online,0
+63601588,2025-01-02 07:02:50,2025-01-06 09:26:07,DOHMH,Rodent,Rat Sighting,Manhattan,10034.0,Closed,Phone,4
+63601636,2025-01-02 18:23:57,2025-01-02 18:23:57,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10023.0,Closed,Phone,0
+63601733,2025-01-02 19:07:14,2025-01-03 09:11:34,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Queens,11368.0,Closed,Online,0
+63601779,2025-01-02 12:21:55,2025-01-11 04:21:19,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10019.0,Closed,Mobile,8
+63601796,2025-01-02 12:45:24,2025-01-11 00:40:42,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10022.0,Closed,Mobile,8
+63601802,2025-01-02 11:34:20,2025-01-11 18:13:39,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10153.0,Closed,Mobile,9
+63601804,2025-01-02 10:56:04,2025-01-02 11:35:52,DOHMH,Indoor Air Quality,Other (Explain Below),Brooklyn,11209.0,Closed,Phone,0
+63601806,2025-01-02 10:50:03,2025-01-02 10:50:03,DOHMH,Rodent,Condition Attracting Rodents,Queens,11368.0,Closed,Phone,0
+63601845,2025-01-02 23:59:47,2025-01-02 23:59:47,DOHMH,Rodent,Signs of Rodents,Bronx,10462.0,Closed,Phone,0
+63601846,2025-01-02 13:11:46,2025-01-03 16:12:24,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11385.0,Closed,Online,1
+63601873,2025-01-02 17:06:39,2025-01-02 19:15:05,DOHMH,Indoor Air Quality,Sewage Odor,Bronx,10472.0,Closed,Online,0
+63601880,2025-01-02 08:03:40,2025-01-06 06:39:58,DOHMH,Rodent,Rat Sighting,Manhattan,10002.0,Closed,Online,3
+63601963,2025-01-02 00:00:00,2025-01-24 00:00:01,DOHMH,Food Poisoning,3 or More,Manhattan,10019.0,Closed,Phone,22
+63601971,2025-01-02 06:44:43,2025-01-03 11:15:55,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10028.0,Closed,Online,1
+63602098,2025-01-02 12:59:35,2025-03-03 13:01:32,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Brooklyn,11232.0,Closed,Online,60
+63602744,2025-01-02 13:42:58,2025-01-10 22:29:31,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11215.0,Closed,Mobile,8
+63602903,2025-01-02 23:40:36,2025-01-03 09:30:21,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11212.0,Closed,Online,0
+63602969,2025-01-02 22:43:29,2025-02-16 20:18:03,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11201.0,Closed,Online,44
+63602970,2025-01-02 23:41:25,2025-02-25 11:54:27,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11207.0,Closed,Online,53
+63603088,2025-01-02 17:09:17,2025-01-02 17:09:17,DOHMH,Rodent,Rat Sighting,Queens,11102.0,Closed,Phone,0
+63603100,2025-01-02 13:26:31,2025-01-06 13:24:01,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11205.0,Closed,Online,3
+63603101,2025-01-02 15:00:41,2025-01-02 15:00:41,DOHMH,Rodent,Rat Sighting,Queens,11419.0,Closed,Phone,0
+63603102,2025-01-02 18:54:53,2025-01-02 18:54:53,DOHMH,Rodent,Rat Sighting,Manhattan,10035.0,Closed,Phone,0
+63603164,2025-01-02 10:57:33,2025-01-11 02:51:20,DOHMH,Mobile Food Vendor,Food Worker Activity,Manhattan,10005.0,Closed,Phone,8
+63603312,2025-01-02 11:55:20,2025-01-03 09:31:10,DOHMH,Drinking Water,Illness Caused by Drinking Water,Brooklyn,11239.0,Closed,Online,0
+63603313,2025-01-02 14:13:02,2025-03-03 14:13:55,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11249.0,Closed,Online,60
+63603321,2025-01-02 07:28:25,2025-01-02 10:40:28,DOHMH,Rodent,Rat Sighting,Brooklyn,11233.0,Closed,Online,0
+63603329,2025-01-02 09:40:24,2025-01-02 09:40:24,DOHMH,Rodent,Condition Attracting Rodents,Queens,11101.0,Closed,Phone,0
+63603412,2025-01-02 11:39:36,2025-03-03 12:00:06,DOHMH,Food Establishment,Letter Grading,Queens,11373.0,Closed,Phone,60
+63603421,2025-01-02 22:50:06,2025-01-02 22:50:06,DOHMH,Rodent,Rat Sighting,Manhattan,10025.0,Closed,Phone,0
+63603425,2025-01-02 11:36:03,2025-01-02 11:36:03,DOHMH,Rodent,Rat Sighting,Brooklyn,11201.0,Closed,Phone,0
+63603429,2025-01-02 18:22:57,2025-01-02 18:22:57,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11373.0,Closed,Online,0
+63603435,2025-01-02 14:04:03,2025-03-03 14:15:28,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11203.0,Closed,Online,60
+63603578,2025-01-02 08:46:17,2025-01-02 09:37:37,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10469.0,Closed,Online,0
+63603579,2025-01-02 15:15:07,2025-01-02 15:15:07,DOHMH,Rodent,Condition Attracting Rodents,Staten Island,10314.0,Closed,Mobile,0
+63603580,2025-01-02 08:36:17,2025-01-02 08:36:17,DOHMH,Rodent,Signs of Rodents,Brooklyn,11233.0,Closed,Mobile,0
+63603631,2025-01-02 10:05:20,2025-01-02 10:05:20,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10457.0,Closed,Phone,0
+63603632,2025-01-02 12:14:52,2025-01-02 12:14:52,DOHMH,Rodent,Rat Sighting,Bronx,10452.0,Closed,Phone,0
+63603641,2025-01-02 09:43:12,2025-01-02 10:52:54,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63603643,2025-01-02 13:37:51,2025-01-06 13:24:01,DOHMH,Rodent,Rat Sighting,Brooklyn,11205.0,Closed,Online,3
+63603652,2025-01-02 17:02:25,2025-01-03 09:05:17,DOHMH,Indoor Air Quality,Ventilation,Manhattan,10003.0,Closed,Online,0
+63603653,2025-01-02 09:00:18,2025-01-03 16:00:28,DOHMH,Rodent,Signs of Rodents,Queens,11102.0,Closed,Online,1
+63603729,2025-01-02 11:59:18,2025-01-02 15:21:42,DOHMH,Indoor Air Quality,Ventilation,Queens,11368.0,Closed,Online,0
+63603929,2025-01-02 16:31:26,2025-03-03 16:57:34,DOHMH,Food Establishment,Letter Grading,Manhattan,10017.0,Closed,Online,60
+63604290,2025-01-02 11:13:35,2025-01-10 23:02:26,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,8
+63604569,2025-01-02 13:02:07,2025-03-03 13:32:22,DOHMH,Food Establishment,Dishwashing/Utensils,Manhattan,10023.0,Closed,Online,60
+63604820,2025-01-02 14:51:57,2025-01-14 16:05:26,DOHMH,Rodent,Rat Sighting,Queens,11379.0,Closed,Online,12
+63604821,2025-01-02 14:44:34,2025-01-06 14:23:20,DOHMH,Rodent,Rat Sighting,Brooklyn,11235.0,Closed,Online,3
+63604905,2025-01-02 14:33:34,2025-01-06 13:35:11,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Online,3
+63604965,2025-01-02 09:18:18,2025-01-02 11:38:07,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10458.0,Closed,Phone,0
+63604966,2025-01-02 14:11:28,2025-01-02 14:11:28,DOHMH,Rodent,Rat Sighting,Manhattan,10032.0,Closed,Phone,0
+63604967,2025-01-02 16:41:10,2025-01-02 16:41:10,DOHMH,Rodent,Rat Sighting,Brooklyn,11205.0,Closed,Phone,0
+63605051,2025-01-02 14:56:45,2025-01-11 15:01:48,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11374.0,Closed,Online,9
+63605187,2025-01-02 16:10:03,2025-01-02 16:10:03,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10466.0,Closed,Online,0
+63605214,2025-01-02 16:35:31,2025-03-03 16:54:46,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10029.0,Closed,Online,60
+63605282,2025-01-02 20:14:39,2025-03-03 20:19:47,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11421.0,Closed,Phone,60
+63605303,2025-01-02 16:42:01,2025-01-03 09:00:46,DOHMH,Mold,Public Complaint - Comm Location,Queens,11354.0,Closed,Phone,0
+63605415,2025-01-02 08:56:51,2025-01-27 15:18:37,DOHMH,Asbestos,,Brooklyn,11235.0,Closed,Phone,25
+63605635,2025-01-02 17:39:07,2025-01-03 07:30:17,DOHMH,Rodent,Rat Sighting,Manhattan,10026.0,Closed,Online,0
+63605660,2025-01-02 13:13:44,2025-01-02 13:13:44,DOHMH,Unsanitary Animal Pvt Property,Cat,Brooklyn,11233.0,Closed,Online,0
+63605688,2025-01-02 09:56:05,2025-01-03 17:59:03,DOHMH,Rodent,Rat Sighting,Queens,11691.0,Closed,Mobile,1
+63606662,2025-01-02 09:02:30,2025-02-06 11:52:42,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10472.0,Closed,Phone,35
+63606712,2025-01-02 14:03:13,2025-03-03 14:18:52,DOHMH,Mobile Food Vendor,Permit/License/Certificate,Queens,11354.0,Closed,Online,60
+63606753,2025-01-02 09:52:11,2025-03-03 10:26:09,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11102.0,Closed,Online,60
+63606754,2025-01-02 20:18:51,2025-03-03 20:50:15,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10452.0,Closed,Phone,60
+63606781,2025-01-02 16:16:00,2025-03-03 16:20:09,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10461.0,Closed,Online,60
+63606809,2025-01-02 07:09:49,2025-01-02 09:02:11,DOHMH,Rodent,Mouse Sighting,Manhattan,10030.0,Closed,Mobile,0
+63606838,2025-01-02 23:06:46,2025-01-11 08:31:07,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10023.0,Closed,Mobile,8
+63606901,2025-01-02 15:01:20,2025-01-03 09:53:50,DOHMH,Rodent,Rat Sighting,Bronx,10454.0,Closed,Phone,0
+63607029,2025-01-02 14:29:28,2025-01-03 10:18:41,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Online,0
+63607031,2025-01-02 19:39:03,2025-01-02 19:39:03,DOHMH,Unsanitary Animal Pvt Property,Dog,Brooklyn,11225.0,Closed,Online,0
+63607057,2025-01-02 17:23:21,2025-01-07 14:21:53,DOHMH,Beach/Pool/Sauna Complaint,Beach/Pool Water,Brooklyn,11235.0,Closed,Online,4
+63607181,2025-01-02 20:41:46,2025-01-03 10:16:15,DOHMH,Unsanitary Animal Pvt Property,Dog,Manhattan,10032.0,Closed,Online,0
+63607190,2025-01-03 00:00:24,2025-03-04 00:07:23,DOHMH,Food Establishment,Food Spoiled,Queens,11102.0,Closed,Mobile,60
+63607215,2025-01-02 14:13:15,2025-03-03 14:20:08,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11232.0,Closed,Online,60
+63607233,2025-01-02 14:38:19,2025-01-02 14:38:19,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11427.0,Closed,Phone,0
+63607396,2025-01-02 13:51:02,2025-01-02 13:51:02,DOHMH,Rodent,Signs of Rodents,Queens,11385.0,Closed,Mobile,0
+63607397,2025-01-02 07:53:32,2025-01-29 13:00:00,DOHMH,Asbestos,,Queens,11435.0,Closed,Online,27
+63607398,2025-01-02 03:35:02,2025-01-10 22:23:32,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10036.0,Closed,Mobile,8
+63607451,2025-01-02 09:28:41,2025-01-02 10:52:54,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63607463,2025-01-02 11:22:25,2025-01-02 11:22:25,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11226.0,Closed,Phone,0
+63607482,2025-01-02 22:56:29,2025-01-02 22:56:29,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Mobile,0
+63607489,2025-01-02 12:55:08,2025-01-02 12:55:08,DOHMH,Rodent,Rat Sighting,Brooklyn,11230.0,Closed,Mobile,0
+63607895,2025-01-02 21:14:45,2025-01-10 22:59:17,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,8
+63608351,2025-01-02 12:43:27,2025-03-03 13:09:37,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10024.0,Closed,Online,60
+63608375,2025-01-02 13:51:48,2025-01-10 21:34:30,DOHMH,Food Establishment,Pet/Animal,Manhattan,10036.0,Closed,Mobile,8
+63608486,2025-01-02 12:48:34,2025-01-10 23:27:15,DOHMH,Mobile Food Vendor,Food Worker Activity,Manhattan,10168.0,Closed,Phone,8
+63608603,2025-01-02 13:01:37,2025-03-03 13:09:29,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11206.0,Closed,Phone,60
+63608669,2025-01-02 17:40:34,2025-01-03 09:08:32,DOHMH,Indoor Air Quality,Human Feces,Brooklyn,11236.0,Closed,Online,0
+63608701,2025-01-02 13:03:38,2025-01-02 14:38:09,DOHMH,Indoor Air Quality,Unsafe Mold Cleanup,Bronx,10458.0,Closed,Phone,0
+63608712,2025-01-02 22:22:50,2025-02-17 02:22:57,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10040.0,Closed,Online,45
+63608717,2025-01-02 09:48:51,2025-03-03 09:50:48,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11356.0,Closed,Phone,60
+63608866,2025-01-02 13:19:10,2025-01-02 15:28:36,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10458.0,Closed,Phone,0
+63608867,2025-01-02 13:36:57,2025-01-06 14:27:50,DOHMH,Rodent,Rat Sighting,Brooklyn,11225.0,Closed,Online,4
+63608871,2025-01-02 00:00:00,2025-01-14 00:00:01,DOHMH,Food Poisoning,3 or More,Queens,11432.0,Closed,Phone,12
+63608875,2025-01-02 12:12:05,2025-01-02 12:12:05,DOHMH,Unsanitary Pigeon Condition,Pigeon Odor,Brooklyn,11201.0,Closed,Online,0
+63608877,2025-01-02 11:10:01,2025-01-02 12:54:14,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Online,0
+63608879,2025-01-02 01:46:19,2025-02-05 11:48:05,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11225.0,Closed,Online,34
+63608910,2025-01-02 17:10:29,2025-01-02 17:10:29,DOHMH,Rodent,Rat Sighting,Manhattan,10024.0,Closed,Online,0
+63609016,2025-01-03 00:49:08,2025-01-03 00:49:08,DOHMH,Rodent,Rat Sighting,Brooklyn,11205.0,Closed,Online,0
+63609048,2025-01-02 19:25:55,2025-03-03 19:45:56,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10458.0,Closed,Online,60
+63609050,2025-01-02 11:14:40,2025-01-03 14:06:54,DOHMH,Indoor Sewage,Sewage Leak,Queens,11435.0,Closed,Phone,1
+63609054,2025-01-02 14:48:21,2025-01-10 08:18:14,DOHMH,Day Care,Day Care Facility,Queens,11435.0,Closed,Phone,7
+63609058,2025-01-03 00:32:58,2025-01-03 00:32:58,DOHMH,Rodent,Rat Sighting,Bronx,10468.0,Closed,Online,0
+63609067,2025-01-02 06:43:35,2025-02-04 04:50:48,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11217.0,Closed,Online,32
+63609117,2025-01-02 12:25:51,2025-01-02 12:25:51,DOHMH,Rodent,Rat Sighting,Queens,11426.0,Closed,Online,0
+63609118,2025-01-02 20:52:00,2025-01-02 20:52:00,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Queens,11367.0,Closed,Online,0
+63609222,2025-01-02 18:38:38,2025-01-11 20:27:39,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11215.0,Closed,Phone,9
+63609267,2025-01-02 15:05:11,2025-03-03 15:34:49,DOHMH,Food Establishment,Food Preparation Location,Brooklyn,11228.0,Closed,Online,60
+63609292,2025-01-02 17:26:20,2025-03-03 17:57:10,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11236.0,Closed,Online,60
+63609294,2025-01-02 22:07:40,2025-02-12 13:45:52,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10001.0,Closed,Online,40
+63609307,2025-01-02 23:19:23,2025-01-06 13:32:12,DOHMH,Rodent,Signs of Rodents,Brooklyn,11213.0,Closed,Mobile,3
+63609308,2025-01-02 12:03:01,2025-01-02 12:03:01,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10024.0,Closed,Phone,0
+63609547,2025-01-02 09:22:08,2025-01-02 10:52:54,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63609565,2025-01-02 11:40:37,2025-02-16 15:02:36,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10022.0,Closed,Mobile,45
+63609566,2025-01-02 18:57:37,2025-01-02 18:57:37,DOHMH,Rodent,Mouse Sighting,Queens,11104.0,Closed,Online,0
+63609603,2025-01-02 11:11:22,2025-01-02 11:11:22,DOHMH,Rodent,Rat Sighting,Bronx,10454.0,Closed,Mobile,0
+63609639,2025-01-02 14:06:48,2025-01-02 15:31:19,DOHMH,Indoor Air Quality,Dust from Construction,Brooklyn,11235.0,Closed,Phone,0
+63609684,2025-01-03 01:28:38,2025-03-04 01:36:04,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11434.0,Closed,Mobile,60
+63610102,2025-01-03 01:24:07,2025-03-04 01:36:02,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11434.0,Closed,Mobile,60
+63610108,2025-01-02 21:53:16,2025-01-11 05:55:45,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11103.0,Closed,Phone,8
+63610347,2025-01-02 15:14:31,2025-03-03 15:27:59,DOHMH,Food Establishment,Toilet Facility,Manhattan,10003.0,Closed,Online,60
+63610544,2025-01-03 17:28:37,2025-03-04 17:50:30,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11225.0,Closed,Online,60
+63610571,2025-01-03 23:57:07,2025-01-10 21:28:03,DOHMH,Food Establishment,Pet/Animal,Brooklyn,11249.0,Closed,Online,6
+63610641,2025-01-03 14:49:06,2025-01-08 13:10:36,DOHMH,Drinking Water,Illness Caused by Drinking Water,Manhattan,10009.0,Closed,Online,4
+63610643,2025-01-03 05:53:40,2025-03-04 06:14:53,DOHMH,Mobile Food Vendor,Insects / Pests,Queens,11373.0,Closed,Mobile,60
+63610660,2025-01-03 12:32:58,2025-01-03 14:27:02,DOHMH,Indoor Air Quality,Other (Explain Below),Bronx,10470.0,Closed,Phone,0
+63610661,2025-01-03 11:58:33,2025-01-08 09:53:20,DOHMH,Rodent,Rat Sighting,Brooklyn,11237.0,Closed,Mobile,4
+63610663,2025-01-03 13:57:38,2025-01-08 13:03:39,DOHMH,Indoor Sewage,Sewage Leak,Brooklyn,11235.0,Closed,Phone,4
+63610668,2025-01-03 20:11:28,2025-01-06 09:49:01,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10452.0,Closed,Phone,2
+63610669,2025-01-03 22:04:32,2025-01-03 22:04:32,DOHMH,Rodent,Mouse Sighting,Brooklyn,11230.0,Closed,Mobile,0
+63610670,2025-01-03 18:17:51,2025-01-03 18:17:51,DOHMH,Rodent,Rat Sighting,Manhattan,10026.0,Closed,Mobile,0
+63610679,2025-01-03 22:15:29,2025-01-06 07:28:28,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,2
+63610680,2025-01-03 10:00:50,2025-01-03 10:00:50,DOHMH,Rodent,Signs of Rodents,Brooklyn,11226.0,Closed,Phone,0
+63610698,2025-01-03 11:43:28,2025-01-06 13:28:23,DOHMH,Rodent,Signs of Rodents,Brooklyn,11220.0,Closed,Online,3
+63610732,2025-01-03 04:45:43,2025-03-04 05:03:18,DOHMH,Food Establishment,Food Contains Foreign Object,Manhattan,10018.0,Closed,Online,60
+63610733,2025-01-03 21:33:51,2025-01-10 08:18:28,DOHMH,Day Care,Day Care Facility,Bronx,10456.0,Closed,Phone,6
+63610735,2025-01-03 11:17:59,2025-01-10 21:42:46,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10016.0,Closed,Phone,7
+63610746,2025-01-03 20:02:36,2025-03-04 20:31:30,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Bronx,10460.0,Closed,Phone,60
+63610747,2025-01-03 08:28:14,2025-03-04 08:29:54,DOHMH,Food Establishment,Letter Grading,Brooklyn,11215.0,Closed,Phone,60
+63610755,2025-01-03 14:49:35,2025-03-04 15:06:52,DOHMH,Food Establishment,Food Spoiled,Brooklyn,11203.0,Closed,Phone,60
+63610779,2025-01-03 22:08:48,2025-01-11 20:33:35,DOHMH,Food Establishment,Letter Grading,Brooklyn,11201.0,Closed,Online,7
+63611925,2025-01-03 09:15:59,2025-01-03 10:27:14,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63612020,2025-01-03 08:31:10,2025-03-04 08:34:45,DOHMH,Food Establishment,Food Contaminated,Staten Island,10304.0,Closed,Phone,60
+63612039,2025-01-03 21:16:22,2025-03-04 21:21:24,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11206.0,Closed,Online,60
+63612054,2025-01-03 14:03:41,2025-03-04 14:21:53,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Staten Island,10306.0,Closed,Phone,60
+63612172,2025-01-03 16:23:34,2025-03-04 16:53:48,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11106.0,Closed,Online,60
+63612183,2025-01-03 10:08:12,2025-01-03 10:08:12,DOHMH,Rodent,Rat Sighting,Brooklyn,11217.0,Closed,Online,0
+63612185,2025-01-03 13:29:46,2025-01-03 13:29:46,DOHMH,Unsanitary Animal Pvt Property,Dog,Brooklyn,11234.0,Closed,Online,0
+63612196,2025-01-04 00:01:09,2025-01-10 21:28:04,DOHMH,Food Establishment,Pet/Animal,Brooklyn,11249.0,Closed,Online,6
+63612200,2025-01-03 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10025.0,Closed,Online,3
+63612201,2025-01-03 22:01:07,2025-01-03 22:01:07,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11208.0,Closed,Mobile,0
+63612202,2025-01-03 15:33:43,2025-01-03 15:33:43,DOHMH,Rodent,Rat Sighting,Brooklyn,11214.0,Closed,Phone,0
+63612223,2025-01-03 18:42:02,2025-03-04 19:09:46,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10029.0,Closed,Mobile,60
+63612296,2025-01-03 18:51:51,2025-01-03 18:51:51,DOHMH,Rodent,Rat Sighting,Brooklyn,11226.0,Closed,Online,0
+63612297,2025-01-03 09:51:46,2025-01-03 09:51:46,DOHMH,Rodent,Rat Sighting,Bronx,10456.0,Closed,Phone,0
+63612304,2025-01-03 00:00:00,2025-01-04 00:00:01,DOHMH,Food Poisoning,3 or More,Bronx,10463.0,Closed,Online,1
+63612305,2025-01-03 14:44:45,2025-01-03 16:15:28,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10010.0,Closed,Online,0
+63612340,2025-01-03 10:38:40,2025-03-04 10:39:01,DOHMH,Food Establishment,Food Worker Hygiene,Manhattan,10021.0,Closed,Phone,60
+63612341,2025-01-03 21:41:52,2025-03-04 22:12:52,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10030.0,Closed,Phone,60
+63612350,2025-01-03 12:42:50,2025-03-04 13:05:51,DOHMH,Food Establishment,Food Spoiled,Manhattan,10040.0,Closed,Mobile,60
+63613279,2025-01-03 13:56:29,2025-01-03 15:55:18,DOHMH,Indoor Air Quality,Sewage Odor,Bronx,10463.0,Closed,Phone,0
+63613429,2025-01-03 15:23:27,2025-01-03 16:54:12,DOHMH,Indoor Air Quality,Sewage Odor,Bronx,10457.0,Closed,Phone,0
+63613431,2025-01-03 09:23:46,2025-01-03 10:35:15,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63613531,2025-01-03 16:17:52,2025-03-04 16:21:57,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10452.0,Closed,Online,60
+63613532,2025-01-03 09:28:21,2025-03-04 09:57:00,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11204.0,Closed,Phone,60
+63613539,2025-01-03 18:22:09,2025-03-04 18:25:08,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11213.0,Closed,Online,60
+63613540,2025-01-03 12:39:40,2025-03-04 12:52:15,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11238.0,Closed,Online,60
+63613546,2025-01-03 19:07:49,2025-01-11 15:01:54,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11374.0,Closed,Online,7
+63613613,2025-01-03 08:55:45,2025-03-04 09:12:47,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11206.0,Closed,Online,60
+63613614,2025-01-03 14:11:36,2025-01-17 00:00:01,DOHMH,Food Poisoning,1 or 2,Queens,11419.0,Closed,Phone,13
+63613633,2025-01-03 22:44:13,2025-01-06 08:34:25,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11212.0,Closed,Phone,2
+63613635,2025-01-03 08:46:14,2025-01-06 08:54:51,DOHMH,Rodent,Rat Sighting,Brooklyn,11237.0,Closed,Phone,3
+63613636,2025-01-04 00:18:09,2025-01-06 13:25:40,DOHMH,Rodent,Rat Sighting,Brooklyn,11222.0,Closed,Online,2
+63613651,2025-01-03 09:21:30,2025-03-04 09:48:27,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10013.0,Closed,Online,60
+63613652,2025-01-03 17:15:59,2025-01-05 18:12:28,DOHMH,Indoor Air Quality,Ventilation,Manhattan,10001.0,Closed,Online,2
+63613653,2025-01-03 13:25:40,2025-01-03 13:25:40,DOHMH,Rodent,Rat Sighting,Manhattan,10010.0,Closed,Phone,0
+63613654,2025-01-03 09:48:08,2025-01-03 09:48:08,DOHMH,Unleashed Dog,Unleashed Dog in Public,Bronx,10467.0,Closed,Online,0
+63613665,2025-01-03 17:51:55,2025-01-03 17:51:55,DOHMH,Rodent,Rat Sighting,Manhattan,10014.0,Closed,Online,0
+63613675,2025-01-03 15:42:25,2025-03-04 16:09:50,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10038.0,Closed,Phone,60
+63613698,2025-01-03 15:36:37,2025-03-04 15:49:27,DOHMH,Food Establishment,Odor,Queens,11373.0,Closed,Mobile,60
+63613699,2025-01-03 10:00:42,2025-01-10 21:26:48,DOHMH,Food Establishment,Pet/Animal,Brooklyn,11201.0,Closed,Online,7
+63613735,2025-01-03 15:46:21,2025-03-04 15:54:47,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11101.0,Closed,Phone,60
+63613749,2025-01-03 10:34:02,2025-03-04 10:51:43,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Staten Island,10312.0,Closed,Phone,60
+63613752,2025-01-03 18:56:01,2025-01-11 02:56:20,DOHMH,Food Establishment,Food Preparation Location,Manhattan,10002.0,Closed,Online,7
+63613753,2025-01-03 23:54:18,2025-01-10 21:28:09,DOHMH,Food Establishment,Pet/Animal,Brooklyn,11249.0,Closed,Online,6
+63613777,2025-01-03 16:21:16,2025-01-10 08:16:52,DOHMH,Day Care,Day Care Facility,Queens,11420.0,Closed,Phone,6
+63613828,2025-01-03 00:00:00,2025-01-03 15:41:37,DOHMH,Food Poisoning,1 or 2,Bronx,10466.0,Closed,Phone,0
+63613829,2025-01-03 19:20:51,2025-01-06 09:42:58,DOHMH,Indoor Air Quality,Ventilation,Manhattan,10035.0,Closed,Online,2
+63613850,2025-01-03 20:02:02,2025-01-06 09:45:46,DOHMH,Indoor Air Quality,Ventilation,Manhattan,10002.0,Closed,Online,2
+63613853,2025-01-03 23:08:35,2025-01-03 23:08:35,DOHMH,Rodent,Rat Sighting,Queens,11103.0,Closed,Mobile,0
+63613854,2025-01-03 14:11:55,2025-01-03 14:11:55,DOHMH,Rodent,Rat Sighting,Manhattan,10003.0,Closed,Phone,0
+63613855,2025-01-03 20:29:59,2025-01-06 07:30:25,DOHMH,Rodent,Rat Sighting,Manhattan,10029.0,Closed,Phone,2
+63613857,2025-01-03 10:01:50,2025-01-03 10:01:50,DOHMH,Rodent,Mouse Sighting,Staten Island,10314.0,Closed,Phone,0
+63613858,2025-01-03 19:49:01,2025-01-03 19:49:01,DOHMH,Rodent,Rat Sighting,Brooklyn,11203.0,Closed,Phone,0
+63613859,2025-01-03 08:14:09,2025-01-03 08:14:09,DOHMH,Rodent,Rat Sighting,Brooklyn,11215.0,Closed,Phone,0
+63613861,2025-01-03 15:13:48,2025-01-03 15:13:48,DOHMH,Unleashed Dog,Unleashed Dog in Public,Queens,11385.0,Closed,Phone,0
+63613871,2025-01-03 21:58:44,2025-01-06 07:28:28,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,2
+63613886,2025-01-03 23:38:31,2025-03-04 23:49:32,DOHMH,Food Establishment,Odor,Brooklyn,11214.0,Closed,Mobile,60
+63613887,2025-01-03 08:10:57,2025-03-04 08:28:27,DOHMH,Food Establishment,Toilet Facility,Manhattan,10016.0,Closed,Online,60
+63613894,2025-01-03 14:49:43,2025-01-11 04:53:01,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10017.0,Closed,Mobile,7
+63613932,2025-01-04 01:41:33,2025-03-05 02:07:20,DOHMH,Mobile Food Vendor,Food Temperature,Manhattan,10018.0,Closed,Online,60
+63615078,2025-01-03 21:35:13,2025-03-04 21:48:04,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10032.0,Closed,Online,60
+63615117,2025-01-03 19:05:54,2025-02-08 23:21:23,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10451.0,Closed,Online,36
+63615118,2025-01-03 19:44:32,2025-02-18 19:54:18,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10027.0,Closed,Online,46
+63615133,2025-01-03 12:42:13,2025-02-13 16:53:25,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10011.0,Closed,Phone,41
+63615171,2025-01-03 15:24:04,2025-01-17 11:45:18,DOHMH,Indoor Sewage,Sewage Leak,Bronx,10457.0,Closed,Phone,13
+63615174,2025-01-03 10:24:37,2025-01-06 14:21:44,DOHMH,Rodent,Mouse Sighting,Brooklyn,11236.0,Closed,Mobile,3
+63615175,2025-01-03 15:08:52,2025-01-03 15:08:52,DOHMH,Rodent,Mouse Sighting,Manhattan,10029.0,Closed,Phone,0
+63615176,2025-01-03 07:48:02,2025-01-03 07:48:02,DOHMH,Rodent,Rat Sighting,Manhattan,10023.0,Closed,Online,0
+63615178,2025-01-03 23:09:10,2025-03-04 23:34:38,DOHMH,Food Establishment,Food Contaminated,Queens,11375.0,Closed,Online,60
+63615198,2025-01-03 00:00:00,2025-01-09 10:54:43,DOHMH,Food Poisoning,1 or 2,Manhattan,10036.0,Closed,Online,6
+63615220,2025-01-03 11:53:11,2025-03-04 12:05:36,DOHMH,Food Establishment,Food Protection,Manhattan,10013.0,Closed,Online,60
+63615235,2025-01-03 15:41:44,2025-01-03 15:41:44,DOHMH,Rodent,Rat Sighting,Brooklyn,11220.0,Closed,Phone,0
+63615236,2025-01-03 13:34:49,2025-01-03 13:34:49,DOHMH,Rodent,Rat Sighting,Bronx,10452.0,Closed,Phone,0
+63615265,2025-01-03 17:52:17,2025-03-04 18:25:59,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11204.0,Closed,Online,60
+63615272,2025-01-03 15:14:08,2025-03-04 15:41:34,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10028.0,Closed,Online,60
+63615280,2025-01-03 08:28:37,2025-01-10 22:59:18,DOHMH,Mobile Food Vendor,Food Source/Protection,Manhattan,10025.0,Closed,Online,7
+63615296,2025-01-03 15:37:32,2025-03-04 08:34:47,DOHMH,Food Establishment,Rodents/Insects/Garbage,Staten Island,10304.0,Closed,Phone,59
+63615334,2025-01-03 10:36:16,2025-02-27 00:00:01,DOHMH,Food Poisoning,3 or More,Queens,11385.0,Closed,Phone,54
+63615337,2025-01-03 02:51:21,2025-01-03 02:51:21,DOHMH,Rodent,Signs of Rodents,Bronx,10460.0,Closed,Mobile,0
+63615393,2025-01-03 17:11:50,2025-01-05 18:03:47,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11228.0,Closed,Phone,2
+63615394,2025-01-03 12:10:24,2025-01-03 12:10:24,DOHMH,Rodent,Rat Sighting,Bronx,10454.0,Closed,Phone,0
+63615438,2025-01-03 13:17:23,2025-01-11 06:45:58,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Brooklyn,11237.0,Closed,Online,7
+63616291,2025-01-03 14:18:46,2025-01-03 16:09:15,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11203.0,Closed,Phone,0
+63616659,2025-01-03 22:57:36,2025-03-04 23:22:47,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11220.0,Closed,Online,60
+63616662,2025-01-03 21:29:50,2025-03-04 21:35:22,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11374.0,Closed,Online,60
+63616678,2025-01-03 09:49:07,2025-03-04 09:57:02,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11224.0,Closed,Phone,60
+63616679,2025-01-03 10:27:56,2025-02-05 09:49:36,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11377.0,Closed,Online,32
+63616705,2025-01-03 12:27:53,2025-01-08 13:02:03,DOHMH,Drinking Water,Illness Caused by Drinking Water,Manhattan,10033.0,Closed,Phone,5
+63616706,2025-01-03 11:41:16,2025-03-04 12:04:38,DOHMH,Food Establishment,Food Contaminated,Manhattan,10025.0,Closed,Phone,60
+63616738,2025-01-03 10:50:32,2025-03-04 11:17:55,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10007.0,Closed,Online,60
+63616739,2025-01-03 00:00:00,2025-01-06 08:41:05,DOHMH,Food Poisoning,1 or 2,Manhattan,10019.0,Closed,Online,3
+63616741,2025-01-03 18:03:06,2025-01-06 08:30:32,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11218.0,Closed,Phone,2
+63616742,2025-01-03 22:04:41,2025-01-06 09:18:42,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10022.0,Closed,Online,2
+63616743,2025-01-03 15:34:10,2025-01-03 15:34:10,DOHMH,Rodent,Condition Attracting Rodents,Queens,11417.0,Closed,Phone,0
+63616744,2025-01-03 14:24:35,2025-01-03 14:24:35,DOHMH,Rodent,Rat Sighting,Manhattan,10030.0,Closed,Online,0
+63616745,2025-01-03 13:28:04,2025-01-03 13:28:04,DOHMH,Rodent,Signs of Rodents,Brooklyn,11213.0,Closed,Mobile,0
+63616752,2025-01-03 16:35:36,2025-03-04 16:54:32,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11201.0,Closed,Online,60
+63616753,2025-01-03 17:46:47,2025-03-04 17:50:31,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11225.0,Closed,Online,60
+63616769,2025-01-03 08:40:34,2025-01-06 13:39:00,DOHMH,Unsanitary Animal Pvt Property,Dog,Brooklyn,11233.0,Closed,Phone,3
+63616786,2025-01-03 03:02:06,2025-01-06 06:43:51,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10002.0,Closed,Online,3
+63616787,2025-01-04 00:36:20,2025-01-04 00:36:20,DOHMH,Rodent,Rat Sighting,Manhattan,10019.0,Closed,Online,0
+63616788,2025-01-03 10:04:18,2025-01-06 10:17:27,DOHMH,Rodent,Rat Sighting,Brooklyn,11225.0,Closed,Online,3
+63616796,2025-01-03 00:00:00,2025-01-14 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10017.0,Closed,Phone,11
+63616798,2025-01-03 13:37:53,2025-01-06 13:27:22,DOHMH,Rodent,Signs of Rodents,Brooklyn,11213.0,Closed,Mobile,2
+63616799,2025-01-03 09:53:29,2025-01-03 09:53:29,DOHMH,Rodent,Signs of Rodents,Brooklyn,11213.0,Closed,Online,0
+63616802,2025-01-03 08:03:32,2025-03-04 08:11:15,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11226.0,Closed,Mobile,60
+63616819,2025-01-03 01:55:48,2025-01-03 01:55:48,DOHMH,Rodent,Rat Sighting,Bronx,10458.0,Closed,Mobile,0
+63616820,2025-01-03 16:48:54,2025-01-03 16:48:54,DOHMH,Rodent,Rat Sighting,Bronx,10465.0,Closed,Online,0
+63616821,2025-01-03 17:01:09,2025-01-06 14:06:03,DOHMH,Rodent,Rat Sighting,Brooklyn,11220.0,Closed,Phone,2
+63616868,2025-01-03 10:41:18,2025-01-06 07:56:00,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10032.0,Closed,Phone,2
+63616869,2025-01-03 22:29:49,2025-01-07 08:57:12,DOHMH,Rodent,Rat Sighting,Brooklyn,11215.0,Closed,Mobile,3
+63616872,2025-01-03 15:06:40,2025-03-04 15:12:00,DOHMH,Food Establishment,Rodents/Insects/Garbage,Bronx,10463.0,Closed,Phone,60
+63616892,2025-01-03 14:06:32,2025-01-03 14:06:32,DOHMH,Rodent,Signs of Rodents,Manhattan,10024.0,Closed,Mobile,0
+63616948,2025-01-03 15:27:04,2025-03-04 15:31:43,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Brooklyn,11216.0,Closed,Phone,60
+63616987,2025-01-03 11:56:37,2025-01-11 14:49:32,DOHMH,Mobile Food Vendor,Food Worker Activity,Manhattan,10011.0,Closed,Phone,8
+63617387,2025-01-03 15:49:28,2025-01-06 08:26:26,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11226.0,Closed,Phone,2
+63617846,2025-01-03 02:07:38,2025-01-03 09:36:52,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11207.0,Closed,Phone,0
+63618068,2025-01-03 08:47:51,2025-01-03 16:00:28,DOHMH,Rodent,Signs of Rodents,Queens,11102.0,Closed,Online,0
+63618223,2025-01-03 19:39:27,2025-02-04 04:50:50,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11217.0,Closed,Online,31
+63618239,2025-01-03 13:33:25,2025-03-04 13:57:32,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10032.0,Closed,Phone,60
+63618240,2025-01-03 17:16:14,2025-02-06 11:49:11,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10472.0,Closed,Online,33
+63618301,2025-01-03 15:48:46,2025-03-04 16:13:17,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11201.0,Closed,Online,60
+63618309,2025-01-03 22:36:24,2025-01-03 22:36:24,DOHMH,Rodent,Rat Sighting,Manhattan,10023.0,Closed,Phone,0
+63618310,2025-01-03 21:51:06,2025-01-06 07:28:28,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,2
+63618343,2025-01-03 12:43:27,2025-01-10 21:24:39,DOHMH,Food Establishment,Toilet Facility,Brooklyn,11249.0,Closed,Online,7
+63618353,2025-01-03 22:48:13,2025-01-14 09:27:07,DOHMH,Rodent,Rat Sighting,Queens,11102.0,Closed,Online,10
+63618355,2025-01-03 14:15:30,2025-01-03 14:15:30,DOHMH,Unsanitary Animal Pvt Property,Other Animal,Queens,11432.0,Closed,Phone,0
+63618356,2025-01-03 12:46:58,2025-01-03 12:46:58,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Staten Island,10305.0,Closed,Phone,0
+63618398,2025-01-03 14:11:35,2025-03-04 14:38:32,DOHMH,Food Establishment,Food Spoiled,Bronx,10454.0,Closed,Phone,60
+63618399,2025-01-03 13:46:51,2025-01-11 20:31:55,DOHMH,Food Establishment,Letter Grading,Queens,11375.0,Closed,Mobile,8
+63618428,2025-01-03 22:04:56,2025-01-10 22:58:27,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,7
+63618506,2025-01-03 06:16:23,2025-01-03 06:16:23,DOHMH,Rodent,Rat Sighting,Bronx,10456.0,Closed,Mobile,0
+63618507,2025-01-03 10:52:01,2025-01-03 10:52:01,DOHMH,Rodent,Rat Sighting,Manhattan,10012.0,Closed,Phone,0
+63618508,2025-01-03 18:00:36,2025-01-03 18:00:36,DOHMH,Rodent,Rat Sighting,Queens,11365.0,Closed,Online,0
+63618521,2025-01-03 22:46:28,2025-01-06 14:05:35,DOHMH,Rodent,Rat Sighting,Queens,11377.0,Closed,Mobile,2
+63618544,2025-01-03 22:23:51,2025-03-04 22:31:52,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Queens,11426.0,Closed,Mobile,60
+63618553,2025-01-03 18:05:00,2025-01-06 08:50:33,DOHMH,Unsanitary Animal Pvt Property,Other Animal,Bronx,10454.0,Closed,Online,2
+63618966,2025-01-03 18:10:15,2025-01-05 18:19:00,DOHMH,Indoor Air Quality,Human Feces,Brooklyn,11218.0,Closed,Online,2
+63619353,2025-01-03 12:46:36,2025-01-03 14:29:56,DOHMH,Indoor Air Quality,Human Feces,Brooklyn,11228.0,Closed,Phone,0
+63619364,2025-01-03 14:46:17,2025-01-03 17:02:39,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11373.0,Closed,Phone,0
+63619528,2025-01-03 06:45:25,2025-01-03 07:33:28,DOHMH,Rodent,Mouse Sighting,Manhattan,10035.0,Closed,Mobile,0
+63619547,2025-01-03 09:01:05,2025-01-03 10:28:45,DOHMH,Rodent,Rat Sighting,Manhattan,10025.0,Closed,Phone,0
+63619627,2025-01-04 00:49:41,2025-01-06 13:04:46,DOHMH,Building Drinking Water Tank,Unsanitary Condition,Brooklyn,11225.0,Closed,Online,2
+63619785,2025-01-03 12:36:12,2025-03-04 12:47:24,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10011.0,Closed,Online,60
+63619787,2025-01-03 23:05:33,2025-01-03 23:05:33,DOHMH,Rodent,Rat Sighting,Brooklyn,11228.0,Closed,Mobile,0
+63619788,2025-01-03 23:07:01,2025-01-03 23:07:01,DOHMH,Rodent,Rat Sighting,Queens,11103.0,Closed,Mobile,0
+63619789,2025-01-03 22:50:24,2025-01-03 22:50:24,DOHMH,Rodent,Rat Sighting,Queens,11369.0,Closed,Online,0
+63619790,2025-01-03 22:08:20,2025-01-06 07:28:28,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,2
+63619791,2025-01-03 08:55:06,2025-01-03 08:55:06,DOHMH,Unleashed Dog,Unleashed Dog in Public,Manhattan,10024.0,Closed,Online,0
+63619800,2025-01-03 22:04:11,2025-02-22 16:57:00,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10022.0,Closed,Online,49
+63619807,2025-01-03 12:30:00,2025-01-03 14:23:55,DOHMH,Indoor Air Quality,Unsafe Mold Cleanup,Bronx,10467.0,Closed,Online,0
+63619816,2025-01-03 10:05:01,2025-01-10 19:45:00,DOHMH,Day Care,Day Care Facility,Bronx,10458.0,Closed,Phone,7
+63619825,2025-01-03 13:53:30,2025-03-04 14:11:34,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10023.0,Closed,Phone,60
+63619848,2025-01-03 02:00:47,2025-01-03 02:00:47,DOHMH,Rodent,Rat Sighting,Bronx,10458.0,Closed,Mobile,0
+63619878,2025-01-03 14:18:58,2025-01-03 14:18:58,DOHMH,Rodent,Rat Sighting,Manhattan,10023.0,Closed,Online,0
+63619879,2025-01-03 11:25:04,2025-01-03 11:25:04,DOHMH,Rodent,Signs of Rodents,Manhattan,10023.0,Closed,Online,0
+63619903,2025-01-03 15:03:21,2025-03-04 15:16:47,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10039.0,Closed,Online,60
+63619904,2025-01-03 21:36:23,2025-01-06 09:16:52,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10464.0,Closed,Online,2
+63619906,2025-01-03 09:03:53,2025-01-03 09:03:53,DOHMH,Rodent,Rat Sighting,Manhattan,10128.0,Closed,Phone,0
+63619907,2025-01-03 20:51:14,2025-01-03 20:51:14,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Online,0
+63619908,2025-01-03 13:11:23,2025-01-03 13:11:23,DOHMH,Rodent,Rat Sighting,Manhattan,10019.0,Closed,Online,0
+63619925,2025-01-03 18:19:08,2025-03-04 18:43:47,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10468.0,Closed,Online,60
+63619926,2025-01-03 16:31:35,2025-01-06 09:39:27,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10023.0,Closed,Online,2
+63620866,2025-01-03 06:45:11,2025-01-03 11:15:55,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10028.0,Closed,Online,0
+63620882,2025-01-03 09:15:43,2025-01-03 10:56:02,DOHMH,Indoor Air Quality,Sewage Odor,Staten Island,10304.0,Closed,Phone,0
+63621059,2025-01-03 08:02:16,2025-01-03 08:02:16,DOHMH,Rodent,Rat Sighting,Manhattan,10026.0,Closed,Online,0
+63621226,2025-01-03 14:52:24,2025-03-04 14:55:55,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10452.0,Closed,Online,60
+63621336,2025-01-03 00:00:00,2025-01-21 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10280.0,Closed,Online,18
+63621339,2025-01-03 09:36:40,2025-01-03 12:56:02,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11207.0,Closed,Phone,0
+63621340,2025-01-03 10:43:29,2025-01-03 10:43:29,DOHMH,Rodent,Mouse Sighting,Queens,11379.0,Closed,Online,0
+63621352,2025-01-03 14:59:07,2025-01-03 14:59:07,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10028.0,Closed,Phone,0
+63621356,2025-01-03 15:56:56,2025-03-04 16:19:47,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11235.0,Closed,Online,60
+63621358,2025-01-03 15:50:39,2025-03-04 16:04:09,DOHMH,Food Establishment,Food Contaminated,Bronx,10467.0,Closed,Phone,60
+63621359,2025-01-03 14:43:47,2025-01-03 14:43:47,DOHMH,Unsanitary Animal Pvt Property,Dog,Brooklyn,11211.0,Closed,Online,0
+63621395,2025-01-03 12:50:55,2025-02-04 07:53:54,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10011.0,Closed,Phone,31
+63621433,2025-01-03 14:17:05,2025-02-16 08:39:43,DOHMH,Food Establishment,Food Temperature,Manhattan,10006.0,Closed,Online,43
+63621436,2025-01-03 17:29:57,2025-01-03 17:29:57,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10451.0,Closed,Phone,0
+63621437,2025-01-03 11:47:10,2025-01-03 11:47:10,DOHMH,Rodent,Rat Sighting,Brooklyn,11220.0,Closed,Online,0
+63621457,2025-01-03 09:56:32,2025-01-06 10:17:27,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11225.0,Closed,Online,3
+63621459,2025-01-03 10:47:37,2025-01-03 10:47:37,DOHMH,Unleashed Dog,Unleashed Dog in Public,Bronx,10468.0,Closed,Online,0
+63621467,2025-01-03 11:38:47,2025-01-03 11:38:47,DOHMH,Rodent,Rat Sighting,Bronx,10474.0,Closed,Phone,0
+63621468,2025-01-03 15:03:55,2025-01-03 15:03:55,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11385.0,Closed,Phone,0
+63621493,2025-01-04 00:15:41,2025-01-11 09:04:13,DOHMH,Food Establishment,No Permit or License,Brooklyn,11213.0,Closed,Mobile,7
+63621494,2025-01-03 06:40:20,2025-03-04 06:44:00,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10034.0,Closed,Phone,60
+63621517,2025-01-03 17:24:15,2025-03-04 17:36:11,DOHMH,Food Establishment,Food Spoiled,Queens,11361.0,Closed,Online,60
+63621530,2025-01-03 15:01:36,2025-01-11 02:27:57,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10022.0,Closed,Mobile,7
+63621554,2025-01-03 13:30:46,2025-01-03 13:30:46,DOHMH,Rodent,Condition Attracting Rodents,Queens,11385.0,Closed,Phone,0
+63621555,2025-01-03 09:15:49,2025-01-03 09:15:49,DOHMH,Rodent,Rat Sighting,Manhattan,10019.0,Closed,Mobile,0
+63621556,2025-01-03 10:10:17,2025-01-03 10:10:17,DOHMH,Rodent,Signs of Rodents,Manhattan,10025.0,Closed,Online,0
+63621608,2025-01-03 17:00:33,2025-03-04 17:03:21,DOHMH,Food Establishment,Food Contains Foreign Object,Bronx,10453.0,Closed,Phone,60
+63621609,2025-01-03 17:54:50,2025-03-04 18:10:00,DOHMH,Food Establishment,Food Worker Activity,Staten Island,10305.0,Closed,Online,60
+63621666,2025-01-03 22:04:01,2025-01-10 23:02:52,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,7
+63621947,2025-01-03 21:11:27,2025-01-06 09:36:12,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11365.0,Closed,Phone,2
+63622424,2025-01-03 14:12:05,2025-01-03 16:01:34,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11239.0,Closed,Phone,0
+63622433,2025-01-03 09:18:25,2025-01-03 12:50:54,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11373.0,Closed,Phone,0
+63622548,2025-01-03 09:08:02,2025-01-03 10:27:14,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63622549,2025-01-03 09:01:29,2025-01-03 10:27:14,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63622648,2025-01-03 08:53:20,2025-01-03 10:27:14,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63622821,2025-01-04 15:02:23,2025-03-05 15:20:52,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10038.0,Closed,Online,60
+63622838,2025-01-04 20:36:45,2025-02-21 13:31:02,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10472.0,Closed,Online,47
+63622934,2025-01-04 12:26:39,2025-01-11 04:40:36,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10022.0,Closed,Mobile,6
+63622938,2025-01-04 21:47:27,2025-01-04 21:47:27,DOHMH,Rodent,Mouse Sighting,Queens,11373.0,Closed,Mobile,0
+63622939,2025-01-04 18:30:45,2025-01-06 07:52:01,DOHMH,Rodent,Rat Sighting,Manhattan,10031.0,Closed,Online,1
+63622942,2025-01-04 14:59:21,2025-01-06 10:07:08,DOHMH,Indoor Air Quality,Ventilation,Queens,11368.0,Closed,Online,1
+63622943,2025-01-04 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,3 or More,Brooklyn,11207.0,Closed,Online,2
+63622944,2025-01-04 09:52:15,2025-01-06 07:28:28,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,1
+63622945,2025-01-04 12:06:27,2025-01-06 07:32:16,DOHMH,Rodent,Rat Sighting,Manhattan,10025.0,Closed,Phone,1
+63622946,2025-01-04 18:29:22,2025-01-04 18:29:22,DOHMH,Rodent,Rat Sighting,Bronx,10467.0,Closed,Mobile,0
+63622948,2025-01-04 08:13:20,2025-01-11 08:08:02,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11249.0,Closed,Online,6
+63622955,2025-01-04 09:27:51,2025-01-06 14:15:14,DOHMH,Rodent,Mouse Sighting,Brooklyn,11238.0,Closed,Mobile,2
+63622968,2025-01-04 14:46:12,2025-03-05 14:59:18,DOHMH,Food Establishment,Letter Grading,Queens,11103.0,Closed,Online,60
+63622971,2025-01-04 08:19:00,2025-01-10 21:39:17,DOHMH,Food Establishment,No Permit or License,Bronx,10458.0,Closed,Mobile,6
+63622972,2025-01-04 21:32:53,2025-01-06 13:16:53,DOHMH,Rodent,Signs of Rodents,Brooklyn,11222.0,Closed,Online,1
+63622973,2025-01-04 09:37:45,2025-01-10 21:29:06,DOHMH,Food Establishment,Pet/Animal,Brooklyn,11238.0,Closed,Online,6
+63624360,2025-01-04 02:23:52,2025-01-04 02:23:52,DOHMH,Rodent,Mouse Sighting,Bronx,10462.0,Closed,Mobile,0
+63624419,2025-01-04 18:56:53,2025-03-05 19:23:10,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11213.0,Closed,Online,60
+63624461,2025-01-04 18:02:11,2025-02-24 12:15:59,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11220.0,Closed,Online,50
+63624462,2025-01-04 06:49:59,2025-01-06 08:10:46,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10026.0,Closed,Mobile,2
+63624463,2025-01-04 10:25:21,2025-01-04 10:25:21,DOHMH,Rodent,Rat Sighting,Queens,11375.0,Closed,Phone,0
+63624481,2025-01-04 11:59:29,2025-01-04 11:59:29,DOHMH,Rodent,Rat Sighting,Queens,11374.0,Closed,Phone,0
+63624482,2025-01-04 10:13:46,2025-01-04 10:13:46,DOHMH,Rodent,Rat Sighting,Manhattan,10002.0,Closed,Online,0
+63624483,2025-01-04 16:14:24,2025-01-04 16:14:24,DOHMH,Rodent,Rat Sighting,Bronx,10461.0,Closed,Online,0
+63624484,2025-01-04 06:54:31,2025-01-06 06:25:33,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10028.0,Closed,Online,1
+63624513,2025-01-04 19:24:55,2025-03-05 19:39:28,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11420.0,Closed,Mobile,60
+63624514,2025-01-04 23:29:37,2025-03-05 23:39:38,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10001.0,Closed,Online,60
+63624515,2025-01-04 15:11:42,2025-01-10 21:30:17,DOHMH,Food Establishment,Toilet Facility,Manhattan,10028.0,Closed,Phone,6
+63624522,2025-01-04 19:39:32,2025-03-05 19:47:24,DOHMH,Food Establishment,Sign,Manhattan,10002.0,Closed,Online,60
+63624523,2025-01-04 17:46:16,2025-01-06 09:20:03,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10022.0,Closed,Online,1
+63624524,2025-01-04 09:33:58,2025-01-06 07:28:28,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,1
+63624545,2025-01-04 14:33:19,2025-03-05 14:39:22,DOHMH,Mobile Food Vendor,Food Worker Activity,Manhattan,10075.0,Closed,Online,60
+63625110,2025-01-04 19:35:00,2025-03-05 20:03:49,DOHMH,Food Establishment,Food Contaminated,Brooklyn,11225.0,Closed,Phone,60
+63625836,2025-01-04 20:47:59,2025-01-04 20:47:59,DOHMH,Rodent,Mouse Sighting,Bronx,10469.0,Closed,Mobile,0
+63625838,2025-01-04 13:09:09,2025-01-04 13:09:09,DOHMH,Rodent,Rat Sighting,Brooklyn,11232.0,Closed,Mobile,0
+63625840,2025-01-04 07:34:40,2025-01-04 07:34:40,DOHMH,Rodent,Signs of Rodents,Brooklyn,11222.0,Closed,Mobile,0
+63625851,2025-01-04 22:56:27,2025-01-04 22:56:27,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10471.0,Closed,Mobile,0
+63625853,2025-01-04 13:44:33,2025-01-04 13:44:33,DOHMH,Rodent,Rat Sighting,Staten Island,10308.0,Closed,Phone,0
+63625866,2025-01-04 05:12:59,2025-01-11 07:22:15,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11237.0,Closed,Phone,7
+63625867,2025-01-04 05:09:01,2025-01-11 07:22:14,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11237.0,Closed,Phone,7
+63625885,2025-01-04 22:06:38,2025-01-10 22:58:29,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,6
+63625994,2025-01-04 19:28:39,2025-03-05 19:42:44,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10467.0,Closed,Online,60
+63625995,2025-01-04 00:00:00,2025-01-17 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10003.0,Closed,Online,13
+63625997,2025-01-04 11:15:07,2025-01-04 11:15:07,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10033.0,Closed,Mobile,0
+63625998,2025-01-04 23:50:55,2025-01-04 23:50:55,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10075.0,Closed,Online,0
+63625999,2025-01-04 17:26:04,2025-01-04 17:26:04,DOHMH,Rodent,Rat Sighting,Manhattan,10024.0,Closed,Online,0
+63626104,2025-01-04 17:10:59,2025-03-05 17:20:44,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11235.0,Closed,Online,60
+63626129,2025-01-05 01:23:41,2025-01-05 01:23:41,DOHMH,Pet Shop,Dogs or Cats Sold,Queens,11356.0,Closed,Online,0
+63626214,2025-01-04 19:01:42,2025-03-05 19:13:52,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10036.0,Closed,Online,60
+63626215,2025-01-04 13:22:45,2025-01-06 08:40:11,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11220.0,Closed,Online,1
+63626219,2025-01-04 13:44:53,2025-03-05 14:05:50,DOHMH,Food Establishment,Food Spoiled,Bronx,10466.0,Closed,Online,60
+63626220,2025-01-04 10:45:15,2025-03-05 10:57:20,DOHMH,Food Establishment,Toilet Facility,Staten Island,10305.0,Closed,Online,60
+63626534,2025-01-04 10:32:26,2025-01-06 08:37:06,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11233.0,Closed,Online,1
+63627355,2025-01-05 00:53:21,2025-03-06 01:20:21,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10032.0,Closed,Online,60
+63627356,2025-01-04 15:25:39,2025-01-09 16:15:26,DOHMH,Beach/Pool/Sauna Complaint,Facility Maintenance,Manhattan,10016.0,Closed,Online,5
+63627370,2025-01-04 12:06:57,2025-01-11 02:27:54,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10022.0,Closed,Mobile,6
+63627371,2025-01-04 13:23:48,2025-02-13 19:48:43,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11213.0,Closed,Online,40
+63627372,2025-01-04 00:00:00,2025-01-24 00:00:01,DOHMH,Food Poisoning,1 or 2,Queens,11430.0,Closed,Online,20
+63627373,2025-01-04 17:46:44,2025-02-22 16:56:50,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10022.0,Closed,Online,48
+63627380,2025-01-04 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10023.0,Closed,Online,2
+63627381,2025-01-04 13:51:00,2025-01-06 09:51:55,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10463.0,Closed,Phone,1
+63627382,2025-01-04 14:51:21,2025-01-06 07:34:37,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10027.0,Closed,Phone,1
+63627383,2025-01-04 10:39:31,2025-01-06 06:36:06,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10009.0,Closed,Online,1
+63627384,2025-01-04 11:55:24,2025-01-06 14:11:00,DOHMH,Rodent,Rat Sighting,Brooklyn,11216.0,Closed,Phone,2
+63627398,2025-01-04 16:26:34,2025-03-05 16:37:27,DOHMH,Food Establishment,Food Spoiled,Queens,11101.0,Closed,Mobile,60
+63627399,2025-01-04 17:33:38,2025-03-05 17:42:19,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11216.0,Closed,Online,60
+63627407,2025-01-04 00:00:00,2025-01-29 00:00:01,DOHMH,Food Poisoning,1 or 2,Brooklyn,11220.0,Closed,Phone,25
+63627410,2025-01-04 12:31:51,2025-01-11 04:20:39,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10019.0,Closed,Mobile,6
+63627411,2025-01-04 00:00:00,2025-01-06 08:40:23,DOHMH,Food Poisoning,1 or 2,Brooklyn,11226.0,Closed,Phone,2
+63627412,2025-01-04 16:44:30,2025-01-04 16:44:30,DOHMH,Rodent,Condition Attracting Rodents,Queens,11104.0,Closed,Online,0
+63627413,2025-01-04 17:04:15,2025-01-04 17:04:15,DOHMH,Rodent,Mouse Sighting,Queens,11379.0,Closed,Mobile,0
+63627414,2025-01-04 01:51:49,2025-01-06 08:14:16,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Phone,2
+63627415,2025-01-04 09:25:22,2025-01-06 07:28:28,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,1
+63627525,2025-01-04 04:28:48,2025-01-06 09:25:52,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10469.0,Closed,Online,2
+63627526,2025-01-04 12:36:18,2025-01-04 12:36:18,DOHMH,Rodent,Rat Sighting,Bronx,10467.0,Closed,Mobile,0
+63627527,2025-01-04 08:42:15,2025-01-04 08:42:15,DOHMH,Rodent,Rat Sighting,Bronx,10459.0,Closed,Mobile,0
+63627528,2025-01-04 17:30:05,2025-01-06 14:06:58,DOHMH,Rodent,Rat Sighting,Brooklyn,11228.0,Closed,Phone,1
+63627636,2025-01-04 06:22:25,2025-01-04 06:22:25,DOHMH,Illegal Animal Kept As Pet,Rooster,Bronx,10458.0,Closed,Phone,0
+63627637,2025-01-04 19:53:08,2025-01-04 19:53:08,DOHMH,Rodent,Signs of Rodents,Brooklyn,11233.0,Closed,Phone,0
+63627638,2025-01-04 14:06:08,2025-01-04 14:06:08,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10065.0,Closed,Online,0
+63628176,2025-01-05 01:48:30,2025-01-06 08:49:26,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11210.0,Closed,Phone,1
+63628978,2025-01-04 11:17:01,2025-01-06 07:43:00,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10033.0,Closed,Mobile,1
+63628979,2025-01-04 15:31:01,2025-01-06 10:13:28,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10468.0,Closed,Online,1
+63628980,2025-01-04 19:21:09,2025-01-06 09:20:38,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Mobile,1
+63628981,2025-01-04 19:40:40,2025-01-06 13:24:01,DOHMH,Rodent,Rat Sighting,Brooklyn,11205.0,Closed,Online,1
+63628983,2025-01-04 09:49:45,2025-03-05 10:06:58,DOHMH,Food Establishment,Food Spoiled,Brooklyn,11234.0,Closed,Online,60
+63628984,2025-01-04 22:09:33,2025-03-05 22:38:13,DOHMH,Food Establishment,Food Spoiled,Manhattan,10011.0,Closed,Online,60
+63628988,2025-01-04 12:34:53,2025-01-11 18:07:50,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10020.0,Closed,Mobile,7
+63628991,2025-01-04 22:57:20,2025-03-05 23:17:43,DOHMH,Mobile Food Vendor,Smoke/Odor,Brooklyn,11211.0,Closed,Mobile,60
+63629065,2025-01-04 08:54:49,2025-01-04 08:54:49,DOHMH,Food Poisoning,3 or More,Manhattan,10003.0,Closed,Online,0
+63629067,2025-01-04 10:48:47,2025-01-13 12:47:27,DOHMH,Rodent,Mouse Sighting,Brooklyn,11221.0,Closed,Mobile,9
+63629069,2025-01-04 17:05:37,2025-01-04 17:05:37,DOHMH,Unleashed Dog,Unleashed Dog in Public,Manhattan,10020.0,Closed,Online,0
+63629113,2025-01-04 15:59:58,2025-01-31 11:11:21,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11223.0,Closed,Online,26
+63629130,2025-01-04 15:04:03,2025-01-06 08:43:32,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11218.0,Closed,Phone,1
+63629131,2025-01-04 09:29:58,2025-01-04 09:29:58,DOHMH,Rodent,Signs of Rodents,Queens,11419.0,Closed,Mobile,0
+63629249,2025-01-04 10:58:32,2025-01-11 18:06:18,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10019.0,Closed,Mobile,7
+63629251,2025-01-04 12:44:06,2025-03-05 12:48:51,DOHMH,Food Establishment,No Permit or License,Queens,11101.0,Closed,Online,60
+63629252,2025-01-04 16:06:54,2025-03-05 16:12:27,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11378.0,Closed,Mobile,60
+63630460,2025-01-04 18:58:13,2025-01-06 08:46:45,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11206.0,Closed,Phone,1
+63630463,2025-01-04 10:10:46,2025-01-06 06:36:28,DOHMH,Unsanitary Pigeon Condition,Pigeon Odor,Manhattan,10009.0,Closed,Online,1
+63630469,2025-01-04 17:53:42,2025-03-05 18:01:22,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Manhattan,10009.0,Closed,Phone,60
+63630470,2025-01-04 17:46:48,2025-01-11 06:55:42,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11355.0,Closed,Mobile,6
+63630474,2025-01-04 10:37:48,2025-02-28 09:36:06,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11374.0,Closed,Online,54
+63630498,2025-01-04 11:01:52,2025-01-11 07:21:20,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11432.0,Closed,Phone,6
+63630500,2025-01-04 11:36:06,2025-03-05 11:45:25,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10003.0,Closed,Online,60
+63630502,2025-01-04 20:37:24,2025-01-04 20:37:24,DOHMH,Rodent,Mouse Sighting,Manhattan,10039.0,Closed,Mobile,0
+63630503,2025-01-04 16:06:46,2025-01-04 16:06:46,DOHMH,Rodent,Rat Sighting,Manhattan,10016.0,Closed,Online,0
+63630580,2025-01-04 20:04:25,2025-01-08 13:47:45,DOHMH,Indoor Sewage,Sewage Leak,Brooklyn,11211.0,Closed,Phone,3
+63630582,2025-01-04 17:11:48,2025-01-04 17:11:48,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10472.0,Closed,Mobile,0
+63630583,2025-01-04 09:29:27,2025-01-04 09:29:27,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Mobile,0
+63630584,2025-01-04 13:01:16,2025-01-06 14:05:01,DOHMH,Rodent,Rat Sighting,Queens,11104.0,Closed,Phone,2
+63630585,2025-01-04 09:29:23,2025-01-04 09:29:23,DOHMH,Rodent,Rat Sighting,Brooklyn,11207.0,Closed,Phone,0
+63630587,2025-01-04 01:55:21,2025-01-06 08:12:51,DOHMH,Unsanitary Animal Pvt Property,Other Animal,Manhattan,10033.0,Closed,Phone,2
+63630858,2025-01-04 12:29:27,2025-01-08 12:02:05,DOHMH,Drinking Water,Illness Caused by Drinking Water,Brooklyn,11221.0,Closed,Online,3
+63630859,2025-01-04 22:04:16,2025-03-05 22:34:48,DOHMH,Food Establishment,Facility Construction,Manhattan,10002.0,Closed,Online,60
+63630876,2025-01-04 18:11:56,2025-01-10 22:23:33,DOHMH,Mobile Food Vendor,Equipment,Manhattan,10036.0,Closed,Online,6
+63630878,2025-01-04 16:55:13,2025-01-10 21:39:51,DOHMH,Food Establishment,Food Spoiled,Brooklyn,11203.0,Closed,Phone,6
+63630879,2025-01-04 08:34:16,2025-03-05 08:42:51,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11216.0,Closed,Online,60
+63630880,2025-01-04 15:57:37,2025-03-05 16:11:34,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10128.0,Closed,Online,60
+63631227,2025-01-04 21:29:38,2025-01-06 09:35:31,DOHMH,Indoor Air Quality,Sewage Odor,Manhattan,10016.0,Closed,Online,1
+63632060,2025-01-04 11:42:44,2025-03-05 11:54:21,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11217.0,Closed,Online,60
+63632061,2025-01-04 09:09:42,2025-02-25 11:54:30,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11207.0,Closed,Online,52
+63632064,2025-01-04 17:37:45,2025-03-05 18:04:17,DOHMH,Food Establishment,Food Protection,Queens,11103.0,Closed,Online,60
+63632068,2025-01-04 12:03:44,2025-03-05 12:13:04,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11201.0,Closed,Online,60
+63632069,2025-01-04 11:05:35,2025-01-07 08:56:22,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Online,2
+63632076,2025-01-04 16:55:05,2025-01-11 06:08:39,DOHMH,Food Establishment,Food Contains Foreign Object,Staten Island,10314.0,Closed,Phone,6
+63632077,2025-01-04 22:51:51,2025-01-10 21:30:06,DOHMH,Food Establishment,Food Contains Foreign Object,Manhattan,10014.0,Closed,Online,5
+63632120,2025-01-04 22:14:12,2025-01-04 22:14:12,DOHMH,Rodent,Mouse Sighting,Queens,11435.0,Closed,Mobile,0
+63632129,2025-01-04 01:59:00,2025-01-11 06:40:42,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10016.0,Closed,Online,7
+63632237,2025-01-04 13:24:15,2025-01-15 11:12:43,DOHMH,Indoor Sewage,Sewage Leak,Bronx,10470.0,Closed,Online,10
+63632238,2025-01-04 23:19:15,2025-01-06 08:54:05,DOHMH,Rodent,Rat Sighting,Bronx,10459.0,Closed,Mobile,1
+63632239,2025-01-04 12:00:44,2025-01-06 07:58:58,DOHMH,Rodent,Rat Sighting,Manhattan,10032.0,Closed,Online,1
+63632423,2025-01-04 12:43:30,2025-02-06 11:49:13,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10472.0,Closed,Online,32
+63632476,2025-01-04 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,3 or More,Manhattan,10009.0,Closed,Online,2
+63632479,2025-01-04 23:21:33,2025-01-06 09:57:34,DOHMH,Indoor Air Quality,Other (Explain Below),Bronx,10463.0,Closed,Phone,1
+63632480,2025-01-04 09:59:59,2025-01-06 14:11:54,DOHMH,Rodent,Rat Sighting,Brooklyn,11210.0,Closed,Mobile,2
+63632802,2025-01-04 21:56:22,2025-01-06 09:54:59,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11109.0,Closed,Phone,1
+63633587,2025-01-04 11:56:52,2025-03-05 12:13:49,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11354.0,Closed,Online,60
+63633588,2025-01-04 15:19:21,2025-01-04 15:19:21,DOHMH,Rodent,Signs of Rodents,Manhattan,10030.0,Closed,Mobile,0
+63633592,2025-01-04 20:02:34,2025-03-05 20:05:54,DOHMH,Food Establishment,Food Spoiled,Brooklyn,11233.0,Closed,Mobile,60
+63633638,2025-01-04 20:58:18,2025-01-04 20:58:18,DOHMH,Rodent,Rat Sighting,Bronx,10459.0,Closed,Mobile,0
+63633640,2025-01-04 11:30:46,2025-03-05 11:40:36,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10001.0,Closed,Online,60
+63633734,2025-01-04 22:41:31,2025-02-25 11:54:25,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11207.0,Closed,Online,51
+63633795,2025-01-04 21:28:43,2025-01-06 13:16:53,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11222.0,Closed,Online,1
+63633796,2025-01-04 21:42:01,2025-01-06 14:08:50,DOHMH,Rodent,Mouse Sighting,Brooklyn,11207.0,Closed,Mobile,1
+63633912,2025-01-04 14:32:46,2025-03-05 14:46:57,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11436.0,Closed,Online,60
+63633914,2025-01-04 12:03:32,2025-01-06 07:57:46,DOHMH,Rodent,Rat Sighting,Manhattan,10032.0,Closed,Online,1
+63634915,2025-01-05 16:16:15,2025-03-06 16:22:35,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10032.0,Closed,Online,60
+63634917,2025-01-05 20:22:32,2025-03-03 01:19:24,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10026.0,Closed,Online,56
+63634986,2025-01-05 21:58:08,2025-01-10 22:58:38,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,5
+63634994,2025-01-05 09:04:53,2025-03-06 09:21:33,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11217.0,Closed,Online,60
+63635024,2025-01-05 10:50:51,2025-01-10 21:23:30,DOHMH,Food Establishment,Pet/Animal,Manhattan,10023.0,Closed,Online,5
+63635163,2025-01-05 19:16:32,2025-01-11 08:10:19,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10451.0,Closed,Online,5
+63635204,2025-01-05 14:44:44,2025-03-06 14:46:39,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10019.0,Closed,Online,60
+63635205,2025-01-05 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,1 or 2,Brooklyn,11214.0,Closed,Online,1
+63635263,2025-01-05 21:14:44,2025-03-06 21:42:59,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11423.0,Closed,Online,60
+63635270,2025-01-05 19:27:44,2025-01-06 08:57:35,DOHMH,Indoor Air Quality,Other (Explain Below),Brooklyn,11212.0,Closed,Phone,0
+63635271,2025-01-05 20:13:45,2025-01-05 20:13:45,DOHMH,Rodent,Rat Sighting,Bronx,10457.0,Closed,Mobile,0
+63635284,2025-01-05 12:01:41,2025-01-06 09:11:55,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10026.0,Closed,Mobile,0
+63635331,2025-01-05 21:51:36,2025-01-06 13:46:47,DOHMH,Rodent,Rat Sighting,Bronx,10458.0,Closed,Phone,0
+63635337,2025-01-05 06:30:41,2025-01-06 14:32:04,DOHMH,Rodent,Rat Sighting,Brooklyn,11239.0,Closed,Phone,1
+63635362,2025-01-05 16:48:01,2025-01-05 16:48:01,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Brooklyn,11218.0,Closed,Phone,0
+63635396,2025-01-05 21:49:24,2025-01-06 14:56:33,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11375.0,Closed,Phone,0
+63636512,2025-01-05 02:00:35,2025-03-06 02:08:12,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10023.0,Closed,Online,60
+63636520,2025-01-05 08:22:51,2025-01-11 15:59:01,DOHMH,Mobile Food Vendor,Food Temperature,Manhattan,10036.0,Closed,Online,6
+63636567,2025-01-05 09:41:27,2025-01-05 09:41:27,DOHMH,Illegal Animal Sold,Monkey,Manhattan,10011.0,Closed,Phone,0
+63637784,2025-01-05 07:17:22,2025-01-06 09:59:47,DOHMH,Mold,Public Complaint - Comm Location,Staten Island,10312.0,Closed,Online,1
+63637807,2025-01-05 00:00:00,2025-01-14 00:00:01,DOHMH,Food Poisoning,3 or More,Brooklyn,11232.0,Closed,Online,9
+63637808,2025-01-05 13:34:51,2025-01-06 08:01:41,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10040.0,Closed,Online,0
+63637809,2025-01-05 10:05:41,2025-01-05 10:05:41,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10021.0,Closed,Online,0
+63637898,2025-01-05 10:10:47,2025-02-21 11:22:15,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10017.0,Closed,Online,47
+63637899,2025-01-05 09:11:14,2025-01-06 10:09:54,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11209.0,Closed,Phone,1
+63637900,2025-01-05 12:44:08,2025-01-06 10:04:26,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Staten Island,10306.0,Closed,Online,0
+63637901,2025-01-05 23:26:39,2025-01-07 09:48:05,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Mobile,1
+63638072,2025-01-05 09:43:35,2025-02-06 11:52:44,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10472.0,Closed,Online,32
+63638097,2025-01-05 23:45:36,2025-03-07 00:10:38,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11224.0,Closed,Mobile,60
+63638134,2025-01-05 12:48:19,2025-01-10 21:32:10,DOHMH,Food Establishment,Pet/Animal,Manhattan,10019.0,Closed,Mobile,5
+63638135,2025-01-05 18:02:43,2025-01-11 06:20:07,DOHMH,Food Establishment,Plumbing,Manhattan,10012.0,Closed,Online,5
+63638169,2025-01-05 21:51:15,2025-03-06 22:23:50,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10044.0,Closed,Online,60
+63638210,2025-01-05 13:09:42,2025-03-06 13:13:30,DOHMH,Food Establishment,Rodents/Insects/Garbage,Staten Island,10310.0,Closed,Phone,60
+63638225,2025-01-05 11:49:13,2025-01-10 22:58:46,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,5
+63639327,2025-01-05 04:33:49,2025-03-06 04:39:30,DOHMH,Food Establishment,Food Worker Hygiene,Manhattan,10012.0,Closed,Online,60
+63639337,2025-01-05 17:08:30,2025-01-05 17:08:30,DOHMH,Rodent,Rat Sighting,Brooklyn,11213.0,Closed,Online,0
+63639338,2025-01-05 19:32:41,2025-01-05 19:32:41,DOHMH,Rodent,Rat Sighting,Manhattan,10024.0,Closed,Online,0
+63639339,2025-01-05 22:27:56,2025-01-05 22:27:56,DOHMH,Rodent,Rat Sighting,Manhattan,10025.0,Closed,Online,0
+63639342,2025-01-05 23:09:50,2025-01-13 12:36:31,DOHMH,Rodent,Rat Sighting,Queens,11377.0,Closed,Mobile,7
+63639347,2025-01-05 17:45:26,2025-01-06 09:09:28,DOHMH,Rodent,Rat Sighting,Manhattan,10034.0,Closed,Online,0
+63639349,2025-01-05 12:31:55,2025-01-06 06:35:45,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10009.0,Closed,Online,0
+63639424,2025-01-05 15:19:26,2025-03-06 15:38:51,DOHMH,Food Establishment,Food Worker Illness,Manhattan,10017.0,Closed,Online,60
+63639425,2025-01-05 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,3 or More,Staten Island,10314.0,Closed,Online,1
+63639426,2025-01-05 17:27:02,2025-01-05 17:27:02,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10026.0,Closed,Mobile,0
+63639427,2025-01-05 11:59:21,2025-01-05 11:59:21,DOHMH,Rodent,Rat Sighting,Brooklyn,11204.0,Closed,Online,0
+63639452,2025-01-05 23:19:01,2025-01-06 16:08:02,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11226.0,Closed,Phone,0
+63639453,2025-01-05 09:27:40,2025-01-06 14:04:18,DOHMH,Rodent,Mouse Sighting,Queens,11368.0,Closed,Mobile,1
+63639454,2025-01-05 20:52:36,2025-01-05 20:52:36,DOHMH,Rodent,Rat Sighting,Manhattan,10023.0,Closed,Online,0
+63639638,2025-01-05 07:36:40,2025-03-03 16:20:11,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10461.0,Closed,Online,57
+63639659,2025-01-05 14:06:59,2025-03-06 14:31:26,DOHMH,Food Establishment,Pet/Animal,Bronx,10475.0,Closed,Online,60
+63639697,2025-01-05 18:46:09,2025-03-06 19:12:53,DOHMH,Food Establishment,Rodents/Insects/Garbage,Bronx,10462.0,Closed,Mobile,60
+63639731,2025-01-05 12:14:45,2025-01-10 08:17:07,DOHMH,Day Care,Day Care Facility,Brooklyn,11235.0,Closed,Phone,4
+63639746,2025-01-05 06:12:36,2025-01-11 02:43:39,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11417.0,Closed,Online,5
+63639747,2025-01-05 18:54:14,2025-03-06 19:12:54,DOHMH,Food Establishment,Rodents/Insects/Garbage,Bronx,10462.0,Closed,Mobile,60
+63640844,2025-01-05 13:20:37,2025-03-06 13:44:21,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10455.0,Closed,Online,60
+63640858,2025-01-05 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,1 or 2,Brooklyn,11209.0,Closed,Phone,1
+63640859,2025-01-05 18:37:58,2025-01-06 09:21:52,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10022.0,Closed,Online,0
+63640860,2025-01-05 23:35:26,2025-01-05 23:35:26,DOHMH,Rodent,Rat Sighting,Manhattan,10024.0,Closed,Phone,0
+63640871,2025-01-05 07:46:03,2025-01-06 06:25:02,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10075.0,Closed,Online,0
+63640923,2025-01-05 09:43:22,2025-03-06 09:45:08,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10467.0,Closed,Online,60
+63640924,2025-01-05 23:46:45,2025-01-05 23:46:45,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Mobile,0
+63640925,2025-01-05 17:58:25,2025-01-06 09:06:08,DOHMH,Rodent,Rat Sighting,Manhattan,10026.0,Closed,Online,0
+63641135,2025-01-05 22:26:47,2025-03-06 22:31:26,DOHMH,Food Establishment,Pet/Animal,Queens,11356.0,Closed,Online,60
+63641138,2025-01-05 05:35:49,2025-03-06 05:41:14,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10128.0,Closed,Online,60
+63641186,2025-01-05 22:13:54,2025-03-06 22:43:00,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11375.0,Closed,Online,60
+63641224,2025-01-05 20:36:10,2025-03-06 20:55:51,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11222.0,Closed,Phone,60
+63642372,2025-01-05 10:31:14,2025-03-06 10:44:03,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11232.0,Closed,Online,60
+63642380,2025-01-05 20:20:53,2025-03-06 20:47:14,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10463.0,Closed,Online,60
+63642382,2025-01-05 11:31:54,2025-01-05 11:31:54,DOHMH,Rodent,Rat Sighting,Bronx,10467.0,Closed,Phone,0
+63642413,2025-01-05 10:32:54,2025-01-06 08:51:47,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11219.0,Closed,Phone,0
+63642422,2025-01-05 10:38:40,2025-01-06 10:02:28,DOHMH,Indoor Air Quality,Dust from Construction,Manhattan,10021.0,Closed,Phone,0
+63642423,2025-01-05 22:56:14,2025-01-06 07:49:20,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Online,0
+63642425,2025-01-05 12:03:43,2025-01-05 12:03:43,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10023.0,Closed,Online,0
+63642515,2025-01-05 23:44:36,2025-01-07 09:48:05,DOHMH,Rodent,Mouse Sighting,Brooklyn,11238.0,Closed,Mobile,1
+63642537,2025-01-05 23:10:44,2025-01-05 23:10:44,DOHMH,Rodent,Rat Sighting,Manhattan,10030.0,Closed,Mobile,0
+63642538,2025-01-05 22:49:57,2025-01-05 22:49:57,DOHMH,Rodent,Rat Sighting,Bronx,10451.0,Closed,Mobile,0
+63642713,2025-01-05 09:48:41,2025-03-06 10:00:33,DOHMH,Food Establishment,Pet/Animal,Manhattan,10024.0,Closed,Online,60
+63642724,2025-01-05 18:38:02,2025-02-22 16:57:01,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10022.0,Closed,Online,47
+63642843,2025-01-05 22:54:01,2025-01-10 17:51:52,DOHMH,Day Care,Day Care Facility,Queens,11435.0,Closed,Online,4
+63642889,2025-01-05 15:59:58,2025-01-11 18:22:58,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11101.0,Closed,Online,6
+63642928,2025-01-05 09:53:40,2025-03-06 10:00:35,DOHMH,Food Establishment,Pet/Animal,Manhattan,10024.0,Closed,Online,60
+63643937,2025-01-05 13:48:14,2025-01-10 09:30:00,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11213.0,Closed,Phone,4
+63643938,2025-01-05 21:52:29,2025-01-06 10:50:53,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Queens,11692.0,Closed,Online,0
+63643945,2025-01-05 14:23:21,2025-01-05 14:23:21,DOHMH,Rodent,Rat Sighting,Brooklyn,11232.0,Closed,Online,0
+63643946,2025-01-05 10:48:56,2025-01-06 14:02:57,DOHMH,Rodent,Signs of Rodents,Queens,11102.0,Closed,Mobile,1
+63644012,2025-01-05 12:51:02,2025-03-06 13:17:25,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10038.0,Closed,Online,60
+63644018,2025-01-05 11:19:51,2025-01-05 11:19:51,DOHMH,Rodent,Rat Sighting,Brooklyn,11219.0,Closed,Phone,0
+63644084,2025-01-05 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10013.0,Closed,Online,1
+63644088,2025-01-05 23:37:24,2025-01-05 23:37:24,DOHMH,Rodent,Signs of Rodents,Manhattan,10033.0,Closed,Online,0
+63644089,2025-01-05 10:54:57,2025-01-05 10:54:57,DOHMH,Unsanitary Animal Pvt Property,Dog,Brooklyn,11229.0,Closed,Online,0
+63644459,2025-01-05 22:36:20,2025-01-11 06:52:23,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10036.0,Closed,Online,5
+63644460,2025-01-05 22:34:42,2025-01-11 08:03:13,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10024.0,Closed,Mobile,5
+63645483,2025-01-05 12:35:15,2025-01-06 06:35:12,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10009.0,Closed,Online,0
+63645484,2025-01-05 14:13:04,2025-01-05 14:13:04,DOHMH,Rodent,Rat Sighting,Queens,11372.0,Closed,Mobile,0
+63645496,2025-01-05 23:07:05,2025-01-06 07:49:20,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Online,0
+63645499,2025-01-05 17:27:08,2025-01-15 10:20:36,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10024.0,Closed,Online,9
+63645626,2025-01-05 18:05:36,2025-01-05 18:05:36,DOHMH,Rodent,Rat Sighting,Queens,11385.0,Closed,Online,0
+63645642,2025-01-05 14:22:11,2025-03-06 14:31:53,DOHMH,Food Establishment,Pet/Animal,Bronx,10475.0,Closed,Phone,60
+63645647,2025-01-05 07:52:17,2025-03-06 08:13:03,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10031.0,Closed,Online,60
+63645648,2025-01-05 00:00:00,2025-01-06 08:39:49,DOHMH,Food Poisoning,1 or 2,Brooklyn,11219.0,Closed,Phone,1
+63645885,2025-01-05 21:29:36,2025-02-03 16:21:53,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11217.0,Closed,Phone,28
+63645927,2025-01-05 13:32:57,2025-03-06 13:40:23,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10024.0,Closed,Online,60
+63646077,2025-01-05 14:57:30,2025-03-06 15:22:33,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11210.0,Closed,Phone,60
+63646129,2025-01-05 13:34:06,2025-01-11 06:08:42,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Staten Island,10314.0,Closed,Phone,5
+63647189,2025-01-05 08:45:39,2025-02-06 09:00:00,DOHMH,Asbestos,,Brooklyn,11207.0,Closed,Phone,32
+63647190,2025-01-05 00:00:00,2025-01-24 00:00:01,DOHMH,Food Poisoning,1 or 2,Queens,11103.0,Closed,Phone,19
+63647192,2025-01-05 14:42:18,2025-03-06 14:46:38,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11220.0,Closed,Online,60
+63647193,2025-01-05 00:00:00,2025-01-06 08:38:57,DOHMH,Food Poisoning,1 or 2,Brooklyn,11239.0,Closed,Online,1
+63647206,2025-01-05 14:28:08,2025-01-06 08:55:01,DOHMH,Indoor Air Quality,Dust from Construction,Brooklyn,11204.0,Closed,Online,0
+63647207,2025-01-05 14:34:28,2025-01-05 14:34:28,DOHMH,Rodent,Signs of Rodents,Brooklyn,11215.0,Closed,Mobile,0
+63647214,2025-01-05 13:05:36,2025-03-06 13:16:39,DOHMH,Non-Residential Heat,Inadequate or No Heat,Staten Island,10310.0,Closed,Online,60
+63647215,2025-01-05 00:00:00,2025-01-17 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10037.0,Closed,Online,12
+63647217,2025-01-05 11:38:53,2025-01-05 11:38:53,DOHMH,Rodent,Rat Sighting,Brooklyn,11221.0,Closed,Online,0
+63647292,2025-01-05 00:00:00,2025-01-06 08:36:30,DOHMH,Food Poisoning,1 or 2,Brooklyn,11211.0,Closed,Online,1
+63647293,2025-01-05 10:47:58,2025-01-06 10:49:19,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11232.0,Closed,Online,1
+63647294,2025-01-05 07:05:21,2025-01-06 14:20:43,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Mobile,1
+63647295,2025-01-05 04:02:43,2025-01-05 04:02:43,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Brooklyn,11215.0,Closed,Phone,0
+63647304,2025-01-05 10:23:01,2025-03-06 10:35:24,DOHMH,Food Establishment,Food Contaminated,Brooklyn,11216.0,Closed,Online,60
+63647353,2025-01-05 09:33:13,2025-01-05 09:33:13,DOHMH,Rodent,Signs of Rodents,Queens,11420.0,Closed,Mobile,0
+63647356,2025-01-05 18:57:21,2025-01-20 20:12:26,DOHMH,Rodent,Rat Sighting,Brooklyn,11209.0,Closed,Phone,15
+63647509,2025-01-06 13:34:11,2025-01-08 12:37:20,DOHMH,Building Drinking Water Tank,Unsanitary Condition,Brooklyn,11225.0,Closed,Online,1
+63647519,2025-01-07 00:38:39,2025-03-08 00:41:39,DOHMH,Food Establishment,Handwashing,Manhattan,10019.0,Closed,Mobile,60
+63647535,2025-01-06 17:30:55,2025-01-10 21:50:36,DOHMH,Mobile Food Vendor,Food Worker Activity,Brooklyn,11217.0,Closed,Mobile,4
+63647536,2025-01-06 12:48:16,2025-03-04 09:12:51,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11206.0,Closed,Online,56
+63647537,2025-01-06 22:05:11,2025-03-07 22:06:13,DOHMH,Food Establishment,Food Spoiled,Bronx,10471.0,Closed,Phone,60
+63647540,2025-01-06 18:10:15,2025-01-07 08:49:50,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11208.0,Closed,Online,0
+63647541,2025-01-06 20:30:21,2025-01-07 09:38:07,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11238.0,Closed,Online,0
+63647547,2025-01-06 14:46:24,2025-01-11 08:09:36,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11205.0,Closed,Online,4
+63647548,2025-01-06 14:59:12,2025-01-06 14:59:12,DOHMH,Unleashed Dog,Unleashed Dog in Public,Queens,11413.0,Closed,Online,0
+63647554,2025-01-06 19:40:56,2025-01-07 10:44:59,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11238.0,Closed,Online,0
+63647557,2025-01-06 20:18:01,2025-01-06 20:18:01,DOHMH,Rodent,Rat Sighting,Manhattan,10009.0,Closed,Online,0
+63647559,2025-01-06 09:39:54,2025-01-06 09:39:54,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11435.0,Closed,Online,0
+63647572,2025-01-06 17:30:28,2025-03-07 17:48:43,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10001.0,Closed,Online,60
+63647573,2025-01-06 19:14:05,2025-01-07 09:41:24,DOHMH,Indoor Air Quality,Other (Explain Below),Bronx,10460.0,Closed,Phone,0
+63647575,2025-01-06 23:34:57,2025-01-07 14:39:45,DOHMH,Rodent,Mouse Sighting,Brooklyn,11235.0,Closed,Mobile,0
+63647576,2025-01-06 10:58:40,2025-01-06 10:58:40,DOHMH,Rodent,Mouse Sighting,Manhattan,10128.0,Closed,Phone,0
+63647589,2025-01-06 12:58:25,2025-01-06 12:58:25,DOHMH,Rodent,Rat Sighting,Bronx,10466.0,Closed,Phone,0
+63647590,2025-01-06 17:13:58,2025-01-08 12:33:23,DOHMH,Rodent,Rat Sighting,Manhattan,10012.0,Closed,Phone,1
+63647591,2025-01-06 15:05:39,2025-01-06 15:05:39,DOHMH,Rodent,Rat Sighting,Queens,11105.0,Closed,Online,0
+63647592,2025-01-06 14:04:07,2025-02-07 08:23:55,DOHMH,Tattooing,Tattoo Artist Unlicensed,Brooklyn,11249.0,Closed,Online,31
+63647593,2025-01-06 14:36:47,2025-03-07 15:04:01,DOHMH,Food Establishment,Food Contains Foreign Object,Queens,11419.0,Closed,Phone,60
+63647594,2025-01-06 09:24:08,2025-01-10 21:29:52,DOHMH,Food Establishment,Pet/Animal,Brooklyn,11215.0,Closed,Mobile,4
+63647629,2025-01-06 17:03:28,2025-01-10 21:22:17,DOHMH,Food Establishment,Food Worker Activity,Bronx,10462.0,Closed,Online,4
+63647630,2025-01-06 09:04:53,2025-03-07 09:09:48,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10128.0,Closed,Online,60
+63647662,2025-01-06 09:29:10,2025-01-11 20:32:34,DOHMH,Food Establishment,Letter Grading,Manhattan,10022.0,Closed,Phone,5
+63647720,2025-01-07 01:08:01,2025-02-22 04:21:10,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11235.0,Closed,Online,46
+63647725,2025-01-06 07:13:12,2025-02-22 16:57:04,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10022.0,Closed,Online,47
+63648162,2025-01-06 16:53:11,2025-01-07 09:35:51,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11385.0,Closed,Online,0
+63649150,2025-01-06 14:21:04,2025-01-06 15:45:38,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11212.0,Closed,Phone,0
+63649183,2025-01-06 08:24:26,2025-01-06 09:55:06,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63649224,2025-01-06 13:25:15,2025-01-06 15:14:06,DOHMH,Rodent,Rat Sighting,Manhattan,10026.0,Closed,Mobile,0
+63649225,2025-01-06 09:46:51,2025-01-06 09:46:51,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Online,0
+63649410,2025-01-06 11:41:57,2025-03-07 12:06:41,DOHMH,Food Establishment,Food Spoiled,Queens,11103.0,Closed,Phone,60
+63649411,2025-01-06 00:00:00,2025-01-07 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10036.0,Closed,Online,1
+63649421,2025-01-07 01:14:38,2025-01-07 11:30:00,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11238.0,Closed,Online,0
+63649431,2025-01-06 14:43:18,2025-01-06 14:43:18,DOHMH,Rodent,Rat Sighting,Bronx,10467.0,Closed,Phone,0
+63649456,2025-01-06 12:00:18,2025-01-06 14:31:47,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11235.0,Closed,Online,0
+63649457,2025-01-06 18:08:28,2025-01-10 16:00:00,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10128.0,Closed,Phone,3
+63649459,2025-01-06 14:21:59,2025-01-06 14:21:59,DOHMH,Rodent,Condition Attracting Rodents,Queens,11435.0,Closed,Phone,0
+63649460,2025-01-06 14:24:14,2025-01-06 14:24:14,DOHMH,Rodent,Mouse Sighting,Bronx,10453.0,Closed,Mobile,0
+63649461,2025-01-06 00:00:00,2025-01-08 00:00:01,DOHMH,Food Poisoning,1 or 2,Queens,11422.0,Closed,Online,2
+63649462,2025-01-06 00:00:00,2025-01-07 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10017.0,Closed,Online,1
+63649463,2025-01-06 15:07:03,2025-01-06 15:53:26,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10467.0,Closed,Phone,0
+63649469,2025-01-06 22:19:58,2025-01-06 22:19:58,DOHMH,Rodent,Rat Sighting,Bronx,10454.0,Closed,Mobile,0
+63649470,2025-01-06 12:39:54,2025-01-06 12:39:54,DOHMH,Rodent,Mouse Sighting,Bronx,10457.0,Closed,Phone,0
+63649471,2025-01-06 23:37:59,2025-01-06 23:37:59,DOHMH,Rodent,Rat Sighting,Brooklyn,11235.0,Closed,Mobile,0
+63649493,2025-01-06 14:31:07,2025-01-06 14:31:07,DOHMH,Rodent,Rat Sighting,Bronx,10454.0,Closed,Online,0
+63649511,2025-01-06 18:56:08,2025-03-07 19:06:15,DOHMH,Food Establishment,Food Spoiled,Staten Island,10301.0,Closed,Phone,60
+63649526,2025-01-06 02:31:49,2025-01-10 22:26:22,DOHMH,Food Establishment,Food Spoiled,Queens,11432.0,Closed,Mobile,4
+63649527,2025-01-06 14:42:20,2025-01-11 02:42:46,DOHMH,Food Establishment,Letter Grading,Manhattan,10023.0,Closed,Phone,4
+63649585,2025-01-06 00:00:00,2025-01-06 12:45:52,DOHMH,Food Poisoning,1 or 2,Brooklyn,11226.0,Closed,Online,0
+63649586,2025-01-06 07:13:37,2025-01-06 09:22:29,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10022.0,Closed,Online,0
+63649602,2025-01-06 21:13:58,2025-01-10 22:58:30,DOHMH,Mobile Food Vendor,Smoke/Odor,Manhattan,10025.0,Closed,Online,4
+63650711,2025-01-06 17:07:53,2025-03-07 17:21:50,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10451.0,Closed,Phone,60
+63650717,2025-01-06 16:47:24,2025-03-07 16:54:19,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11224.0,Closed,Online,60
+63650718,2025-01-06 21:58:51,2025-03-07 22:21:12,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11207.0,Closed,Online,60
+63650779,2025-01-06 09:24:05,2025-03-07 09:55:06,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10452.0,Closed,Online,60
+63650780,2025-01-06 16:17:48,2025-03-07 16:21:44,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11213.0,Closed,Phone,60
+63650842,2025-01-06 12:29:58,2025-02-17 01:27:05,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11235.0,Closed,Online,41
+63651077,2025-01-06 07:52:06,2025-01-06 08:58:07,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63651300,2025-01-06 13:02:51,2025-02-16 14:44:29,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11238.0,Closed,Online,41
+63651301,2025-01-06 00:00:00,2025-01-06 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10001.0,Closed,Online,0
+63651302,2025-01-06 16:24:17,2025-01-07 09:32:41,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11207.0,Closed,Online,0
+63651303,2025-01-06 15:40:33,2025-01-07 09:06:46,DOHMH,Indoor Air Quality,Dust from Construction,Manhattan,10019.0,Closed,Online,0
+63651304,2025-01-06 05:57:11,2025-01-06 05:57:11,DOHMH,Rodent,Mouse Sighting,Queens,11373.0,Closed,Mobile,0
+63651315,2025-01-06 12:59:00,2025-01-06 12:59:00,DOHMH,Unleashed Dog,Unleashed Dog in Public,Queens,11361.0,Closed,Online,0
+63651333,2025-01-06 15:46:30,2025-03-07 16:11:02,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11354.0,Closed,Mobile,60
+63651334,2025-01-06 10:22:54,2025-03-07 10:40:53,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10024.0,Closed,Phone,60
+63651335,2025-01-06 23:15:25,2025-01-16 08:59:00,DOHMH,Rodent,Mouse Sighting,Manhattan,10002.0,Closed,Online,9
+63651336,2025-01-06 13:10:49,2025-01-08 13:58:59,DOHMH,Rodent,Mouse Sighting,Bronx,10453.0,Closed,Mobile,2
+63651337,2025-01-06 10:12:43,2025-01-06 10:12:43,DOHMH,Rodent,Rat Sighting,Bronx,10462.0,Closed,Phone,0
+63651342,2025-01-06 18:24:17,2025-01-10 08:17:18,DOHMH,Day Care,Day Care Facility,Staten Island,10304.0,Closed,Phone,3
+63651388,2025-01-06 14:46:01,2025-01-11 02:42:47,DOHMH,Food Establishment,Food Protection,Manhattan,10023.0,Closed,Phone,4
+63651426,2025-01-06 11:34:33,2025-01-06 11:34:33,DOHMH,Rodent,Rat Sighting,Brooklyn,11226.0,Closed,Phone,0
+63651427,2025-01-06 17:33:21,2025-01-06 17:33:21,DOHMH,Rodent,Signs of Rodents,Manhattan,10023.0,Closed,Mobile,0
+63651431,2025-01-06 07:50:35,2025-01-06 07:50:35,DOHMH,Rodent,Signs of Rodents,Bronx,10452.0,Closed,Mobile,0
+63651433,2025-01-06 09:42:27,2025-01-06 09:42:27,DOHMH,Unleashed Dog,Unleashed Dog in Public,Queens,11691.0,Closed,Phone,0
+63651436,2025-01-06 12:56:24,2025-01-17 00:00:01,DOHMH,Food Poisoning,1 or 2,Bronx,10468.0,Closed,Phone,10
+63651442,2025-01-06 16:59:03,2025-01-15 11:14:51,DOHMH,Indoor Sewage,Sewage Leak,Bronx,10457.0,Closed,Phone,8
+63651443,2025-01-06 13:06:44,2025-01-06 13:06:44,DOHMH,Rodent,Rat Sighting,Manhattan,10023.0,Closed,Online,0
+63651450,2025-01-06 15:09:48,2025-03-07 15:25:46,DOHMH,Food Establishment,Toilet Facility,Manhattan,10003.0,Closed,Online,60
+63651477,2025-01-06 10:51:01,2025-01-11 05:58:15,DOHMH,Food Establishment,Pet/Animal,Manhattan,10023.0,Closed,Mobile,4
+63651748,2025-01-06 20:16:42,2025-01-07 09:43:55,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11235.0,Closed,Online,0
+63652768,2025-01-06 08:47:30,2025-01-10 22:58:47,DOHMH,Mobile Food Vendor,Food Source/Protection,Manhattan,10025.0,Closed,Online,4
+63652900,2025-01-06 14:55:28,2025-01-06 15:49:57,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11385.0,Closed,Phone,0
+63653014,2025-01-06 07:29:00,2025-01-06 14:19:54,DOHMH,Rodent,Rat Sighting,Manhattan,10016.0,Closed,Online,0
+63653057,2025-01-06 07:37:52,2025-01-06 08:58:07,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63653228,2025-01-06 22:40:03,2025-01-06 22:40:03,DOHMH,Rodent,Rat Sighting,Manhattan,10010.0,Closed,Online,0
+63653234,2025-01-06 13:58:36,2025-01-11 08:29:08,DOHMH,Mobile Food Vendor,Equipment,Brooklyn,11201.0,Closed,Mobile,4
+63653235,2025-01-06 11:24:36,2025-02-01 11:12:59,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11238.0,Closed,Online,25
+63653236,2025-01-06 09:28:01,2025-01-06 12:44:53,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11237.0,Closed,Phone,0
+63653254,2025-01-06 12:46:37,2025-01-06 12:46:37,DOHMH,Rodent,Signs of Rodents,Brooklyn,11211.0,Closed,Online,0
+63653293,2025-01-06 16:27:03,2025-03-07 16:42:49,DOHMH,Food Establishment,Rodents/Insects/Garbage,Bronx,10462.0,Closed,Phone,60
+63653337,2025-01-06 08:42:04,2025-03-07 08:45:20,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11219.0,Closed,Online,60
+63653340,2025-01-06 17:10:05,2025-03-07 17:39:34,DOHMH,Food Establishment,Food Spoiled,Queens,11373.0,Closed,Phone,60
+63653342,2025-01-06 18:56:24,2025-01-06 18:56:24,DOHMH,Rodent,Condition Attracting Rodents,Staten Island,10302.0,Closed,Online,0
+63653343,2025-01-06 23:07:59,2025-01-06 23:07:59,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Phone,0
+63653346,2025-01-06 13:37:27,2025-03-07 13:48:01,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10007.0,Closed,Online,60
+63653350,2025-01-06 12:24:44,2025-01-06 12:24:44,DOHMH,Rodent,Signs of Rodents,Manhattan,10023.0,Closed,Mobile,0
+63653390,2025-01-06 12:10:21,2025-03-07 12:10:57,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11205.0,Closed,Online,60
+63653504,2025-01-06 08:04:37,2025-01-06 13:05:15,DOHMH,Drinking Water,Illness Caused by Drinking Water,Queens,11694.0,Closed,Phone,0
+63653709,2025-01-06 14:43:07,2025-01-07 09:29:58,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11377.0,Closed,Online,0
+63654519,2025-01-06 14:21:07,2025-03-07 14:21:18,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11226.0,Closed,Phone,60
+63654604,2025-01-06 09:36:45,2025-02-13 16:53:20,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10011.0,Closed,Phone,38
+63654634,2025-01-06 00:53:04,2025-03-07 01:26:58,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10457.0,Closed,Phone,60
+63654635,2025-01-06 09:44:18,2025-03-07 09:56:25,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10011.0,Closed,Phone,60
+63654932,2025-01-06 07:29:44,2025-01-06 08:58:07,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63654998,2025-01-06 11:06:21,2025-01-06 13:21:25,DOHMH,Rodent,Mouse Sighting,Manhattan,10128.0,Closed,Phone,0
+63655074,2025-01-06 08:52:13,2025-01-06 12:41:43,DOHMH,Indoor Air Quality,Ventilation,Bronx,10454.0,Closed,Phone,0
+63655128,2025-01-06 17:22:03,2025-01-07 09:08:50,DOHMH,Asbestos,,Brooklyn,11207.0,Closed,Online,0
+63655146,2025-01-06 20:57:22,2025-02-21 23:44:10,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10455.0,Closed,Online,46
+63655148,2025-01-06 22:52:52,2025-01-06 22:52:52,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11211.0,Closed,Mobile,0
+63655190,2025-01-06 09:59:43,2025-03-07 09:09:49,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10128.0,Closed,Online,59
+63655208,2025-01-06 00:00:00,2025-01-07 00:00:01,DOHMH,Food Poisoning,1 or 2,Bronx,10452.0,Closed,Online,1
+63655209,2025-01-06 00:00:00,2025-01-07 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10019.0,Closed,Online,1
+63655210,2025-01-06 00:00:00,2025-01-09 00:00:01,DOHMH,Food Poisoning,3 or More,Brooklyn,11217.0,Closed,Online,3
+63655216,2025-01-06 13:24:40,2025-01-06 13:24:40,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11209.0,Closed,Online,0
+63655217,2025-01-06 09:36:43,2025-01-06 09:36:43,DOHMH,Rodent,Rat Sighting,Manhattan,10023.0,Closed,Mobile,0
+63655221,2025-01-06 21:59:25,2025-01-07 10:30:00,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10472.0,Closed,Phone,0
+63655222,2025-01-06 10:02:26,2025-01-06 12:50:46,DOHMH,Indoor Air Quality,Dust from Construction,Queens,11367.0,Closed,Online,0
+63655223,2025-01-06 14:39:45,2025-01-09 09:37:51,DOHMH,Rodent,Mouse Sighting,Brooklyn,11225.0,Closed,Mobile,2
+63655224,2025-01-06 11:32:38,2025-01-06 11:32:38,DOHMH,Rodent,Rat Sighting,Brooklyn,11232.0,Closed,Phone,0
+63655231,2025-01-06 14:05:22,2025-01-06 14:05:22,DOHMH,Rodent,Rat Sighting,Brooklyn,11223.0,Closed,Mobile,0
+63655232,2025-01-06 16:45:25,2025-01-06 16:45:25,DOHMH,Rodent,Rat Sighting,Bronx,10462.0,Closed,Phone,0
+63655244,2025-01-06 10:36:05,2025-01-06 10:36:05,DOHMH,Rodent,Rat Sighting,Brooklyn,11236.0,Closed,Online,0
+63655270,2025-01-06 20:32:57,2025-03-07 20:47:29,DOHMH,Food Establishment,Odor,Manhattan,10002.0,Closed,Mobile,60
+63655271,2025-01-06 07:35:05,2025-03-07 07:40:31,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10016.0,Closed,Online,60
+63655278,2025-01-06 16:56:50,2025-03-07 17:08:12,DOHMH,Food Establishment,Food Worker Hygiene,Manhattan,10036.0,Closed,Online,60
+63655289,2025-01-06 04:58:08,2025-03-07 05:12:26,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11238.0,Closed,Online,60
+63655290,2025-01-06 15:50:06,2025-03-07 16:14:30,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10024.0,Closed,Online,60
+63655303,2025-01-06 05:05:36,2025-01-06 09:00:40,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11238.0,Closed,Phone,0
+63655304,2025-01-06 18:45:31,2025-01-07 09:38:49,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11238.0,Closed,Phone,0
+63655312,2025-01-06 19:09:13,2025-01-06 19:09:13,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Phone,0
+63655315,2025-01-06 11:19:27,2025-03-07 11:33:01,DOHMH,Food Establishment,Dishwashing/Utensils,Manhattan,10017.0,Closed,Online,60
+63655324,2025-01-06 11:19:08,2025-03-07 11:25:07,DOHMH,Food Establishment,Toilet Facility,Manhattan,10031.0,Closed,Online,60
+63655655,2025-01-06 12:19:44,2025-01-07 16:50:34,DOHMH,Beach/Pool/Sauna Complaint,Beach/Pool Water,Brooklyn,11218.0,Closed,Phone,1
+63656546,2025-01-06 10:27:56,2025-03-07 10:49:52,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11201.0,Closed,Phone,60
+63656565,2025-01-06 22:17:04,2025-01-10 21:28:07,DOHMH,Food Establishment,Pet/Animal,Brooklyn,11249.0,Closed,Online,3
+63656668,2025-01-06 20:18:47,2025-03-07 20:22:47,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10025.0,Closed,Online,60
+63656922,2025-01-06 07:46:04,2025-01-06 08:58:07,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63656993,2025-01-06 08:51:43,2025-01-06 14:01:39,DOHMH,Rodent,Mouse Sighting,Queens,11379.0,Closed,Online,0
+63657046,2025-01-06 10:45:20,2025-01-06 10:45:20,DOHMH,Rodent,Rat Sighting,Queens,11434.0,Closed,Phone,0
+63657047,2025-01-06 17:01:15,2025-01-06 17:01:15,DOHMH,Rodent,Rat Sighting,Queens,11385.0,Closed,Online,0
+63657132,2025-01-06 15:57:35,2025-01-13 14:50:33,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Bronx,10462.0,Closed,Online,6
+63657140,2025-01-06 13:31:11,2025-01-06 13:31:11,DOHMH,Rodent,Rat Sighting,Queens,11367.0,Closed,Phone,0
+63657141,2025-01-06 09:59:34,2025-01-06 09:59:34,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Online,0
+63657142,2025-01-06 10:18:38,2025-01-06 10:18:38,DOHMH,Rodent,Signs of Rodents,Brooklyn,11236.0,Closed,Mobile,0
+63657144,2025-01-06 19:23:59,2025-01-06 19:23:59,DOHMH,Unsanitary Animal Pvt Property,Dog,Staten Island,10304.0,Closed,Phone,0
+63657145,2025-01-07 00:12:09,2025-03-08 00:14:29,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11232.0,Closed,Online,60
+63657146,2025-01-06 10:53:44,2025-03-07 11:13:42,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10005.0,Closed,Online,60
+63657150,2025-01-06 11:31:18,2025-01-06 11:31:18,DOHMH,Rodent,Signs of Rodents,Brooklyn,11234.0,Closed,Phone,0
+63657160,2025-01-06 10:54:48,2025-01-11 09:06:19,DOHMH,Food Establishment,Food Contains Foreign Object,Brooklyn,11214.0,Closed,Online,4
+63657161,2025-01-06 15:23:17,2025-03-07 15:40:23,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10123.0,Closed,Phone,60
+63657260,2025-01-06 12:29:53,2025-03-04 09:12:48,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11206.0,Closed,Online,56
+63657261,2025-01-06 00:00:00,2025-01-08 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10036.0,Closed,Online,2
+63657272,2025-01-06 08:37:56,2025-01-08 09:41:16,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11237.0,Closed,Online,2
+63657276,2025-01-06 20:33:24,2025-01-09 10:19:39,DOHMH,Rodent,Mouse Sighting,Brooklyn,11213.0,Closed,Mobile,2
+63657277,2025-01-06 18:26:18,2025-01-07 10:23:59,DOHMH,Rodent,Rat Sighting,Queens,11385.0,Closed,Online,0
+63657287,2025-01-06 09:25:26,2025-01-11 20:32:32,DOHMH,Food Establishment,Letter Grading,Manhattan,10022.0,Closed,Phone,5
+63657301,2025-01-06 15:16:33,2025-03-07 15:39:10,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10022.0,Closed,Online,60
+63657319,2025-01-06 09:13:58,2025-01-11 14:49:56,DOHMH,Mobile Food Vendor,Food Worker Activity,Manhattan,10011.0,Closed,Phone,5
+63658386,2025-01-06 14:02:53,2025-02-11 15:49:42,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10009.0,Closed,Online,36
+63658602,2025-01-06 17:43:12,2025-02-20 11:55:28,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10031.0,Closed,Phone,44
+63658603,2025-01-06 22:04:40,2025-03-07 22:21:14,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11207.0,Closed,Online,60
+63658651,2025-01-06 09:35:58,2025-01-06 10:50:08,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11232.0,Closed,Online,0
+63658701,2025-01-06 09:51:54,2025-01-06 12:47:51,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11208.0,Closed,Phone,0
+63658739,2025-01-06 07:26:21,2025-01-06 07:26:21,DOHMH,Rodent,Signs of Rodents,Manhattan,10026.0,Closed,Mobile,0
+63658795,2025-01-06 08:32:50,2025-01-06 09:55:06,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63658875,2025-01-06 08:42:32,2025-01-06 09:55:06,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63658903,2025-01-06 14:03:34,2025-01-06 15:10:55,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63658959,2025-01-06 13:08:46,2025-02-24 12:57:17,DOHMH,Indoor Air Quality,Ventilation,Manhattan,10016.0,Closed,Online,48
+63658965,2025-01-06 13:23:00,2025-01-06 13:23:00,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Mobile,0
+63659026,2025-01-06 05:22:56,2025-03-07 05:45:58,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,11370.0,Closed,Online,60
+63659029,2025-01-06 12:19:07,2025-01-06 15:38:42,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10034.0,Closed,Online,0
+63659034,2025-01-06 10:57:16,2025-01-06 10:57:16,DOHMH,Rodent,Rat Sighting,Bronx,10462.0,Closed,Phone,0
+63659037,2025-01-06 18:21:48,2025-01-06 18:21:48,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Bronx,10463.0,Closed,Online,0
+63659046,2025-01-06 17:02:04,2025-03-07 17:24:38,DOHMH,Food Establishment,Letter Grading,Queens,11358.0,Closed,Phone,60
+63659078,2025-01-06 19:38:52,2025-03-07 19:39:42,DOHMH,Food Establishment,Food Temperature,Bronx,10461.0,Closed,Online,60
+63659108,2025-01-06 14:18:32,2025-01-06 14:18:32,DOHMH,Rodent,Rat Sighting,Bronx,10453.0,Closed,Phone,0
+63659195,2025-01-06 09:03:28,2025-01-13 10:10:51,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10002.0,Closed,Online,7
+63659196,2025-01-06 00:00:00,2025-01-21 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10021.0,Closed,Online,15
+63659197,2025-01-06 19:46:58,2025-01-07 11:30:00,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11238.0,Closed,Online,0
+63659199,2025-01-06 03:24:01,2025-01-06 03:24:01,DOHMH,Rodent,Rat Sighting,Manhattan,10009.0,Closed,Mobile,0
+63659200,2025-01-06 13:43:03,2025-01-08 14:01:24,DOHMH,Rodent,Rat Sighting,Bronx,10463.0,Closed,Phone,2
+63660297,2025-01-06 12:48:50,2025-01-06 15:14:06,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11232.0,Closed,Online,0
+63660509,2025-01-06 13:50:37,2025-01-06 13:50:37,DOHMH,Illegal Animal Sold,Monkey,Queens,11433.0,Closed,Online,0
+63660724,2025-01-06 09:52:54,2025-01-06 09:52:54,DOHMH,Rodent,Rat Sighting,Manhattan,10029.0,Closed,Online,0
+63660737,2025-01-06 07:23:06,2025-01-06 08:58:07,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63660823,2025-01-06 01:27:57,2025-01-06 08:34:01,DOHMH,Rodent,Mouse Sighting,Bronx,10458.0,Closed,Phone,0
+63660913,2025-01-06 13:40:17,2025-01-06 16:14:01,DOHMH,Asbestos,,Bronx,10469.0,Closed,Phone,0
+63660918,2025-01-06 16:51:29,2025-03-07 17:02:38,DOHMH,Mobile Food Vendor,Equipment,Bronx,10453.0,Closed,Mobile,60
+63660919,2025-01-06 10:32:52,2025-01-11 08:10:52,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10022.0,Closed,Online,4
+63660921,2025-01-06 21:20:47,2025-01-07 08:59:28,DOHMH,Rodent,Rat Sighting,Manhattan,10034.0,Closed,Online,0
+63660925,2025-01-06 22:09:39,2025-01-06 22:09:39,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11206.0,Closed,Phone,0
+63660926,2025-01-06 15:22:04,2025-01-06 15:22:04,DOHMH,Rodent,Rat Sighting,Manhattan,10009.0,Closed,Online,0
+63660927,2025-01-06 10:58:39,2025-01-06 10:58:39,DOHMH,Rodent,Rat Sighting,Queens,11105.0,Closed,Phone,0
+63660929,2025-01-06 16:01:05,2025-01-06 16:01:05,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10075.0,Closed,Online,0
+63660950,2025-01-06 21:06:22,2025-03-07 21:30:48,DOHMH,Food Establishment,Pet/Animal,Manhattan,10023.0,Closed,Online,60
+63661012,2025-01-06 23:06:05,2025-01-10 18:29:17,DOHMH,Day Care,Day Care Facility,Staten Island,10312.0,Closed,Online,3
+63661040,2025-01-06 07:18:08,2025-01-28 12:00:00,DOHMH,Asbestos,,Manhattan,10022.0,Closed,Phone,22
+63661051,2025-01-06 17:06:50,2025-03-07 17:11:32,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11213.0,Closed,Online,60
+63661052,2025-01-06 00:00:00,2025-01-08 00:00:01,DOHMH,Food Poisoning,3 or More,Queens,11372.0,Closed,Online,2
+63661059,2025-01-06 17:46:41,2025-01-06 17:46:41,DOHMH,Rodent,Rat Sighting,Manhattan,10009.0,Closed,Mobile,0
+63661062,2025-01-06 16:36:15,2025-01-06 16:36:15,DOHMH,Unleashed Dog,Unleashed Dog in Public,Queens,11423.0,Closed,Online,0
+63661116,2025-01-06 15:02:30,2025-01-14 13:58:20,DOHMH,Beach/Pool/Sauna Complaint,Facility Maintenance,Queens,11377.0,Closed,Online,7
+63661121,2025-01-06 10:31:40,2025-03-07 10:43:42,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10029.0,Closed,Online,60
+63661122,2025-01-06 17:40:23,2025-01-06 17:40:23,DOHMH,Rodent,Condition Attracting Rodents,Staten Island,10308.0,Closed,Phone,0
+63661123,2025-01-06 14:39:56,2025-01-06 14:39:56,DOHMH,Rodent,Rat Sighting,Brooklyn,11210.0,Closed,Mobile,0
+63661283,2025-01-06 18:57:58,2025-01-07 09:17:20,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11385.0,Closed,Online,0
+63662303,2025-01-06 16:52:44,2025-03-04 14:55:56,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10452.0,Closed,Online,56
+63662328,2025-01-06 17:53:26,2025-03-07 17:57:50,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10461.0,Closed,Online,60
+63662337,2025-01-06 09:06:30,2025-01-10 23:02:53,DOHMH,Mobile Food Vendor,Food Source/Protection,Manhattan,10025.0,Closed,Online,4
+63662466,2025-01-06 00:49:57,2025-02-17 02:22:59,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10040.0,Closed,Online,42
+63662467,2025-01-06 15:23:05,2025-01-11 20:32:20,DOHMH,Food Establishment,Food Preparation Location,Queens,11419.0,Closed,Online,5
+63662501,2025-01-06 10:41:48,2025-03-07 10:50:45,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10003.0,Closed,Online,60
+63662503,2025-01-06 14:15:10,2025-01-06 14:53:59,DOHMH,Indoor Air Quality,Sewage Odor,Bronx,10462.0,Closed,Online,0
+63662781,2025-01-06 08:05:34,2025-01-06 08:58:07,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63663007,2025-01-07 20:05:02,2025-03-08 20:22:47,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Staten Island,10301.0,Closed,Online,60
+63663024,2025-01-07 18:48:00,2025-02-06 14:51:36,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10031.0,Closed,Phone,29
+63663031,2025-01-07 13:50:00,2025-03-08 13:53:20,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10471.0,Closed,Online,60
+63663033,2025-01-07 05:01:18,2025-03-08 05:19:09,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11230.0,Closed,Online,60
+63663071,2025-01-07 10:10:44,2025-01-11 18:22:59,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11101.0,Closed,Online,4
+63663288,2025-01-07 14:59:39,2025-03-08 15:02:48,DOHMH,Mobile Food Vendor,Equipment,Bronx,10458.0,Closed,Mobile,60
+63663295,2025-01-07 16:11:45,2025-03-08 16:13:20,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10022.0,Closed,Online,60
+63663298,2025-01-07 09:52:21,2025-03-08 10:16:00,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10018.0,Closed,Online,60
+63663305,2025-01-07 14:47:44,2025-03-08 15:15:50,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10022.0,Closed,Online,60
+63663312,2025-01-07 00:00:00,2025-01-24 00:00:01,DOHMH,Food Poisoning,1 or 2,Brooklyn,11218.0,Closed,Phone,17
+63663318,2025-01-07 00:00:00,2025-01-21 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10002.0,Closed,Online,14
+63663319,2025-01-07 07:11:01,2025-01-07 09:22:03,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10022.0,Closed,Online,0
+63663329,2025-01-07 22:41:53,2025-01-08 11:25:26,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11229.0,Closed,Phone,0
+63663338,2025-01-07 15:02:21,2025-01-08 15:31:19,DOHMH,Rodent,Signs of Rodents,Brooklyn,11226.0,Closed,Phone,1
+63663341,2025-01-07 21:30:03,2025-01-07 21:30:03,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11228.0,Closed,Mobile,0
+63663345,2025-01-07 08:17:20,2025-01-07 08:17:20,DOHMH,Rodent,Signs of Rodents,Bronx,10472.0,Closed,Mobile,0
+63663361,2025-01-07 16:12:50,2025-01-07 16:12:50,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10029.0,Closed,Phone,0
+63663369,2025-01-07 09:53:17,2025-01-07 09:53:17,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11249.0,Closed,Online,0
+63663370,2025-01-07 10:41:28,2025-01-07 10:41:28,DOHMH,Rodent,Rat Sighting,Brooklyn,11230.0,Closed,Mobile,0
+63663371,2025-01-07 21:05:38,2025-01-07 21:05:38,DOHMH,Rodent,Rat Sighting,Bronx,10469.0,Closed,Online,0
+63663372,2025-01-07 17:56:20,2025-01-10 10:07:28,DOHMH,Rodent,Mouse Sighting,Bronx,10460.0,Closed,Mobile,2
+63663387,2025-01-07 08:57:33,2025-01-07 08:57:33,DOHMH,Rodent,Rat Sighting,Bronx,10473.0,Closed,Mobile,0
+63663390,2025-01-07 17:22:34,2025-01-07 17:22:34,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10025.0,Closed,Online,0
+63663391,2025-01-07 17:06:39,2025-01-07 17:06:39,DOHMH,Rodent,Rat Sighting,Manhattan,10033.0,Closed,Phone,0
+63663392,2025-01-07 10:33:00,2025-01-07 10:33:00,DOHMH,Rodent,Rat Sighting,Brooklyn,11216.0,Closed,Online,0
+63663396,2025-01-07 15:37:03,2025-01-07 15:37:03,DOHMH,Rodent,Rat Sighting,Brooklyn,11213.0,Closed,Phone,0
+63663397,2025-01-07 10:03:57,2025-01-08 09:42:33,DOHMH,Rodent,Rat Sighting,Brooklyn,11237.0,Closed,Online,0
+63663407,2025-01-07 09:10:49,2025-01-08 06:39:11,DOHMH,Rodent,Rat Sighting,Manhattan,10016.0,Closed,Phone,0
+63663408,2025-01-07 08:43:37,2025-01-07 08:43:37,DOHMH,Rodent,Rat Sighting,Brooklyn,11233.0,Closed,Phone,0
+63663412,2025-01-07 18:54:53,2025-01-07 18:54:53,DOHMH,Rodent,Rat Sighting,Bronx,10473.0,Closed,Mobile,0
+63663414,2025-01-07 12:03:15,2025-01-07 12:03:15,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11412.0,Closed,Phone,0
+63663416,2025-01-07 22:01:42,2025-01-07 22:01:42,DOHMH,Rodent,Signs of Rodents,Manhattan,10022.0,Closed,Mobile,0
+63663417,2025-01-07 15:07:10,2025-01-07 15:07:10,DOHMH,Rodent,Rat Sighting,Manhattan,10023.0,Closed,Phone,0
+63663611,2025-01-07 14:41:36,2025-03-08 15:07:06,DOHMH,Food Establishment,Food Spoiled,Brooklyn,11235.0,Closed,Mobile,60
+63663632,2025-01-07 12:05:37,2025-01-10 22:33:57,DOHMH,Food Establishment,Food Spoiled,Brooklyn,11235.0,Closed,Online,3
+63663654,2025-01-07 15:22:23,2025-02-16 21:12:39,DOHMH,Food Establishment,Food Contains Foreign Object,Queens,11106.0,Closed,Online,40
+63663705,2025-01-07 08:44:04,2025-03-08 09:07:29,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11101.0,Closed,Mobile,60
+63664533,2025-01-07 11:51:52,2025-01-07 12:38:49,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11356.0,Closed,Phone,0
+63665758,2025-01-07 09:25:12,2025-02-06 11:52:38,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10472.0,Closed,Phone,30
+63665759,2025-01-07 09:37:30,2025-03-08 09:48:32,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11377.0,Closed,Online,60
+63665760,2025-01-07 19:59:54,2025-03-08 20:22:46,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Staten Island,10301.0,Closed,Online,60
+63665807,2025-01-07 11:03:27,2025-02-25 11:20:04,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10451.0,Closed,Online,49
+63665808,2025-01-07 10:39:46,2025-03-08 10:45:30,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11413.0,Closed,Online,60
+63665828,2025-01-07 09:25:45,2025-01-07 09:25:45,DOHMH,Rodent,Mouse Sighting,Brooklyn,11235.0,Closed,Online,0
+63665829,2025-01-07 09:36:46,2025-01-07 09:36:46,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10016.0,Closed,Online,0
+63665871,2025-01-07 12:06:28,2025-01-11 05:28:23,DOHMH,Food Establishment,Rodents/Insects/Garbage,Brooklyn,11211.0,Closed,Online,3
+63665876,2025-01-07 08:56:39,2025-01-10 11:13:51,DOHMH,Day Care,Day Care Facility,Bronx,10455.0,Closed,Phone,3
+63665901,2025-01-07 13:21:53,2025-03-08 13:45:30,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11220.0,Closed,Online,60
+63665903,2025-01-07 15:04:17,2025-01-15 11:09:50,DOHMH,Indoor Sewage,Sewage Leak,Manhattan,10003.0,Closed,Phone,7
+63665904,2025-01-07 08:16:26,2025-01-07 08:16:26,DOHMH,Rodent,Signs of Rodents,Bronx,10472.0,Closed,Mobile,0
+63665905,2025-01-07 12:26:37,2025-01-07 12:26:37,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10022.0,Closed,Phone,0
+63665906,2025-01-07 18:15:27,2025-01-07 18:15:27,DOHMH,Rodent,Rat Sighting,Bronx,10462.0,Closed,Phone,0
+63665907,2025-01-07 02:09:10,2025-01-07 02:09:10,DOHMH,Rodent,Rat Sighting,Brooklyn,11226.0,Closed,Online,0
+63665915,2025-01-07 00:00:00,2025-01-07 00:00:01,DOHMH,Food Poisoning,1 or 2,Bronx,10463.0,Closed,Online,0
+63665916,2025-01-07 23:33:05,2025-01-08 11:28:17,DOHMH,Indoor Air Quality,Other (Explain Below),Queens,11355.0,Closed,Phone,0
+63665927,2025-01-07 14:02:54,2025-01-08 07:50:18,DOHMH,Rodent,Rat Sighting,Manhattan,10031.0,Closed,Phone,0
+63665935,2025-01-07 17:07:34,2025-05-02 12:45:39,DOHMH,Drinking Water,Illness Caused by Drinking Water,Manhattan,10035.0,Closed,Phone,114
+63665939,2025-01-07 19:53:20,2025-01-09 10:42:20,DOHMH,Rodent,Rat Sighting,Brooklyn,11238.0,Closed,Mobile,1
+63665940,2025-01-07 22:10:22,2025-01-07 22:10:22,DOHMH,Rodent,Rat Sighting,Bronx,10453.0,Closed,Phone,0
+63665941,2025-01-07 16:53:25,2025-01-07 16:53:25,DOHMH,Rodent,Signs of Rodents,Brooklyn,11215.0,Closed,Mobile,0
+63665958,2025-01-07 23:16:32,2025-03-08 23:44:12,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11203.0,Closed,Online,60
+63665981,2025-01-07 12:01:20,2025-01-07 14:08:21,DOHMH,Rodent,Rat Sighting,Manhattan,10034.0,Closed,Mobile,0
+63665982,2025-01-07 15:20:37,2025-01-07 15:20:37,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Phone,0
+63665983,2025-01-07 17:02:44,2025-01-10 10:04:51,DOHMH,Rodent,Rat Sighting,Bronx,10463.0,Closed,Online,2
+63665984,2025-01-07 14:55:55,2025-01-10 10:01:31,DOHMH,Rodent,Rat Sighting,Bronx,10465.0,Closed,Phone,2
+63665998,2025-01-07 13:40:55,2025-03-08 14:04:21,DOHMH,Food Establishment,Food Contains Foreign Object,Manhattan,10031.0,Closed,Online,60
+63666564,2025-01-07 16:34:34,2025-01-08 08:53:38,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11212.0,Closed,Phone,0
+63666790,2025-01-07 13:37:14,2025-03-08 14:04:52,DOHMH,Food Establishment,Food Contaminated,Bronx,10467.0,Closed,Phone,60
+63667758,2025-01-07 11:06:05,2025-01-10 18:29:26,DOHMH,Day Care,Day Care Facility,Queens,11358.0,Closed,Online,3
+63667773,2025-01-07 08:30:06,2025-03-08 08:47:00,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11432.0,Closed,Online,60
+63667779,2025-01-07 10:42:14,2025-01-10 13:57:25,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10033.0,Closed,Mobile,3
+63667780,2025-01-07 05:08:19,2025-01-07 05:08:19,DOHMH,Rodent,Mouse Sighting,Bronx,10457.0,Closed,Mobile,0
+63667784,2025-01-07 00:00:00,2025-01-08 08:22:41,DOHMH,Food Poisoning,1 or 2,Brooklyn,11215.0,Closed,Online,1
+63667785,2025-01-07 00:00:00,2025-01-08 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10011.0,Closed,Online,1
+63667787,2025-01-07 16:00:45,2025-01-07 16:00:45,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11216.0,Closed,Phone,0
+63667794,2025-01-07 10:37:02,2025-01-08 15:32:04,DOHMH,Rodent,Rat Sighting,Brooklyn,11226.0,Closed,Phone,1
+63667796,2025-01-07 10:10:34,2025-01-07 10:10:34,DOHMH,Unsanitary Pigeon Condition,Pigeon Odor,Brooklyn,11237.0,Closed,Phone,0
+63667862,2025-01-07 09:32:24,2025-01-10 19:45:10,DOHMH,Day Care,Day Care Facility,Brooklyn,11226.0,Closed,Phone,3
+63667895,2025-01-07 00:00:00,2025-01-08 00:00:01,DOHMH,Food Poisoning,1 or 2,Queens,11358.0,Closed,Online,1
+63667898,2025-01-07 10:43:52,2025-01-07 10:43:52,DOHMH,Rodent,Rat Sighting,Manhattan,10019.0,Closed,Phone,0
+63667899,2025-01-07 13:52:33,2025-01-07 13:52:33,DOHMH,Rodent,Signs of Rodents,Brooklyn,11226.0,Closed,Phone,0
+63667900,2025-01-07 20:47:53,2025-01-07 20:47:53,DOHMH,Rodent,Signs of Rodents,Bronx,10466.0,Closed,Phone,0
+63667961,2025-01-07 14:56:15,2025-03-08 15:02:48,DOHMH,Mobile Food Vendor,Equipment,Brooklyn,11215.0,Closed,Mobile,60
+63667986,2025-01-07 08:32:46,2025-03-08 08:47:32,DOHMH,Non-Residential Heat,Inadequate or No Heat,Staten Island,10306.0,Closed,Online,60
+63667987,2025-01-07 10:22:49,2025-01-09 11:40:10,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10462.0,Closed,Phone,2
+63667988,2025-01-07 10:48:10,2025-01-07 10:48:10,DOHMH,Rodent,Rat Sighting,Manhattan,10019.0,Closed,Phone,0
+63669612,2025-01-07 10:43:45,2025-03-08 10:45:32,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11413.0,Closed,Online,60
+63669624,2025-01-07 15:52:46,2025-01-08 08:50:43,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Manhattan,10039.0,Closed,Online,0
+63669625,2025-01-07 19:04:11,2025-01-07 19:04:11,DOHMH,Rodent,Rat Sighting,Brooklyn,11207.0,Closed,Mobile,0
+63669626,2025-01-07 11:04:17,2025-01-07 11:04:17,DOHMH,Rodent,Rat Sighting,Bronx,10452.0,Closed,Phone,0
+63669627,2025-01-07 10:00:32,2025-01-08 09:46:45,DOHMH,Rodent,Rat Sighting,Brooklyn,11237.0,Closed,Online,0
+63669639,2025-01-07 14:51:28,2025-03-08 15:15:42,DOHMH,Non-Residential Heat,Inadequate or No Heat,Staten Island,10306.0,Closed,Online,60
+63669640,2025-01-07 10:19:54,2025-01-07 10:19:54,DOHMH,Rodent,Rat Sighting,Brooklyn,11215.0,Closed,Mobile,0
+63669652,2025-01-07 15:52:06,2025-01-07 15:52:06,DOHMH,Rodent,Signs of Rodents,Brooklyn,11204.0,Closed,Phone,0
+63669653,2025-01-07 11:59:28,2025-01-07 11:59:28,DOHMH,Unleashed Dog,Unleashed Dog in Public,Staten Island,10309.0,Closed,Phone,0
+63669666,2025-01-07 17:27:09,2025-03-08 17:35:11,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11101.0,Closed,Mobile,60
+63669675,2025-01-07 13:18:47,2025-03-08 13:42:23,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10018.0,Closed,Online,60
+63669762,2025-01-07 08:57:53,2025-03-08 09:17:43,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10010.0,Closed,Online,60
+63669763,2025-01-07 00:00:00,2025-01-17 00:00:01,DOHMH,Food Poisoning,1 or 2,Manhattan,10022.0,Closed,Online,10
+63669792,2025-01-07 07:09:55,2025-01-07 07:09:55,DOHMH,Rodent,Rat Sighting,Brooklyn,11221.0,Closed,Mobile,0
+63669861,2025-01-07 14:31:00,2025-01-08 07:34:54,DOHMH,Rodent,Rat Sighting,Manhattan,10027.0,Closed,Phone,0
+63669862,2025-01-07 11:28:34,2025-01-08 10:34:12,DOHMH,Rodent,Rat Sighting,Brooklyn,11222.0,Closed,Online,0
+63669865,2025-01-07 14:33:42,2025-03-08 14:38:02,DOHMH,Mobile Food Vendor,Food Temperature,Manhattan,10011.0,Closed,Phone,60
+63669898,2025-01-07 10:15:00,2025-01-07 10:15:00,DOHMH,Rodent,Rat Sighting,Brooklyn,11237.0,Closed,Online,0
+63669899,2025-01-07 08:03:19,2025-01-07 08:49:43,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63669900,2025-01-07 10:29:04,2025-01-07 10:29:04,DOHMH,Rodent,Signs of Rodents,Staten Island,10312.0,Closed,Phone,0
+63670160,2025-01-07 12:38:07,2025-01-07 13:34:45,DOHMH,Indoor Air Quality,Sewage Odor,Queens,11356.0,Closed,Phone,0
+63671430,2025-01-07 19:05:39,2025-02-10 15:19:19,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10035.0,Closed,Online,33
+63671431,2025-01-07 20:27:47,2025-03-08 20:52:11,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10016.0,Closed,Online,60
+63671432,2025-01-07 07:10:55,2025-02-22 16:57:03,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10022.0,Closed,Online,46
+63671433,2025-01-07 05:07:35,2025-03-08 05:19:11,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11235.0,Closed,Online,60
+63671438,2025-01-07 10:07:50,2025-03-08 10:13:59,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11379.0,Closed,Online,60
+63671439,2025-01-07 00:00:00,2025-01-15 00:00:01,DOHMH,Food Poisoning,1 or 2,Queens,11372.0,Closed,Online,8
+63671443,2025-01-07 11:08:47,2025-03-08 11:35:24,DOHMH,Food Establishment,Food Preparation Location,Queens,11368.0,Closed,Online,60
+63671447,2025-01-07 12:58:11,2025-01-07 12:58:11,DOHMH,Rodent,Rat Sighting,Manhattan,10021.0,Closed,Online,0
+63671448,2025-01-07 19:00:35,2025-01-08 12:36:26,DOHMH,Rodent,Signs of Rodents,Manhattan,10019.0,Closed,Mobile,0
+63671473,2025-01-07 10:23:17,2025-01-11 06:37:22,DOHMH,Food Establishment,Food Worker Hygiene,Brooklyn,11222.0,Closed,Mobile,3
+63671475,2025-01-07 16:40:31,2025-02-05 21:17:22,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10034.0,Closed,Online,29
+63671476,2025-01-07 09:33:57,2025-02-06 11:52:40,DOHMH,Smoking Or Vaping,Sign Inadequate,Bronx,10472.0,Closed,Phone,30
+63671487,2025-01-07 06:05:02,2025-03-08 06:13:44,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11219.0,Closed,Online,60
+63671507,2025-01-07 11:52:34,2025-03-04 09:12:50,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11206.0,Closed,Online,55
+63671509,2025-01-07 09:22:32,2025-02-19 11:47:27,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10465.0,Closed,Online,43
+63671510,2025-01-07 12:17:01,2025-01-07 13:05:03,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Queens,11372.0,Closed,Online,0
+63671511,2025-01-07 16:59:03,2025-01-08 12:17:31,DOHMH,Rodent,Condition Attracting Rodents,Queens,11370.0,Closed,Online,0
+63671512,2025-01-07 03:50:29,2025-01-07 14:39:45,DOHMH,Rodent,Rat Sighting,Brooklyn,11235.0,Closed,Mobile,0
+63671570,2025-01-07 13:08:13,2025-03-08 13:14:30,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11101.0,Closed,Online,60
+63671594,2025-01-07 16:21:54,2025-03-08 16:46:31,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10004.0,Closed,Online,60
+63671596,2025-01-07 11:54:36,2025-01-07 14:10:20,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Mobile,0
+63671599,2025-01-07 15:32:04,2025-01-07 15:32:04,DOHMH,Unsanitary Animal Pvt Property,Dog,Queens,11412.0,Closed,Online,0
+63671862,2025-01-07 13:14:10,2025-03-08 13:14:39,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10452.0,Closed,Online,60
+63671866,2025-01-07 12:42:55,2025-01-07 12:42:55,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10455.0,Closed,Mobile,0
+63671867,2025-01-07 16:09:58,2025-01-13 13:13:53,DOHMH,Rodent,Condition Attracting Rodents,Queens,11364.0,Closed,Online,5
+63671868,2025-01-07 22:49:32,2025-01-08 07:42:32,DOHMH,Rodent,Rat Sighting,Manhattan,10031.0,Closed,Online,0
+63671869,2025-01-07 08:56:09,2025-01-07 10:19:01,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63671889,2025-01-07 14:44:40,2025-01-10 22:40:58,DOHMH,Food Establishment,Food Spoiled,Brooklyn,11229.0,Closed,Mobile,3
+63673330,2025-01-07 11:28:37,2025-02-24 12:16:01,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11220.0,Closed,Online,48
+63673331,2025-01-07 11:18:49,2025-01-07 12:39:49,DOHMH,Indoor Air Quality,Dust from Construction,Manhattan,10003.0,Closed,Phone,0
+63673332,2025-01-07 21:58:59,2025-01-09 09:13:21,DOHMH,Indoor Air Quality,Other (Explain Below),Manhattan,10022.0,Closed,Online,1
+63673333,2025-01-07 12:04:53,2025-01-07 14:00:59,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11224.0,Closed,Phone,0
+63673339,2025-01-07 11:36:09,2025-01-10 08:17:31,DOHMH,Day Care,Day Care Facility,Bronx,10451.0,Closed,Phone,2
+63673343,2025-01-07 21:19:19,2025-01-07 21:19:19,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11238.0,Closed,Mobile,0
+63673344,2025-01-07 12:19:45,2025-01-07 12:19:45,DOHMH,Rodent,Condition Attracting Rodents,Brooklyn,11234.0,Closed,Online,0
+63673348,2025-01-07 15:08:14,2025-01-07 15:08:14,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Brooklyn,11229.0,Closed,Online,0
+63673350,2025-01-07 16:26:01,2025-03-08 16:54:51,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Bronx,10459.0,Closed,Phone,60
+63673351,2025-01-07 07:58:06,2025-02-26 22:49:40,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10001.0,Closed,Phone,50
+63673372,2025-01-07 19:43:08,2025-03-08 19:49:15,DOHMH,Food Establishment,Odor,Manhattan,10026.0,Closed,Mobile,60
+63673373,2025-01-07 08:50:05,2025-01-10 23:02:54,DOHMH,Mobile Food Vendor,Food Source/Protection,Manhattan,10025.0,Closed,Online,3
+63673390,2025-01-07 21:05:00,2025-03-08 21:13:21,DOHMH,Food Establishment,Rodents/Insects/Garbage,Manhattan,10065.0,Closed,Phone,60
+63673436,2025-01-07 12:59:39,2025-03-08 13:16:09,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10468.0,Closed,Online,60
+63673438,2025-01-07 14:12:53,2025-01-07 14:51:16,DOHMH,Indoor Air Quality,Other (Explain Below),Queens,11385.0,Closed,Phone,0
+63673441,2025-01-07 12:07:17,2025-01-07 12:07:17,DOHMH,Rodent,Condition Attracting Rodents,Bronx,10468.0,Closed,Phone,0
+63673442,2025-01-07 16:22:43,2025-01-07 16:22:43,DOHMH,Rodent,Rat Sighting,Manhattan,10010.0,Closed,Phone,0
+63673443,2025-01-07 18:04:44,2025-01-08 07:32:46,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63673455,2025-01-07 10:33:52,2025-03-08 10:45:29,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11413.0,Closed,Online,60
+63673460,2025-01-07 12:19:51,2025-01-07 12:19:51,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Brooklyn,11237.0,Closed,Online,0
+63673521,2025-01-07 17:14:48,2025-01-11 05:28:19,DOHMH,Food Establishment,Bare Hands in Contact w/ Food,Brooklyn,11211.0,Closed,Online,3
+63673732,2025-01-07 19:56:51,2025-01-10 13:22:51,DOHMH,Day Care,Day Care Facility,Manhattan,10128.0,Closed,Online,2
+63673766,2025-01-07 10:25:35,2025-03-08 10:14:01,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11379.0,Closed,Online,59
+63673779,2025-01-07 07:32:13,2025-01-07 09:20:12,DOHMH,Indoor Air Quality,Other (Explain Below),Brooklyn,11212.0,Closed,Online,0
+63673781,2025-01-07 05:47:00,2025-01-07 05:47:00,DOHMH,Rodent,Rat Sighting,Staten Island,10301.0,Closed,Mobile,0
+63673806,2025-01-07 08:15:23,2025-03-08 08:30:44,DOHMH,Food Establishment,Pet/Animal,Manhattan,10282.0,Closed,Online,60
+63675285,2025-01-07 04:55:44,2025-03-08 05:19:08,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11223.0,Closed,Online,60
+63675312,2025-01-07 09:41:30,2025-03-08 09:43:30,DOHMH,Non-Residential Heat,Inadequate or No Heat,Staten Island,10301.0,Closed,Online,60
+63675313,2025-01-07 14:20:23,2025-01-07 15:14:32,DOHMH,Indoor Air Quality,Other (Explain Below),Queens,11385.0,Closed,Phone,0
+63675314,2025-01-07 10:45:38,2025-01-22 09:17:38,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10033.0,Closed,Mobile,14
+63675315,2025-01-07 02:29:20,2025-01-07 02:29:20,DOHMH,Rodent,Rat Sighting,Bronx,10452.0,Closed,Phone,0
+63675316,2025-01-07 14:30:35,2025-01-10 09:12:54,DOHMH,Rodent,Rat Sighting,Bronx,10452.0,Closed,Online,2
+63675317,2025-01-07 08:10:27,2025-01-07 08:49:43,DOHMH,Rodent,Signs of Rodents,Manhattan,10035.0,Closed,Mobile,0
+63675318,2025-01-07 16:34:56,2025-01-08 12:32:14,DOHMH,Rodent,Signs of Rodents,Manhattan,10012.0,Closed,Online,0
+63675321,2025-01-07 14:49:42,2025-03-08 14:54:51,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11221.0,Closed,Phone,60
+63675322,2025-01-07 08:42:03,2025-01-10 22:58:48,DOHMH,Mobile Food Vendor,Food Source/Protection,Manhattan,10025.0,Closed,Online,3
+63675327,2025-01-07 10:20:51,2025-01-07 11:53:41,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10009.0,Closed,Online,0
+63675351,2025-01-07 14:44:45,2025-01-11 20:33:33,DOHMH,Food Establishment,No Permit or License,Brooklyn,11201.0,Closed,Online,4
+63675381,2025-01-07 14:46:20,2025-01-07 14:46:20,DOHMH,Rodent,Condition Attracting Rodents,Manhattan,10034.0,Closed,Mobile,0
+63675382,2025-01-07 19:54:39,2025-01-13 09:34:28,DOHMH,Rodent,Mouse Sighting,Brooklyn,11221.0,Closed,Mobile,5
+63675383,2025-01-07 07:59:30,2025-01-07 07:59:30,DOHMH,Rodent,Rat Sighting,Manhattan,10035.0,Closed,Online,0
+63675384,2025-01-07 14:39:51,2025-01-07 14:39:51,DOHMH,Rodent,Rat Sighting,Queens,11106.0,Closed,Phone,0
+63675385,2025-01-07 18:21:49,2025-01-07 18:21:49,DOHMH,Rodent,Rat Sighting,Bronx,10468.0,Closed,Phone,0
+63675406,2025-01-07 18:17:34,2025-01-07 18:17:34,DOHMH,Unsanitary Animal Pvt Property,Dog,Manhattan,10037.0,Closed,Phone,0
+63675527,2025-01-07 10:54:34,2025-01-07 12:29:44,DOHMH,Indoor Air Quality,Unsafe Mold Cleanup,Bronx,10473.0,Closed,Phone,0
+63675574,2025-01-07 16:08:05,2025-03-08 16:10:31,DOHMH,Food Establishment,Rodents/Insects/Garbage,Queens,11103.0,Closed,Online,60
+63675579,2025-01-07 11:35:16,2025-01-09 11:00:57,DOHMH,Food Poisoning,1 or 2,Brooklyn,11215.0,Closed,Online,1
+63675580,2025-01-07 09:26:43,2025-01-07 10:44:44,DOHMH,Indoor Air Quality,Ventilation,Brooklyn,11232.0,Closed,Online,0
+63675587,2025-01-07 10:05:49,2025-01-07 10:05:49,DOHMH,Rodent,Signs of Rodents,Queens,11373.0,Closed,Mobile,0
+63675612,2025-01-07 20:41:37,2025-03-08 20:55:45,DOHMH,Food Establishment,Letter Grading,Manhattan,10034.0,Closed,Online,60
+63675729,2025-01-07 13:22:41,2025-01-07 15:10:53,DOHMH,Indoor Air Quality,Sewage Odor,Brooklyn,11207.0,Closed,Phone,0
+63675748,2025-01-07 21:44:13,2025-03-08 21:50:26,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11106.0,Closed,Online,60
+63675754,2025-01-07 12:09:27,2025-03-08 12:36:43,DOHMH,Mobile Food Vendor,Food Source/Protection,Queens,11101.0,Closed,Online,60
+63675767,2025-01-07 16:36:38,2025-01-08 08:56:36,DOHMH,Indoor Air Quality,Sewage Odor,Bronx,10467.0,Closed,Phone,0
+63675785,2025-01-07 10:23:55,2025-03-08 10:44:11,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10019.0,Closed,Online,60
+63675786,2025-01-07 15:05:16,2025-01-07 15:38:32,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Brooklyn,11214.0,Closed,Online,0
+63675788,2025-01-07 20:38:35,2025-01-07 20:38:35,DOHMH,Rodent,Rat Sighting,Queens,11691.0,Closed,Mobile,0
+63675802,2025-01-07 19:20:07,2025-01-11 20:25:45,DOHMH,Food Establishment,Letter Grading,Manhattan,10028.0,Closed,Mobile,4
+63677196,2025-01-07 21:58:51,2025-02-22 16:56:53,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10022.0,Closed,Online,45
+63677197,2025-01-07 23:29:31,2025-03-08 23:49:04,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11225.0,Closed,Online,60
+63677226,2025-01-07 15:00:02,2025-03-08 10:45:33,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11413.0,Closed,Online,59
+63677227,2025-01-07 03:40:53,2025-03-08 03:45:05,DOHMH,Non-Residential Heat,Inadequate or No Heat,Bronx,10451.0,Closed,Online,60
+63677228,2025-01-07 11:22:30,2025-03-08 11:45:49,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10019.0,Closed,Online,60
+63677240,2025-01-07 15:55:52,2025-01-08 07:39:53,DOHMH,Rodent,Rat Sighting,Manhattan,10039.0,Closed,Phone,0
+63677249,2025-01-07 17:07:01,2025-03-08 17:19:27,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Manhattan,10028.0,Closed,Online,60
+63677250,2025-01-07 19:08:28,2025-03-03 17:57:11,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11236.0,Closed,Online,54
+63677305,2025-01-07 09:26:23,2025-03-08 09:41:48,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11693.0,Closed,Online,60
+63677306,2025-01-07 12:28:27,2025-03-08 12:46:22,DOHMH,Non-Residential Heat,Inadequate or No Heat,Brooklyn,11235.0,Closed,Online,60
+63677307,2025-01-07 20:33:34,2025-03-08 20:45:38,DOHMH,Non-Residential Heat,Inadequate or No Heat,Queens,11375.0,Closed,Online,60
+63677308,2025-01-07 00:00:00,2025-01-15 00:00:01,DOHMH,Food Poisoning,1 or 2,Queens,11101.0,Closed,Online,8
+63677313,2025-01-07 02:13:18,2025-01-09 11:16:41,DOHMH,Rodent,Condition Attracting Rodents,Staten Island,10309.0,Closed,Online,2
+63677314,2025-01-07 10:46:33,2025-01-07 10:46:33,DOHMH,Rodent,Rat Sighting,Manhattan,10019.0,Closed,Phone,0
+63677451,2025-01-07 04:15:00,2025-03-08 04:20:11,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Queens,11432.0,Closed,Phone,60
+63677503,2025-01-07 12:59:38,2025-02-24 13:47:31,DOHMH,Non-Residential Heat,Inadequate or No Heat,Manhattan,10012.0,Closed,Online,48
+63677512,2025-01-07 06:52:15,2025-01-10 12:17:42,DOHMH,Unsanitary Pigeon Condition,Pigeon Waste,Manhattan,10028.0,Closed,Online,3
+63677639,2025-01-07 20:55:07,2025-01-10 18:29:37,DOHMH,Day Care,Day Care Facility,Manhattan,10003.0,Closed,Online,2
+63677648,2025-01-07 11:32:06,2025-02-20 13:24:19,DOHMH,Smoking Or Vaping,Allowed in Smoke Free Area,Brooklyn,11209.0,Closed,Phone,44
+63677678,2025-01-07 22:38:51,2025-01-08 11:55:43,DOHMH,Rodent,Rat Sighting,Queens,11106.0,Closed,Online,0
+63677679,2025-01-07 11:05:24,2025-01-09 09:45:16,DOHMH,Rodent,Rat Sighting,Brooklyn,11235.0,Closed,Phone,1
+63677692,2025-01-07 13:22:41,2025-03-08 13:34:27,DOHMH,Food Establishment,Food Contains Foreign Object,Manhattan,10281.0,Closed,Online,60
+63684740,2025-01-07 23:56:14,2025-01-08 11:31:39,DOHMH,Indoor Air Quality,Chemical Vapors/Gases/Odors,Queens,11364.0,Closed,Online,0

@@ -1,0 +1,899 @@
+Unique_Key,Created_Date,Closed_Date,Agency,Complaint_Type,Descriptor,Borough,Incident_Zip,Status,Open_Data_Channel_Type,Resolution_Days
+63577233,2025-01-01 00:35:38,2025-06-03 16:27:28,DPR,New Tree Request,For One Address,Brooklyn,11238.0,Closed,Mobile,153
+63585640,2025-01-01 23:38:52,2025-01-02 14:47:35,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11369.0,Closed,Phone,0
+63585641,2025-01-01 19:19:01,2025-01-13 14:55:13,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11362.0,Closed,Unknown,11
+63585651,2025-01-02 00:42:14,2025-01-10 15:10:02,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11433.0,Closed,Online,8
+63585652,2025-01-01 19:16:01,2025-01-13 14:55:13,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11362.0,Closed,Unknown,11
+63585653,2025-01-01 14:53:31,2025-01-06 13:05:31,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11694.0,Closed,Phone,4
+63585671,2025-01-01 08:29:39,2025-01-06 12:27:27,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11375.0,Closed,Online,5
+63585672,2025-01-01 15:18:18,2025-01-03 14:34:54,DPR,Damaged Tree,Tree Leaning/Uprooted,Queens,11385.0,Closed,Mobile,1
+63585691,2025-01-01 14:28:20,2025-01-30 12:04:47,DPR,Maintenance Or Facility,Garbage or Litter,Queens,11355.0,Closed,Mobile,28
+63585692,2025-01-01 13:23:42,2025-01-10 13:59:52,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11222.0,Closed,Mobile,9
+63585693,2025-01-01 12:42:38,2025-07-18 11:52:25,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11218.0,Closed,Online,197
+63585698,2025-01-01 18:09:15,2025-02-11 14:10:54,DPR,Maintenance Or Facility,Rodent Sighting,Queens,11104.0,Closed,Mobile,40
+63585706,2025-01-01 15:41:23,2025-07-03 11:35:18,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10309.0,Closed,Online,182
+63585707,2025-01-01 17:32:33,2025-03-17 07:59:53,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10305.0,Closed,Phone,74
+63585979,2025-01-01 16:26:55,2025-11-06 07:39:03,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11362.0,Closed,Online,308
+63586883,2025-01-01 17:00:28,2025-01-03 12:28:50,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11385.0,Closed,Unknown,1
+63586894,2025-01-01 09:57:34,2025-01-24 15:10:52,DPR,Maintenance Or Facility,Rodent Sighting,Bronx,10451.0,Closed,Mobile,23
+63586931,2025-01-01 16:04:33,2025-01-02 08:22:55,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11215.0,Closed,Mobile,0
+63586932,2025-01-01 19:34:23,2025-01-09 09:52:00,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11360.0,Closed,Phone,7
+63586961,2025-01-01 12:11:53,2025-01-02 13:18:43,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10312.0,Closed,Online,1
+63586962,2025-01-01 19:09:51,2025-01-13 14:55:13,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11362.0,Closed,Unknown,11
+63587015,2025-01-01 17:52:28,2025-03-17 12:30:42,DPR,Maintenance Or Facility,Structure - Indoors,Brooklyn,11220.0,Closed,Online,74
+63587043,2025-01-01 22:10:46,2025-01-02 09:17:56,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11104.0,Closed,Online,0
+63587062,2025-01-01 10:34:14,2025-03-31 09:50:30,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11234.0,Closed,Unknown,88
+63587064,2025-01-01 16:20:08,2025-02-24 15:22:51,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11354.0,Closed,Phone,53
+63587124,2025-01-01 15:43:46,2025-01-10 13:59:20,DPR,Maintenance Or Facility,Broken Glass,Brooklyn,11218.0,Closed,Phone,8
+63587125,2025-01-01 13:44:13,2026-07-06 13:15:20,DPR,Maintenance Or Facility,Garbage or Litter,Queens,11105.0,Closed,Mobile,550
+63587776,2025-01-01 16:37:24,2025-01-14 13:29:11,DPR,Wood Pile Remaining,Remove Debris,Queens,11357.0,Closed,Unknown,12
+63587884,2025-01-01 21:13:22,2025-12-01 16:04:18,DPR,Wood Pile Remaining,Remove Debris,Brooklyn,11236.0,Closed,Unknown,333
+63588023,2025-01-01 14:10:21,2025-01-01 15:08:24,DPR,Violation Of Park Rules,BBQ Outside Authorized Area,Bronx,10460.0,Closed,Unknown,0
+63588119,2025-01-01 20:14:15,2025-01-02 13:18:41,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10308.0,Closed,Online,0
+63588135,2025-01-01 10:02:45,2025-01-08 15:00:45,DPR,Maintenance Or Facility,Graffiti or Vandalism,Bronx,10463.0,Closed,Unknown,7
+63588159,2025-01-01 18:06:43,2025-01-02 10:07:02,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11230.0,Closed,Unknown,0
+63588172,2025-01-01 21:30:15,2025-01-03 14:41:03,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11365.0,Closed,Phone,1
+63588194,2025-01-01 17:38:16,2025-01-02 08:55:26,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10309.0,Closed,Phone,0
+63588195,2025-01-01 11:06:22,2025-02-19 15:23:04,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11365.0,Closed,Phone,49
+63588210,2025-01-01 21:51:07,2025-02-07 09:09:27,DPR,Maintenance Or Facility,Rodent Sighting,Brooklyn,11203.0,Closed,Mobile,36
+63588212,2025-01-01 12:39:46,2025-01-22 11:59:25,DPR,Maintenance Or Facility,Hours of Operation,Queens,11375.0,Closed,Online,20
+63588415,2025-01-01 16:28:25,2025-01-03 08:38:35,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11385.0,Closed,Online,1
+63588810,2025-01-01 17:01:41,2025-01-01 18:00:55,DPR,Animal In A Park,Dog Off Leash,Manhattan,10075.0,Closed,Online,0
+63589307,2025-01-01 19:38:29,2025-02-21 09:38:53,DPR,Maintenance Or Facility,Recreation Center,Manhattan,10023.0,Closed,Online,50
+63589466,2025-01-01 10:43:55,2025-01-06 10:53:36,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11235.0,Closed,Phone,5
+63589470,2025-01-01 13:26:01,2025-01-29 12:43:40,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11236.0,Closed,Unknown,27
+63590130,2025-01-01 16:26:13,2025-01-01 18:06:33,DPR,Animal In A Park,Injured Wildlife,Queens,11385.0,Closed,Phone,0
+63590650,2025-01-01 13:28:36,2025-01-02 07:06:02,DPR,Overgrown Tree/Branches,Hitting Building,Staten Island,10312.0,Closed,Phone,0
+63590675,2025-01-01 15:31:59,2025-01-02 10:41:38,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11203.0,Closed,Online,0
+63590676,2025-01-01 13:22:26,2025-02-10 06:06:54,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10314.0,Closed,Phone,39
+63590677,2025-01-01 15:25:53,2026-04-17 17:03:12,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11355.0,Closed,Phone,471
+63590686,2025-01-01 11:47:22,2025-01-02 11:37:43,DPR,Maintenance Or Facility,Graffiti or Vandalism,Staten Island,10310.0,Closed,Unknown,0
+63590793,2025-01-01 17:00:28,2025-01-02 07:13:15,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10301.0,Closed,Unknown,0
+63590914,2025-01-01 08:25:12,2025-01-02 11:23:07,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11249.0,Closed,Phone,1
+63590915,2025-01-01 21:11:56,2025-01-03 08:17:06,DPR,Damaged Tree,Entire Tree Has Fallen Down,Brooklyn,11211.0,Closed,Mobile,1
+63590916,2025-01-01 19:15:49,2025-01-13 14:55:13,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11362.0,Closed,Unknown,11
+63590953,2025-01-01 09:57:33,2025-01-02 16:04:47,DPR,Maintenance Or Facility,Unsecured Facility,Manhattan,10013.0,Closed,Online,1
+63591521,2025-01-01 20:43:43,2025-01-02 08:16:50,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11366.0,Closed,Unknown,0
+63591645,2025-01-01 16:25:24,2025-01-01 18:03:04,DPR,Violation Of Park Rules,Obstructing Public Use,Brooklyn,11224.0,Closed,Unknown,0
+63591856,2025-01-01 20:07:04,2025-01-02 09:40:08,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11234.0,Closed,Online,0
+63591858,2025-01-01 23:42:41,2025-01-23 13:43:21,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Manhattan,10025.0,Closed,Unknown,21
+63591882,2025-01-01 03:58:01,2025-01-10 14:00:56,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11211.0,Closed,Online,9
+63591909,2025-01-01 16:01:34,2025-02-28 09:32:27,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10312.0,Closed,Online,57
+63591911,2025-01-01 08:08:17,2025-02-12 16:34:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10303.0,Closed,Online,42
+63591921,2025-01-01 16:22:54,2025-01-02 16:13:22,DPR,Maintenance Or Facility,Hours of Operation,Manhattan,10034.0,Closed,Online,0
+63591953,2025-01-01 14:50:09,2025-01-06 10:25:23,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11379.0,Closed,Mobile,4
+63591977,2025-01-01 16:45:25,2025-06-02 11:45:20,DPR,Damaged Tree,Tree Alive - in Poor Condition,Staten Island,10314.0,Closed,Unknown,151
+63591978,2025-01-01 17:49:44,2026-05-28 15:07:54,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11361.0,Closed,Online,511
+63591980,2025-01-01 18:46:16,2025-01-31 09:04:46,DPR,Illegal Tree Damage,Bicycle Chained to Tree,Bronx,10452.0,Closed,Online,29
+63591982,2025-01-01 16:12:49,2025-01-02 16:09:17,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10026.0,Closed,Mobile,0
+63591995,2025-01-01 17:47:23,2025-01-02 10:10:03,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11435.0,Closed,Online,0
+63591996,2025-01-01 19:54:45,2025-01-07 12:46:11,DPR,Damaged Tree,Entire Tree Has Fallen Down,Bronx,10456.0,Closed,Phone,5
+63591998,2025-01-01 13:29:38,2025-03-25 10:18:11,DPR,Damaged Tree,Tree Alive - in Poor Condition,Staten Island,10312.0,Closed,Phone,82
+63592047,2025-01-01 12:44:30,2025-06-03 16:27:28,DPR,New Tree Request,For One Address,Brooklyn,11215.0,Closed,Mobile,153
+63593168,2025-01-01 16:17:07,2025-01-03 14:38:03,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11355.0,Closed,Online,1
+63593169,2025-01-01 22:53:39,2025-01-06 14:34:23,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11413.0,Closed,Phone,4
+63593170,2025-01-01 20:01:51,2025-01-03 11:48:43,DPR,Damaged Tree,Tree Leaning/Uprooted,Queens,11422.0,Closed,Phone,1
+63593171,2025-01-01 16:53:44,2025-01-10 12:04:55,DPR,Dead/Dying Tree,Planted Less Than 2 Years Ago,Queens,11421.0,Closed,Online,8
+63593172,2025-01-01 21:22:40,2025-01-15 12:48:47,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11210.0,Closed,Online,13
+63593173,2025-01-01 17:51:43,2026-05-28 15:07:54,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11361.0,Closed,Unknown,511
+63593179,2025-01-01 16:19:38,2025-01-02 11:26:09,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11355.0,Closed,Online,0
+63593249,2025-01-01 20:05:32,2025-01-02 10:56:45,DPR,Damaged Tree,Entire Tree Has Fallen Down,Bronx,10463.0,Closed,Online,0
+63593250,2025-01-01 19:12:49,2025-01-13 14:55:13,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11362.0,Closed,Unknown,11
+63593276,2025-01-01 21:43:36,2025-01-03 13:58:16,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11378.0,Closed,Unknown,1
+63593297,2025-01-01 12:09:10,2025-05-16 07:25:16,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10309.0,Closed,Online,134
+63593317,2025-01-01 22:16:34,2025-02-14 14:34:50,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10467.0,Closed,Mobile,43
+63593828,2025-01-01 10:09:54,2025-01-01 10:58:57,DPR,Animal In A Park,Dog Off Leash,Manhattan,10016.0,Closed,Online,0
+63593841,2025-01-01 16:07:17,2025-01-01 16:09:47,DPR,Animal In A Park,Domestic Strays,Queens,11434.0,Closed,Unknown,0
+63594362,2025-01-01 22:44:28,2025-01-06 12:27:27,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11375.0,Closed,Online,4
+63594367,2025-01-01 11:40:29,2025-06-02 11:45:20,DPR,Damaged Tree,Tree Alive - in Poor Condition,Staten Island,10314.0,Closed,Unknown,152
+63594368,2025-01-01 16:40:33,2025-01-03 10:55:47,DPR,Damaged Tree,Tree Leaning/Uprooted,Queens,11358.0,Closed,Mobile,1
+63594376,2025-01-01 10:23:11,2025-01-06 10:32:52,DPR,Maintenance Or Facility,Broken Glass,Brooklyn,11238.0,Closed,Mobile,5
+63594377,2025-01-01 10:09:07,2025-01-02 11:39:15,DPR,Maintenance Or Facility,Grass/Weeds,Staten Island,10310.0,Closed,Phone,1
+63594378,2025-01-01 12:17:33,2026-07-16 12:20:54,DPR,Maintenance Or Facility,Structure - Outdoors,Queens,11374.0,Closed,Phone,561
+63594386,2025-01-01 10:52:10,2025-01-09 13:08:28,DPR,Maintenance Or Facility,Graffiti or Vandalism,Bronx,10474.0,Closed,Unknown,8
+63594550,2025-01-01 20:06:59,2025-01-02 10:56:45,DPR,Damaged Tree,Entire Tree Has Fallen Down,Bronx,10463.0,Closed,Unknown,0
+63594551,2025-01-01 16:42:30,2025-06-02 11:45:19,DPR,Damaged Tree,Tree Alive - in Poor Condition,Staten Island,10314.0,Closed,Unknown,151
+63594579,2025-01-01 17:27:47,2025-01-02 09:17:17,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11229.0,Closed,Mobile,0
+63595051,2025-01-01 10:55:05,2025-01-01 13:11:09,DPR,Animal In A Park,Dog Off Leash,Manhattan,10019.0,Closed,Online,0
+63595605,2025-01-02 12:04:52,2025-01-27 11:54:41,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11237.0,Closed,Phone,24
+63595648,2025-01-02 16:06:35,2025-01-03 14:22:29,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11366.0,Closed,Online,0
+63595851,2025-01-02 02:25:06,2025-01-03 14:16:26,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11420.0,Closed,Mobile,1
+63595856,2025-01-02 08:46:37,2025-06-03 16:27:28,DPR,New Tree Request,For One Address,Staten Island,10314.0,Closed,Online,152
+63595862,2025-01-02 12:38:16,2025-01-06 12:20:10,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11375.0,Closed,Phone,3
+63596111,2025-01-02 12:33:41,2025-02-28 13:49:58,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10458.0,Closed,Online,57
+63596114,2025-01-02 12:55:52,2025-06-20 15:54:17,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10473.0,Closed,Phone,169
+63596160,2025-01-02 11:18:04,2025-01-08 11:38:31,DPR,Damaged Tree,Branch Cracked and Will Fall,Bronx,10475.0,Closed,Mobile,6
+63596161,2025-01-02 09:40:15,2025-01-06 14:34:23,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11436.0,Closed,Unknown,4
+63596168,2025-01-02 14:47:02,2025-01-16 11:50:27,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11413.0,Closed,Online,13
+63596172,2025-01-02 19:32:42,2025-03-11 14:33:28,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11412.0,Closed,Online,67
+63596174,2025-01-02 15:58:12,2025-02-19 13:17:33,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11208.0,Closed,Phone,47
+63596188,2025-01-02 07:13:06,2025-01-22 17:20:00,DPR,Maintenance Or Facility,Structure - Outdoors,Staten Island,10312.0,Closed,Mobile,20
+63596198,2025-01-02 13:38:23,2025-01-02 14:47:36,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11210.0,Closed,Phone,0
+63596207,2025-01-02 11:49:50,2025-01-03 10:06:42,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11215.0,Closed,Phone,0
+63596219,2025-01-02 14:30:59,2025-12-11 15:30:18,DPR,Overgrown Tree/Branches,Blocking Street,Brooklyn,11229.0,Closed,Phone,343
+63596435,2025-01-02 09:15:39,2025-01-10 13:57:49,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11201.0,Closed,Online,8
+63597318,2025-01-02 07:10:25,2025-01-03 15:47:06,DPR,Maintenance Or Facility,Hours of Operation,Staten Island,10312.0,Closed,Mobile,1
+63597531,2025-01-02 03:01:00,2025-01-03 10:40:40,DPR,Damaged Tree,Tree Leaning/Uprooted,Queens,11358.0,Closed,Unknown,1
+63597533,2025-01-02 15:02:14,2025-01-03 14:23:38,DPR,Maintenance Or Facility,Graffiti or Vandalism,Bronx,10467.0,Closed,Unknown,0
+63597543,2025-01-02 15:21:09,2025-03-26 11:29:30,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11213.0,Closed,Phone,82
+63597545,2025-01-02 11:18:50,2025-03-05 16:27:35,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11212.0,Closed,Phone,62
+63597546,2025-01-02 10:27:08,2026-02-19 15:16:59,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10312.0,Closed,Phone,413
+63597561,2025-01-02 18:12:21,2025-01-03 06:19:41,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10314.0,Closed,Mobile,0
+63597562,2025-01-02 15:32:26,2026-08-07 10:18:38,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11411.0,Closed,Online,581
+63597563,2025-01-02 16:40:06,2025-01-03 08:20:29,DPR,Damaged Tree,Tree Leaning/Uprooted,Staten Island,10312.0,Closed,Mobile,0
+63597565,2025-01-02 12:43:49,2025-01-08 13:53:17,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11422.0,Closed,Online,6
+63597579,2025-01-02 18:23:30,2025-02-26 20:00:25,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10469.0,Closed,Phone,55
+63597580,2025-01-02 07:22:20,2025-02-27 15:38:20,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11361.0,Closed,Unknown,56
+63597915,2025-01-02 11:49:12,2025-01-02 13:49:18,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11358.0,Closed,Mobile,0
+63598077,2025-01-02 12:41:55,2025-01-03 11:29:47,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11361.0,Closed,Online,0
+63598078,2025-01-02 16:23:58,2025-01-07 06:29:54,DPR,Damaged Tree,Tree Alive - in Poor Condition,Staten Island,10306.0,Closed,Mobile,4
+63598112,2025-01-02 20:39:29,2025-01-08 13:37:20,DPR,Animal In A Park,Dead Animal,Manhattan,10026.0,Closed,Online,5
+63598114,2025-01-02 15:28:00,2025-01-03 10:09:51,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11364.0,Closed,Phone,0
+63598115,2025-01-02 09:36:41,2025-01-17 14:34:11,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11434.0,Closed,Phone,15
+63598131,2025-01-02 20:44:03,2025-01-03 11:26:47,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11207.0,Closed,Phone,0
+63598132,2025-01-02 10:15:18,2025-01-21 12:38:44,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11435.0,Closed,Mobile,19
+63598138,2025-01-02 15:43:19,2025-01-06 08:52:46,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11101.0,Closed,Online,3
+63598141,2025-01-02 19:52:01,2025-05-27 14:35:43,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11369.0,Closed,Unknown,144
+63598148,2025-01-02 10:32:04,2025-01-06 14:25:14,DPR,Overgrown Tree/Branches,Blocking Street,Manhattan,10026.0,Closed,Online,4
+63598157,2025-01-02 11:28:18,2025-01-14 13:29:13,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11435.0,Closed,Phone,12
+63598163,2025-01-02 20:12:23,2025-01-03 11:20:32,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11361.0,Closed,Online,0
+63598164,2025-01-02 14:02:45,2025-09-19 10:35:12,DPR,Overgrown Tree/Branches,Blocking Street,Queens,11374.0,Closed,Phone,259
+63598174,2025-01-02 13:26:57,2025-01-02 14:01:20,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11249.0,Closed,Online,0
+63598184,2025-01-02 09:17:11,2025-01-06 10:25:23,DPR,Illegal Tree Damage,Branches Damaged,Queens,11379.0,Closed,Mobile,4
+63598234,2025-01-02 15:43:49,2025-01-03 10:30:31,DPR,Maintenance Or Facility,Garbage or Litter,Staten Island,10304.0,Closed,Phone,0
+63598268,2025-01-02 10:58:30,2025-01-10 08:54:08,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11207.0,Closed,Phone,7
+63599042,2025-01-02 12:51:08,2025-01-02 14:40:41,DPR,Animal In A Park,Dog Off Leash,Manhattan,10019.0,Closed,Online,0
+63599358,2025-01-02 15:45:44,2026-05-13 15:27:02,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Brooklyn,11214.0,Closed,Phone,495
+63599380,2025-01-02 10:28:05,2025-02-07 11:20:10,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10459.0,Closed,Phone,36
+63599400,2025-01-02 09:49:19,2025-01-03 11:48:43,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11411.0,Closed,Phone,1
+63599401,2025-01-02 12:29:06,2025-01-10 15:10:02,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11433.0,Closed,Phone,8
+63599404,2025-01-02 17:32:29,2025-02-07 11:20:10,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10474.0,Closed,Online,35
+63599405,2025-01-02 11:52:21,2025-02-21 19:26:55,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11234.0,Closed,Online,50
+63599407,2025-01-02 13:30:59,2025-03-18 06:12:49,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11210.0,Closed,Phone,74
+63599408,2025-01-02 12:43:32,2025-02-21 11:24:17,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10472.0,Closed,Online,49
+63599442,2025-01-02 21:10:57,2025-02-04 14:17:53,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11364.0,Closed,Online,32
+63599453,2025-01-02 14:40:40,2025-01-10 10:45:59,DPR,Illegal Tree Damage,Bicycle Chained to Tree,Bronx,10458.0,Closed,Mobile,7
+63599470,2025-01-02 17:13:08,2025-01-03 14:53:26,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10462.0,Closed,Phone,0
+63599471,2025-01-02 16:22:54,2025-01-10 11:53:26,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11225.0,Closed,Online,7
+63599472,2025-01-02 10:40:28,2025-10-24 15:15:57,DPR,Maintenance Or Facility,Grass/Weeds,Bronx,10473.0,Closed,Mobile,295
+63599518,2025-01-02 15:41:18,2025-01-02 15:58:57,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Bronx,10461.0,Closed,Phone,0
+63599521,2025-01-02 12:39:18,2025-01-02 14:41:34,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11373.0,Closed,Phone,0
+63599568,2025-01-02 13:41:32,2025-01-06 11:32:55,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11362.0,Closed,Phone,3
+63599734,2025-01-02 03:03:56,2025-01-20 12:22:43,DPR,Illegal Tree Damage,Roots Damaged,Queens,11358.0,Closed,Unknown,18
+63599736,2025-01-02 11:21:33,2025-01-03 06:28:42,DPR,Overgrown Tree/Branches,Blocking Street,Staten Island,10308.0,Closed,Phone,0
+63599873,2025-01-02 12:36:19,2025-01-03 12:32:14,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11004.0,Closed,Phone,0
+63599937,2025-01-02 14:46:15,2025-01-02 14:47:54,DPR,Violation Of Park Rules,Smoking,Queens,11373.0,Closed,Unknown,0
+63599944,2025-01-02 17:47:15,2025-01-03 10:15:51,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11215.0,Closed,Online,0
+63599959,2025-01-02 09:16:06,2025-01-08 14:57:17,DPR,Illegal Tree Damage,Branches Damaged,Manhattan,10012.0,Closed,Mobile,6
+63599961,2025-01-02 08:13:09,2025-01-02 11:23:07,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11249.0,Closed,Online,0
+63599962,2025-01-02 13:18:03,2025-01-02 13:55:20,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11218.0,Closed,Phone,0
+63600011,2025-01-02 11:39:39,2025-01-02 13:44:19,DPR,Animal In A Park,Injured Wildlife,Brooklyn,11215.0,Closed,Phone,0
+63600859,2025-01-02 12:10:03,2025-01-02 13:28:07,DPR,Animal In A Park,Dog Off Leash,Manhattan,10002.0,Closed,Online,0
+63600884,2025-01-02 12:55:43,2025-01-02 16:32:24,DPR,Animal In A Park,Dog Off Leash,Manhattan,10002.0,Closed,Online,0
+63601191,2025-01-02 10:57:29,2025-03-10 18:20:13,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11230.0,Closed,Phone,67
+63601193,2025-01-02 20:07:03,2025-03-10 18:20:09,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11210.0,Closed,Unknown,66
+63601194,2025-01-02 10:00:22,2025-01-03 11:07:54,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11374.0,Closed,Unknown,1
+63601195,2025-01-02 15:45:10,2025-01-07 06:29:53,DPR,Damaged Tree,Entire Tree Has Fallen Down,Staten Island,10306.0,Closed,Mobile,4
+63601215,2025-01-02 09:18:56,2025-01-28 13:31:39,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11209.0,Closed,Phone,26
+63601337,2025-01-02 16:56:01,2025-01-03 14:34:55,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11378.0,Closed,Phone,0
+63601338,2025-01-02 12:55:30,2025-01-10 15:10:03,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11433.0,Closed,Unknown,8
+63601546,2025-01-02 08:20:54,2025-01-15 14:36:13,DPR,Wood Pile Remaining,Remove Debris,Queens,11357.0,Closed,Online,13
+63601734,2025-01-02 15:13:22,2025-02-20 11:05:02,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11231.0,Closed,Online,48
+63601859,2025-01-02 10:53:26,2025-01-02 16:28:09,DPR,Violation Of Park Rules,Obstructing Public Use,Bronx,10461.0,Closed,Online,0
+63601879,2025-01-02 03:21:13,2025-01-06 14:34:22,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11436.0,Closed,Unknown,4
+63601905,2025-01-02 11:15:37,2025-06-17 11:06:38,DPR,Animal In A Park,Dead Animal,Queens,11361.0,Closed,Unknown,165
+63601945,2025-01-02 09:24:17,2025-01-02 10:38:14,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11229.0,Closed,Mobile,0
+63601962,2025-01-02 11:13:51,2025-01-03 10:34:15,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11228.0,Closed,Phone,0
+63602181,2025-01-02 17:20:08,2025-01-02 17:48:21,DPR,Animal In A Park,Injured Wildlife,Brooklyn,11215.0,Closed,Unknown,0
+63602741,2025-01-02 14:22:10,2025-01-02 15:05:30,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Online,0
+63602868,2025-01-02 16:36:26,2025-07-15 11:22:44,DPR,Maintenance Or Facility,Hours of Operation,Brooklyn,11249.0,Closed,Phone,193
+63602869,2025-01-02 11:50:34,2025-03-17 12:29:57,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11230.0,Closed,Phone,74
+63603001,2025-01-02 19:59:27,2025-03-03 14:18:01,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11205.0,Closed,Online,59
+63603002,2025-01-02 12:30:35,2025-01-23 14:53:29,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11236.0,Closed,Unknown,21
+63603070,2025-01-02 12:04:27,2025-03-11 14:14:46,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11213.0,Closed,Phone,68
+63603089,2025-01-02 19:31:30,2025-03-11 14:33:29,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11412.0,Closed,Online,67
+63603098,2025-01-02 06:57:59,2025-01-03 14:34:47,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11413.0,Closed,Phone,1
+63603099,2025-01-02 06:41:55,2025-01-03 08:26:30,DPR,Damaged Tree,Tree Leaning/Uprooted,Queens,11385.0,Closed,Mobile,1
+63603104,2025-01-02 22:19:29,2025-02-26 08:37:06,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10465.0,Closed,Unknown,54
+63603244,2025-01-02 15:15:13,2025-01-15 11:14:06,DPR,Overgrown Tree/Branches,Hitting Power Lines,Staten Island,10309.0,Closed,Online,12
+63603413,2025-01-02 15:50:01,2025-01-03 08:51:27,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11385.0,Closed,Phone,0
+63603418,2025-01-02 10:02:00,2025-01-06 14:25:13,DPR,Overgrown Tree/Branches,Blocking Street,Manhattan,10026.0,Closed,Online,4
+63603419,2025-01-02 14:50:15,2025-01-16 11:50:25,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11413.0,Closed,Online,13
+63603420,2025-01-02 14:48:42,2025-01-06 10:06:33,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11378.0,Closed,Phone,3
+63603423,2025-01-02 10:40:37,2025-01-06 14:25:17,DPR,Overgrown Tree/Branches,Blocking Street,Manhattan,10026.0,Closed,Online,4
+63603424,2025-01-02 09:25:17,2025-06-12 07:36:54,DPR,Overgrown Tree/Branches,Clear Street Light,Queens,11435.0,Closed,Phone,160
+63603436,2025-01-02 18:28:06,2025-01-03 12:22:49,DPR,Overgrown Tree/Branches,Hitting Building,Staten Island,10301.0,Closed,Unknown,0
+63603452,2025-01-02 23:07:27,2025-02-05 11:27:01,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11221.0,Closed,Unknown,33
+63603541,2025-01-02 07:22:22,2025-01-02 11:47:19,DPR,Maintenance Or Facility,Structure - Outdoors,Staten Island,10312.0,Closed,Mobile,0
+63603630,2025-01-02 15:07:35,2025-01-03 09:48:16,DPR,Damaged Tree,Entire Tree Has Fallen Down,Brooklyn,11230.0,Closed,Phone,0
+63603661,2025-01-02 09:23:21,2025-11-25 10:13:08,DPR,Illegal Tree Damage,Branches Damaged,Manhattan,10003.0,Closed,Mobile,327
+63604568,2025-01-02 07:26:09,2025-01-02 08:01:00,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11201.0,Closed,Online,0
+63604827,2025-01-02 13:37:34,2025-02-14 14:55:55,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11423.0,Closed,Online,43
+63604894,2025-01-02 14:23:02,2025-01-03 13:54:56,DPR,Damaged Tree,Tree Leaning/Uprooted,Manhattan,10032.0,Closed,Unknown,0
+63604955,2025-01-02 16:35:00,2025-03-07 13:28:57,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11217.0,Closed,Online,63
+63604956,2025-01-02 20:09:43,2025-01-06 10:45:00,DPR,Maintenance Or Facility,Graffiti or Vandalism,Manhattan,10004.0,Closed,Online,3
+63604964,2025-01-02 07:38:17,2025-01-06 14:34:23,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11413.0,Closed,Online,4
+63604968,2025-01-02 15:35:52,2025-02-28 14:01:21,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11211.0,Closed,Phone,56
+63604969,2025-01-02 15:23:49,2025-07-03 11:35:16,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10309.0,Closed,Phone,181
+63605084,2025-01-02 09:39:23,2025-01-02 16:19:33,DPR,Maintenance Or Facility,Garbage or Litter,Manhattan,10032.0,Closed,Mobile,0
+63605115,2025-01-02 08:25:16,2025-01-02 14:19:05,DPR,Maintenance Or Facility,Hours of Operation,Bronx,10458.0,Closed,Online,0
+63605308,2025-01-02 17:19:37,2025-06-22 09:12:46,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11419.0,Closed,Online,170
+63605352,2025-01-02 19:50:07,2025-04-08 11:55:53,DPR,Maintenance Or Facility,Graffiti or Vandalism,Queens,11102.0,Closed,Phone,95
+63605562,2025-01-02 13:55:59,2025-01-02 16:21:59,DPR,Maintenance Or Facility,Garbage or Litter,Manhattan,10025.0,Closed,Phone,0
+63605632,2025-01-02 12:37:22,2025-01-06 12:02:16,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11216.0,Closed,Online,3
+63605656,2025-01-02 11:08:27,2025-01-07 08:05:07,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10306.0,Closed,Online,4
+63605665,2025-01-02 17:57:31,2025-01-08 14:51:16,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11355.0,Closed,Unknown,5
+63605667,2025-01-02 17:11:34,2025-01-14 10:28:53,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11412.0,Closed,Phone,11
+63605686,2025-01-02 10:34:11,2025-01-14 14:38:22,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11418.0,Closed,Phone,12
+63606324,2025-01-02 21:16:35,2025-01-02 22:28:38,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11249.0,Closed,Phone,0
+63606325,2025-01-02 12:54:30,2025-01-02 14:50:42,DPR,Animal In A Park,Dog Off Leash,Manhattan,10001.0,Closed,Online,0
+63606592,2025-01-02 09:19:48,2025-01-31 16:28:08,DPR,Maintenance Or Facility,Rodent Sighting,Queens,11354.0,Closed,Mobile,29
+63606664,2025-01-02 09:21:20,2025-01-02 09:57:17,DPR,Illegal Tree Damage,Branches Damaged,Queens,11385.0,Closed,Mobile,0
+63606713,2025-01-02 12:35:53,2025-02-21 11:24:33,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10472.0,Closed,Online,49
+63606792,2025-01-02 09:44:27,2025-01-10 11:53:21,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11225.0,Closed,Mobile,8
+63606837,2025-01-02 11:48:51,2025-01-02 15:52:38,DPR,Animal In A Park,Injured Wildlife,Brooklyn,11222.0,Closed,Phone,0
+63606883,2025-01-02 15:40:31,2025-10-07 11:51:00,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11377.0,Closed,Unknown,277
+63606898,2025-01-02 15:37:45,2025-03-26 11:29:30,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11213.0,Closed,Online,82
+63606899,2025-01-02 13:53:13,2025-01-06 14:35:18,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11428.0,Closed,Phone,4
+63607028,2025-01-02 16:19:23,2025-01-03 08:11:00,DPR,Damaged Tree,Tree Leaning/Uprooted,Brooklyn,11230.0,Closed,Online,0
+63607030,2025-01-02 10:20:52,2025-01-06 14:25:14,DPR,Overgrown Tree/Branches,Blocking Street,Manhattan,10026.0,Closed,Online,4
+63607142,2025-01-02 19:22:59,2025-01-14 12:21:28,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11436.0,Closed,Phone,11
+63607143,2025-01-02 08:27:06,2025-01-17 16:03:10,DPR,Damaged Tree,Tree Alive - in Poor Condition,Brooklyn,11206.0,Closed,Mobile,15
+63607178,2025-01-02 11:35:36,2025-01-06 08:43:30,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11414.0,Closed,Phone,3
+63607179,2025-01-02 13:03:04,2025-05-16 14:25:36,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11216.0,Closed,Unknown,134
+63607266,2025-01-02 08:03:59,2025-01-02 08:26:10,DPR,Overgrown Tree/Branches,Blocking Street,Queens,11378.0,Closed,Phone,0
+63607480,2025-01-02 13:16:21,2025-01-03 14:34:55,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11105.0,Closed,Online,1
+63607481,2025-01-02 18:54:54,2025-03-16 07:27:10,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11357.0,Closed,Unknown,72
+63607569,2025-01-02 10:03:06,2025-06-03 16:27:28,DPR,New Tree Request,For One Address,Brooklyn,11210.0,Closed,Phone,152
+63608350,2025-01-02 12:52:44,2025-01-02 16:07:37,DPR,Animal In A Park,Dog Off Leash,Manhattan,10017.0,Closed,Online,0
+63608373,2025-01-02 09:06:02,2025-01-02 16:17:21,DPR,Animal In A Park,Animal Waste,Manhattan,10013.0,Closed,Online,0
+63608586,2025-01-02 15:24:31,2025-01-21 13:00:17,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Staten Island,10302.0,Closed,Unknown,18
+63608587,2025-01-02 15:10:42,2025-01-13 08:05:10,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11231.0,Closed,Online,10
+63608588,2025-01-02 14:05:43,2025-04-09 11:19:23,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11234.0,Closed,Phone,96
+63608589,2025-01-02 14:23:00,2025-02-20 19:24:50,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10467.0,Closed,Phone,49
+63608869,2025-01-02 15:41:47,2025-01-31 12:40:32,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11372.0,Closed,Phone,28
+63608878,2025-01-02 09:40:52,2025-03-06 11:41:30,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11211.0,Closed,Online,63
+63608908,2025-01-02 12:39:32,2025-01-03 12:59:34,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11375.0,Closed,Phone,1
+63608909,2025-01-02 12:29:35,2025-01-03 09:10:34,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11216.0,Closed,Online,0
+63609015,2025-01-02 12:51:54,2025-01-02 13:55:21,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11234.0,Closed,Phone,0
+63609115,2025-01-02 23:01:29,2025-01-06 10:53:36,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11385.0,Closed,Unknown,3
+63609128,2025-01-02 02:51:23,2025-01-20 12:22:43,DPR,Illegal Tree Damage,Trunk Damaged,Queens,11358.0,Closed,Online,18
+63609250,2025-01-02 11:54:06,2025-01-03 14:34:47,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11413.0,Closed,Phone,1
+63609253,2025-01-02 10:51:06,2025-01-03 14:41:03,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11358.0,Closed,Phone,1
+63609306,2025-01-02 11:14:46,2025-06-10 11:16:33,DPR,Overgrown Tree/Branches,Blocking Street,Queens,11433.0,Closed,Phone,159
+63609405,2025-01-02 14:21:57,2025-03-03 13:44:43,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11233.0,Closed,Mobile,59
+63609593,2025-01-02 10:59:05,2025-01-03 12:32:16,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11206.0,Closed,Online,1
+63609638,2025-01-02 19:06:59,2025-01-14 12:10:57,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11373.0,Closed,Unknown,11
+63609892,2025-01-02 13:59:35,2025-01-03 12:08:45,DPR,Maintenance Or Facility,Graffiti or Vandalism,Staten Island,10301.0,Closed,Online,0
+63610330,2025-01-02 07:07:08,2025-07-18 11:49:23,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11231.0,Closed,Online,197
+63610439,2025-01-02 13:34:27,2026-02-02 15:47:23,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11231.0,Closed,Phone,396
+63610559,2025-01-03 12:54:19,2025-01-30 08:54:14,DPR,Maintenance Or Facility,Graffiti or Vandalism,Queens,11435.0,Closed,Online,26
+63610642,2025-01-03 18:22:20,2025-01-06 09:47:29,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11379.0,Closed,Unknown,2
+63610646,2025-01-03 16:14:38,2025-01-13 11:35:59,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11362.0,Closed,Online,9
+63610658,2025-01-03 16:05:44,2025-01-07 11:12:57,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10309.0,Closed,Online,3
+63610659,2025-01-03 16:18:51,2025-01-10 14:09:12,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11354.0,Closed,Online,6
+63610666,2025-01-03 13:19:52,2025-01-08 11:38:31,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Bronx,10461.0,Closed,Online,4
+63610667,2025-01-03 13:14:44,2025-01-16 11:17:00,DPR,Illegal Tree Damage,Trunk Damaged,Manhattan,10026.0,Closed,Unknown,12
+63610684,2025-01-03 12:09:49,2025-01-06 10:21:53,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11385.0,Closed,Online,2
+63610685,2025-01-03 11:24:45,2025-01-06 12:55:47,DPR,Overgrown Tree/Branches,Traffic Sign or Signal Blocked,Staten Island,10309.0,Closed,Online,3
+63610700,2025-01-03 16:34:10,2025-02-17 12:12:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11368.0,Closed,Online,44
+63610701,2025-01-03 09:28:19,2025-03-03 14:10:49,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11222.0,Closed,Online,59
+63610713,2025-01-03 16:22:32,2025-02-19 19:11:53,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11375.0,Closed,Phone,47
+63610714,2025-01-03 23:01:19,2025-02-17 10:47:47,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11423.0,Closed,Online,44
+63610741,2025-01-03 18:42:13,2025-01-16 14:24:12,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10462.0,Closed,Online,12
+63610765,2025-01-03 13:57:34,2025-01-24 14:49:30,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10468.0,Closed,Online,21
+63610788,2025-01-03 11:10:27,2025-01-08 13:39:47,DPR,Maintenance Or Facility,Unsecured Facility,Manhattan,10032.0,Closed,Mobile,5
+63610834,2025-01-03 08:04:19,2025-01-10 11:52:39,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11249.0,Closed,Online,7
+63610865,2025-01-03 21:25:12,2025-01-29 13:09:50,DPR,Maintenance Or Facility,Unsecured Facility,Queens,11385.0,Closed,Unknown,25
+63610866,2025-01-03 09:20:37,2025-01-08 13:37:55,DPR,Maintenance Or Facility,Unsecured Facility,Manhattan,10002.0,Closed,Online,5
+63612133,2025-01-03 13:55:20,2025-01-14 13:23:08,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11040.0,Closed,Phone,10
+63612184,2025-01-03 16:09:04,2025-02-14 15:27:37,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11419.0,Closed,Phone,41
+63612198,2025-01-03 13:09:04,2025-01-07 11:50:22,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11219.0,Closed,Phone,3
+63612199,2025-01-03 09:51:01,2025-01-13 12:37:36,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11417.0,Closed,Mobile,10
+63612203,2025-01-03 14:44:53,2025-02-27 13:41:35,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11226.0,Closed,Phone,54
+63612276,2025-01-03 11:01:55,2025-01-06 10:41:29,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11385.0,Closed,Unknown,2
+63612277,2025-01-03 12:21:46,2025-01-06 08:43:30,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11419.0,Closed,Phone,2
+63612295,2025-01-03 16:52:59,2025-05-23 11:22:34,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11228.0,Closed,Online,139
+63612303,2025-01-03 13:19:24,2025-01-10 11:51:14,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11207.0,Closed,Phone,6
+63612307,2025-01-03 10:02:34,2025-06-11 11:35:25,DPR,Overgrown Tree/Branches,Blocking Street,Queens,11422.0,Closed,Online,159
+63612308,2025-01-03 20:12:02,2025-05-23 11:28:35,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11228.0,Closed,Online,139
+63612309,2025-01-03 09:26:50,2025-09-24 15:26:59,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10308.0,Closed,Online,264
+63612320,2025-01-03 16:38:07,2025-01-03 17:04:16,DPR,Violation Of Park Rules,Obstructing Public Use,Staten Island,10309.0,Closed,Unknown,0
+63612369,2025-01-03 13:25:38,2025-01-10 11:50:16,DPR,Maintenance Or Facility,Structure - Indoors,Brooklyn,11209.0,Closed,Mobile,6
+63612370,2025-01-03 10:01:10,2025-02-28 13:43:53,DPR,Maintenance Or Facility,Unsecured Facility,Bronx,10458.0,Closed,Online,56
+63612375,2025-01-03 14:43:53,2025-01-27 11:51:47,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11249.0,Closed,Mobile,23
+63613610,2025-01-03 16:58:06,2025-01-07 13:56:53,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11364.0,Closed,Phone,3
+63613611,2025-01-03 18:01:26,2025-01-10 08:36:40,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11214.0,Closed,Online,6
+63613612,2025-01-03 09:41:45,2025-01-09 13:28:03,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11367.0,Closed,Online,6
+63613615,2025-01-03 14:52:11,2025-01-08 14:57:17,DPR,Illegal Tree Damage,Unauthorized Tree Pruning,Manhattan,10014.0,Closed,Mobile,5
+63613648,2025-01-03 08:58:44,2025-01-10 11:46:26,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11428.0,Closed,Phone,7
+63613650,2025-01-03 16:28:52,2025-01-06 07:06:28,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10306.0,Closed,Online,2
+63613666,2025-01-03 11:40:38,2025-03-03 16:07:04,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11219.0,Closed,Online,59
+63613719,2025-01-03 09:34:22,2026-07-10 10:07:42,DPR,Maintenance Or Facility,Garbage or Litter,Queens,11694.0,Closed,Phone,553
+63613827,2025-01-03 19:31:34,2025-01-14 12:10:57,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11373.0,Closed,Unknown,10
+63613851,2025-01-03 09:33:24,2025-01-06 12:15:36,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11367.0,Closed,Phone,3
+63613852,2025-01-03 22:43:00,2025-01-06 11:35:56,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11374.0,Closed,Online,2
+63613860,2025-01-03 09:35:22,2025-02-14 15:39:36,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11228.0,Closed,Online,42
+63613872,2025-01-03 13:27:10,2025-02-12 14:43:31,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11373.0,Closed,Unknown,40
+63613893,2025-01-03 12:38:23,2025-01-06 10:49:57,DPR,Maintenance Or Facility,Graffiti or Vandalism,Manhattan,10128.0,Closed,Mobile,2
+63615172,2025-01-03 14:29:30,2025-01-28 12:06:59,DPR,Overgrown Tree/Branches,Hitting Building,Bronx,10453.0,Closed,Phone,24
+63615173,2025-01-03 16:20:54,2025-01-06 09:17:21,DPR,Overgrown Tree/Branches,Traffic Sign or Signal Blocked,Queens,11377.0,Closed,Phone,2
+63615177,2025-01-03 12:07:29,2025-03-10 15:14:25,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11412.0,Closed,Online,66
+63615237,2025-01-03 13:48:08,2025-02-12 22:06:03,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10314.0,Closed,Online,40
+63615252,2025-01-03 13:55:15,2025-01-27 10:43:55,DPR,Maintenance Or Facility,Rodent Sighting,Brooklyn,11201.0,Closed,Online,23
+63615259,2025-01-03 13:53:59,2025-01-06 06:25:20,DPR,Overgrown Tree/Branches,Hitting Phone/Cable Lines,Staten Island,10306.0,Closed,Online,2
+63615301,2025-01-03 08:22:53,2025-01-31 13:29:36,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10468.0,Closed,Online,28
+63615302,2025-01-03 07:09:36,2026-04-27 10:35:15,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11249.0,Closed,Online,479
+63615328,2025-01-03 16:00:20,2025-01-03 17:03:59,DPR,Violation Of Park Rules,Obstructing Public Use,Brooklyn,11205.0,Closed,Unknown,0
+63615335,2025-01-03 13:26:08,2025-02-03 17:19:06,DPR,Maintenance Or Facility,Structure - Outdoors,Queens,11365.0,Closed,Online,31
+63615338,2025-01-03 12:54:10,2025-03-03 22:21:09,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11235.0,Closed,Phone,59
+63615798,2025-01-03 15:57:20,2025-01-03 16:06:10,DPR,Animal In A Park,Dog Off Leash,Bronx,10457.0,Closed,Phone,0
+63616718,2025-01-03 13:57:53,2025-01-28 08:06:50,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10314.0,Closed,Online,24
+63616719,2025-01-03 14:02:09,2025-01-08 15:51:16,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11236.0,Closed,Online,5
+63616737,2025-01-03 08:06:43,2025-01-27 11:53:08,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11249.0,Closed,Online,24
+63616740,2025-01-03 18:07:17,2025-01-09 07:47:28,DPR,Illegal Tree Damage,Unauthorized Tree Removal,Brooklyn,11238.0,Closed,Phone,5
+63616768,2025-01-03 12:12:50,2025-01-21 08:46:34,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10466.0,Closed,Online,17
+63616784,2025-01-03 08:28:40,2025-01-06 11:03:24,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11423.0,Closed,Phone,3
+63616785,2025-01-03 15:56:10,2025-01-08 15:21:57,DPR,Maintenance Or Facility,Grass/Weeds,Bronx,10452.0,Closed,Phone,4
+63616795,2025-01-03 11:58:46,2025-01-07 13:53:08,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11360.0,Closed,Phone,4
+63616797,2025-01-03 14:30:01,2025-01-22 14:12:05,DPR,Illegal Tree Damage,Unauthorized Tree Pruning,Queens,11365.0,Closed,Phone,18
+63616813,2025-01-03 22:47:45,2025-01-06 10:29:26,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11237.0,Closed,Unknown,2
+63616818,2025-01-03 21:29:08,2025-02-20 12:14:21,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11231.0,Closed,Online,47
+63616822,2025-01-03 09:39:32,2025-01-15 12:44:47,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11378.0,Closed,Online,12
+63616832,2025-01-03 08:35:16,2025-01-27 11:52:19,DPR,Maintenance Or Facility,Grass/Weeds,Brooklyn,11238.0,Closed,Online,24
+63616847,2025-01-03 07:19:06,2025-01-13 09:49:27,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11364.0,Closed,Phone,10
+63616865,2025-01-03 16:18:35,2025-01-07 10:59:41,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11432.0,Closed,Mobile,3
+63616866,2025-01-03 10:43:50,2025-01-08 10:38:06,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11420.0,Closed,Phone,4
+63616867,2025-01-03 12:51:50,2025-03-27 11:15:09,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11236.0,Closed,Phone,82
+63616965,2025-01-03 09:18:19,2025-01-14 13:36:36,DPR,Maintenance Or Facility,Rodent Sighting,Bronx,10472.0,Closed,Mobile,11
+63618280,2025-01-03 18:39:45,2025-01-14 13:23:08,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11004.0,Closed,Phone,10
+63618281,2025-01-03 16:08:48,2026-08-27 14:56:33,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11203.0,Closed,Phone,600
+63618305,2025-01-03 10:50:31,2025-01-03 11:13:17,DPR,Violation Of Park Rules,Obstructing Public Use,Manhattan,10004.0,Closed,Online,0
+63618311,2025-01-03 14:21:13,2025-01-24 08:13:18,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10462.0,Closed,Phone,20
+63618314,2025-01-03 18:29:15,2025-01-06 10:30:02,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11237.0,Closed,Unknown,2
+63618335,2025-01-03 13:23:40,2025-01-10 15:53:07,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11229.0,Closed,Phone,7
+63618350,2025-01-03 09:52:33,2025-01-08 11:54:00,DPR,Illegal Tree Damage,Branches Damaged,Brooklyn,11201.0,Closed,Mobile,5
+63618351,2025-01-03 11:57:43,2025-01-09 15:19:34,DPR,Illegal Tree Damage,Trunk Damaged,Brooklyn,11235.0,Closed,Online,6
+63618352,2025-01-04 00:02:27,2025-01-31 09:04:44,DPR,Illegal Tree Damage,Trunk Damaged,Bronx,10452.0,Closed,Phone,27
+63618380,2025-01-03 12:46:19,2025-02-27 10:36:51,DPR,Uprooted Stump,Remove Stump,Queens,11373.0,Closed,Phone,54
+63618475,2025-01-03 14:45:02,2025-01-10 15:53:07,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11229.0,Closed,Phone,7
+63618476,2025-01-03 10:25:29,2025-01-10 10:03:03,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11378.0,Closed,Phone,6
+63618503,2025-01-03 11:29:31,2025-01-07 13:52:40,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11357.0,Closed,Phone,4
+63618504,2025-01-03 07:24:47,2025-01-13 09:49:26,DPR,Overgrown Tree/Branches,Blocking Street,Queens,11364.0,Closed,Phone,10
+63618505,2025-01-03 15:45:56,2025-01-06 06:40:44,DPR,Overgrown Tree/Branches,Hitting Building,Staten Island,10314.0,Closed,Online,2
+63618529,2025-01-03 13:30:36,2025-01-27 09:27:16,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11385.0,Closed,Unknown,23
+63618530,2025-01-03 12:17:16,2025-02-05 15:30:09,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11385.0,Closed,Online,33
+63618598,2025-01-03 14:41:45,2025-01-10 11:49:49,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11238.0,Closed,Phone,6
+63618801,2025-01-03 08:56:12,2025-01-03 09:35:46,DPR,Animal In A Park,Dog Off Leash,Manhattan,10033.0,Closed,Online,0
+63618819,2025-01-03 08:13:40,2025-01-03 09:34:54,DPR,Animal In A Park,Dog Off Leash,Manhattan,10033.0,Closed,Online,0
+63619786,2025-01-03 07:53:13,2025-03-17 08:25:38,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11226.0,Closed,Online,73
+63619814,2025-01-03 15:19:49,2025-01-15 11:14:05,DPR,Overgrown Tree/Branches,Hitting Power Lines,Staten Island,10309.0,Closed,Online,11
+63619833,2025-01-03 12:42:37,2025-01-06 09:05:18,DPR,Damaged Tree,Tree Leaning/Uprooted,Staten Island,10301.0,Closed,Mobile,2
+63619858,2025-01-03 08:16:25,2025-10-21 16:46:26,DPR,Maintenance Or Facility,Rodent Sighting,Queens,11102.0,Closed,Phone,291
+63619880,2025-01-03 14:34:31,2025-03-03 15:30:45,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11357.0,Closed,Phone,59
+63619923,2025-01-03 11:20:18,2025-01-09 08:25:06,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11420.0,Closed,Online,5
+63619984,2025-01-03 12:24:48,2025-06-03 16:27:29,DPR,New Tree Request,For One Address,Manhattan,10039.0,Closed,Mobile,151
+63619985,2025-01-03 12:08:05,2025-02-03 06:45:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11228.0,Closed,Phone,30
+63620018,2025-01-03 09:48:32,2025-01-15 11:02:58,DPR,Maintenance Or Facility,Rodent Sighting,Manhattan,10002.0,Closed,Phone,12
+63620027,2025-01-03 22:08:16,2025-01-06 10:29:44,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11217.0,Closed,Unknown,2
+63620028,2025-01-03 12:57:10,2025-01-07 10:05:32,DPR,Maintenance Or Facility,Hours of Operation,Manhattan,10004.0,Closed,Mobile,3
+63621315,2025-01-03 10:10:16,2025-01-08 13:38:59,DPR,Animal In A Park,Dead Animal,Manhattan,10030.0,Closed,Phone,5
+63621335,2025-01-03 13:15:00,2025-01-15 14:14:12,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11412.0,Closed,Online,12
+63621337,2025-01-03 14:01:42,2025-01-14 11:17:45,DPR,Illegal Tree Damage,Bicycle Chained to Tree,Manhattan,10034.0,Closed,Mobile,10
+63621338,2025-01-03 15:52:13,2025-01-27 11:28:38,DPR,Illegal Tree Damage,Unauthorized Tree Removal,Manhattan,10018.0,Closed,Mobile,23
+63621341,2025-01-03 20:00:06,2025-02-12 14:43:32,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11373.0,Closed,Phone,39
+63621396,2025-01-03 08:51:33,2025-01-03 10:09:42,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11436.0,Closed,Unknown,0
+63621427,2025-01-03 13:42:22,2025-01-08 10:38:04,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11215.0,Closed,Phone,4
+63621434,2025-01-03 20:01:33,2025-01-13 13:53:00,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11365.0,Closed,Unknown,9
+63621435,2025-01-03 18:01:36,2025-06-03 16:27:29,DPR,New Tree Request,For One Address,Manhattan,10014.0,Closed,Mobile,150
+63621456,2025-01-03 18:29:43,2025-01-06 07:09:41,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Staten Island,10309.0,Closed,Online,2
+63621458,2025-01-03 14:46:54,2025-02-14 13:52:09,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11418.0,Closed,Phone,41
+63621533,2025-01-03 09:31:18,2025-01-15 14:14:14,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11413.0,Closed,Phone,12
+63621534,2025-01-03 13:32:22,2025-04-07 13:12:30,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11204.0,Closed,Phone,93
+63621535,2025-01-03 06:54:54,2025-01-07 06:26:54,DPR,Overgrown Tree/Branches,Traffic Sign or Signal Blocked,Staten Island,10301.0,Closed,Online,3
+63621542,2025-01-03 18:52:32,2025-01-31 11:49:34,DPR,Maintenance Or Facility,Garbage or Litter,Manhattan,10034.0,Closed,Mobile,27
+63621560,2025-01-03 03:18:03,2025-01-10 08:41:12,DPR,Maintenance Or Facility,Hours of Operation,Brooklyn,11204.0,Closed,Mobile,7
+63622013,2025-01-03 09:37:48,2025-01-03 16:09:08,DPR,Animal In A Park,Injured Wildlife,Brooklyn,11222.0,Closed,Phone,0
+63622848,2025-01-04 07:57:30,2025-01-14 12:21:28,DPR,Wood Pile Remaining,Remove Debris,Queens,11433.0,Closed,Phone,10
+63622910,2025-01-04 12:02:01,2026-04-21 14:10:59,DPR,Maintenance Or Facility,Recreation Center,Brooklyn,11215.0,Closed,Online,472
+63622941,2025-01-04 13:54:29,2025-02-18 11:58:46,DPR,Maintenance Or Facility,Structure - Indoors,Brooklyn,11217.0,Closed,Online,44
+63622947,2025-01-04 11:09:38,2025-01-07 10:47:10,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11377.0,Closed,Mobile,2
+63622949,2025-01-04 16:10:29,2025-01-08 10:50:14,DPR,Illegal Tree Damage,Bicycle Chained to Tree,Brooklyn,11216.0,Closed,Mobile,3
+63622950,2025-01-04 17:59:51,2025-03-14 07:25:00,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11205.0,Closed,Online,68
+63622954,2025-01-05 00:47:56,2025-01-08 15:57:50,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10456.0,Closed,Online,3
+63623441,2025-01-04 10:04:09,2025-01-04 11:05:36,DPR,Violation Of Park Rules,Unsafe Use of Playground,Brooklyn,11206.0,Closed,Online,0
+63623702,2025-01-04 09:48:48,2025-01-04 10:00:11,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Online,0
+63623735,2025-01-04 20:57:46,2025-01-04 21:49:21,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11249.0,Closed,Online,0
+63624357,2025-01-04 14:58:43,2025-01-16 11:50:27,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11422.0,Closed,Unknown,11
+63624358,2025-01-04 16:52:25,2026-09-19 09:09:49,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11413.0,Closed,Phone,622
+63624359,2025-01-04 16:25:49,2025-06-03 16:27:29,DPR,New Tree Request,For One Address,Brooklyn,11201.0,Closed,Mobile,150
+63624412,2025-01-04 13:50:45,2025-01-06 08:17:39,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11365.0,Closed,Online,1
+63624459,2025-01-04 12:15:55,2025-03-29 17:43:52,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11001.0,Closed,Phone,84
+63624460,2025-01-04 14:35:34,2025-01-09 15:19:34,DPR,Damaged Tree,Entire Tree Has Fallen Down,Brooklyn,11229.0,Closed,Online,5
+63624544,2025-01-04 17:41:46,2025-01-06 10:58:29,DPR,Maintenance Or Facility,Rodent Sighting,Manhattan,10028.0,Closed,Online,1
+63624584,2025-01-05 00:26:49,2025-02-03 10:50:19,DPR,Maintenance Or Facility,Unsecured Facility,Brooklyn,11220.0,Closed,Online,29
+63625770,2025-01-04 16:46:30,2025-01-04 19:19:14,DPR,Violation Of Park Rules,BBQ Outside Authorized Area,Queens,11418.0,Closed,Phone,0
+63625829,2025-01-04 14:49:47,2025-01-06 11:16:26,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11365.0,Closed,Unknown,1
+63625842,2025-01-04 14:07:14,2025-02-06 15:49:28,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11204.0,Closed,Unknown,33
+63625844,2025-01-04 13:06:57,2025-01-22 11:07:58,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11414.0,Closed,Online,17
+63625845,2025-01-04 12:45:04,2025-01-09 13:00:11,DPR,Damaged Tree,Tree Alive - in Poor Condition,Bronx,10471.0,Closed,Mobile,5
+63625854,2025-01-04 20:52:27,2025-02-27 14:51:40,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11237.0,Closed,Unknown,53
+63625884,2025-01-04 13:30:25,2025-02-07 08:46:29,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11234.0,Closed,Mobile,33
+63625993,2025-01-04 16:07:51,2025-01-06 07:31:55,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10303.0,Closed,Phone,1
+63625996,2025-01-04 15:27:07,2025-02-13 10:01:50,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Staten Island,10312.0,Closed,Phone,39
+63626018,2025-01-04 18:36:26,2025-01-10 10:36:49,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11379.0,Closed,Online,5
+63626190,2025-01-04 16:01:58,2025-01-09 15:12:59,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11360.0,Closed,Unknown,4
+63626736,2025-01-04 11:23:46,2025-01-04 12:57:06,DPR,Animal In A Park,Dog Off Leash,Bronx,10457.0,Closed,Phone,0
+63627328,2025-01-04 16:17:46,2025-01-04 17:21:47,DPR,Violation Of Park Rules,Obstructing Public Use,Bronx,10472.0,Closed,Unknown,0
+63627367,2025-01-04 15:41:25,2025-01-06 09:29:24,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10303.0,Closed,Online,1
+63627368,2025-01-04 10:27:26,2025-01-08 15:26:27,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11221.0,Closed,Online,4
+63627369,2025-01-04 14:01:40,2025-01-08 10:57:18,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11209.0,Closed,Online,3
+63627408,2025-01-04 15:01:41,2025-01-16 11:50:27,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11422.0,Closed,Unknown,11
+63627409,2025-01-04 09:44:27,2025-01-16 11:01:12,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11422.0,Closed,Phone,12
+63627446,2025-01-04 15:45:35,2025-01-08 13:42:14,DPR,Maintenance Or Facility,Structure - Outdoors,Queens,11368.0,Closed,Mobile,3
+63627505,2025-01-04 17:41:20,2025-01-09 13:09:26,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11212.0,Closed,Mobile,4
+63627507,2025-01-04 15:04:17,2025-01-07 13:03:16,DPR,Damaged Tree,Tree Leaning/Uprooted,Manhattan,10027.0,Closed,Phone,2
+63627523,2025-01-04 16:52:30,2025-02-04 07:37:16,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11420.0,Closed,Online,30
+63627633,2025-01-04 09:15:20,2025-01-08 14:57:17,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Manhattan,10014.0,Closed,Online,4
+63627634,2025-01-04 18:34:00,2025-01-06 13:20:54,DPR,Damaged Tree,Entire Tree Has Fallen Down,Manhattan,10065.0,Closed,Unknown,1
+63627635,2025-01-04 12:59:25,2026-03-16 14:05:04,DPR,Dead/Dying Tree,Planted Less Than 2 Years Ago,Queens,11375.0,Closed,Online,436
+63627695,2025-01-04 16:28:08,2025-01-24 14:59:38,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10468.0,Closed,Online,19
+63627696,2025-01-04 09:13:57,2025-01-06 10:52:19,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10003.0,Closed,Mobile,2
+63628250,2025-01-04 18:19:48,2025-01-04 19:19:34,DPR,Animal In A Park,Dog Off Leash,Queens,11355.0,Closed,Phone,0
+63628899,2025-01-04 18:42:56,2025-01-04 19:20:02,DPR,Animal In A Park,Wildlife Sighting,Manhattan,10028.0,Closed,Phone,0
+63628902,2025-01-04 14:05:56,2025-01-04 14:17:03,DPR,Violation Of Park Rules,Obstructing Public Use,Bronx,10459.0,Closed,Unknown,0
+63628974,2025-01-04 13:31:43,2025-01-06 10:28:59,DPR,Animal In A Park,Dead Animal,Brooklyn,11215.0,Closed,Phone,1
+63628977,2025-01-04 14:52:12,2026-02-11 14:30:37,DPR,Dead/Dying Tree,Planted Less Than 2 Years Ago,Queens,11378.0,Closed,Online,402
+63628982,2025-01-04 20:48:41,2025-03-06 10:59:30,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11229.0,Closed,Online,60
+63629089,2025-01-04 15:39:52,2025-01-06 10:29:08,DPR,Animal In A Park,Dead Animal,Brooklyn,11215.0,Closed,Unknown,1
+63629110,2025-01-04 13:51:33,2025-01-08 14:41:38,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11432.0,Closed,Phone,4
+63629111,2025-01-04 14:08:00,2025-01-10 15:00:48,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11413.0,Closed,Online,6
+63629114,2025-01-04 16:41:21,2025-01-07 13:52:38,DPR,Illegal Tree Damage,Branches Damaged,Queens,11358.0,Closed,Unknown,2
+63629115,2025-01-04 21:11:31,2025-01-08 10:38:06,DPR,Illegal Tree Damage,Trunk Damaged,Brooklyn,11217.0,Closed,Mobile,3
+63629129,2025-01-05 00:56:05,2025-01-28 13:13:20,DPR,Illegal Tree Damage,Unauthorized Tree Pruning,Queens,11372.0,Closed,Unknown,23
+63629172,2025-01-04 07:52:18,2025-06-13 10:23:45,DPR,Maintenance Or Facility,Rodent Sighting,Brooklyn,11222.0,Closed,Mobile,160
+63629173,2025-01-04 19:55:36,2025-01-06 11:02:09,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10032.0,Closed,Online,1
+63629247,2025-01-04 16:30:50,2025-01-07 13:56:54,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11694.0,Closed,Online,2
+63629250,2025-01-04 18:49:10,2025-01-09 11:00:22,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11379.0,Closed,Unknown,4
+63630455,2025-01-04 19:44:49,2025-01-16 15:53:32,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11421.0,Closed,Phone,11
+63630456,2025-01-04 15:38:42,2025-01-07 13:52:40,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11358.0,Closed,Mobile,2
+63630499,2025-01-04 16:34:27,2025-03-28 16:41:08,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11203.0,Closed,Online,83
+63630509,2025-01-04 18:15:59,2025-02-04 07:37:16,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10473.0,Closed,Online,30
+63630581,2025-01-04 13:43:38,2025-06-03 16:27:29,DPR,New Tree Request,For One Address,Manhattan,10013.0,Closed,Mobile,150
+63630586,2025-01-04 15:05:37,2025-04-08 09:07:20,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10302.0,Closed,Online,93
+63631314,2025-01-04 15:07:53,2025-01-04 15:36:22,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11249.0,Closed,Online,0
+63631392,2025-01-04 09:04:23,2025-01-04 09:57:14,DPR,Animal In A Park,Dog Off Leash,Manhattan,10033.0,Closed,Online,0
+63632063,2025-01-04 16:11:36,2025-01-05 09:07:03,DPR,Damaged Tree,Entire Tree Has Fallen Down,Manhattan,10028.0,Closed,Phone,0
+63632065,2025-01-04 16:26:37,2025-01-07 13:03:16,DPR,Damaged Tree,Entire Tree Has Fallen Down,Manhattan,10027.0,Closed,Phone,2
+63632118,2025-01-04 16:21:01,2025-01-07 13:56:55,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11694.0,Closed,Online,2
+63632201,2025-01-04 15:17:45,2025-01-08 13:37:30,DPR,Animal In A Park,Dead Animal,Manhattan,10026.0,Closed,Phone,3
+63632235,2025-01-04 09:54:09,2025-01-07 13:42:55,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11375.0,Closed,Mobile,3
+63632236,2025-01-04 12:46:23,2025-01-06 14:34:21,DPR,Damaged Tree,Tree Alive - in Poor Condition,Brooklyn,11232.0,Closed,Online,2
+63632272,2025-01-04 19:59:35,2025-01-06 11:16:38,DPR,Maintenance Or Facility,Hours of Operation,Manhattan,10002.0,Closed,Online,1
+63632475,2025-01-04 19:48:25,2025-01-16 08:26:26,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11235.0,Closed,Phone,11
+63632477,2025-01-04 19:55:17,2025-01-28 13:13:20,DPR,Illegal Tree Damage,Unauthorized Tree Pruning,Queens,11372.0,Closed,Unknown,23
+63632478,2025-01-04 10:55:26,2025-01-10 11:01:19,DPR,Illegal Tree Damage,Unauthorized Tree Removal,Queens,11378.0,Closed,Phone,6
+63632623,2025-01-04 10:14:03,2025-01-04 11:05:55,DPR,Violation Of Park Rules,Unsafe Use of Playground,Brooklyn,11206.0,Closed,Online,0
+63632874,2025-01-04 09:47:12,2025-01-04 10:00:25,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Online,0
+63632913,2025-01-04 16:59:28,2025-01-04 21:12:26,DPR,Animal In A Park,Dog Off Leash,Bronx,10459.0,Closed,Phone,0
+63633051,2025-01-04 09:56:53,2025-01-04 10:10:16,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11211.0,Closed,Unknown,0
+63633449,2025-01-04 15:09:54,2025-02-06 14:12:57,DPR,Maintenance Or Facility,Recreation Center,Manhattan,10022.0,Closed,Unknown,32
+63633659,2025-01-04 12:58:56,2025-01-06 10:54:08,DPR,Maintenance Or Facility,Garbage or Litter,Manhattan,10028.0,Closed,Online,1
+63633660,2025-01-04 10:50:05,2025-01-06 13:27:36,DPR,Maintenance Or Facility,Hours of Operation,Brooklyn,11229.0,Closed,Mobile,2
+63633662,2025-01-04 10:49:02,2025-01-10 15:20:38,DPR,Maintenance Or Facility,Structure - Outdoors,Bronx,10467.0,Closed,Mobile,6
+63633794,2025-01-04 12:38:02,2025-01-08 10:38:06,DPR,Illegal Tree Damage,Unauthorized Tree Removal,Brooklyn,11238.0,Closed,Mobile,3
+63633797,2025-01-04 15:15:00,2025-02-28 14:01:21,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11222.0,Closed,Online,54
+63633837,2025-01-04 17:28:56,2025-04-08 11:54:41,DPR,Maintenance Or Facility,Structure - Outdoors,Queens,11101.0,Closed,Online,93
+63633913,2025-01-04 10:27:22,2025-01-23 14:53:28,DPR,Illegal Tree Damage,Branches Damaged,Manhattan,10022.0,Closed,Unknown,19
+63633965,2025-01-04 09:56:08,2025-01-24 14:53:12,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10468.0,Closed,Online,20
+63634525,2025-01-04 11:17:08,2025-01-04 13:17:05,DPR,Animal In A Park,Dog Off Leash,Manhattan,10017.0,Closed,Online,0
+63634933,2025-01-05 14:43:48,2025-01-28 12:53:42,DPR,Animal In A Park,Dead Animal,Queens,11373.0,Closed,Online,22
+63634984,2025-01-05 12:53:10,2025-01-06 10:55:20,DPR,Maintenance Or Facility,Graffiti or Vandalism,Staten Island,10303.0,Closed,Unknown,0
+63634985,2025-01-05 04:20:51,2025-01-10 08:40:32,DPR,Maintenance Or Facility,Unsecured Facility,Brooklyn,11204.0,Closed,Mobile,5
+63635006,2025-01-05 21:35:13,2025-01-07 13:23:27,DPR,Maintenance Or Facility,Garbage or Litter,Manhattan,10034.0,Closed,Online,1
+63635150,2025-01-05 18:22:05,2025-01-06 11:03:10,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Bronx,10469.0,Closed,Online,0
+63635156,2025-01-05 23:01:03,2025-01-08 12:40:01,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11221.0,Closed,Phone,2
+63635157,2025-01-05 14:04:38,2025-01-13 09:25:06,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10309.0,Closed,Phone,7
+63635219,2025-01-05 11:47:43,2025-01-14 13:54:21,DPR,Maintenance Or Facility,Graffiti or Vandalism,Queens,11415.0,Closed,Online,9
+63635264,2025-01-05 04:30:07,2025-01-31 09:04:43,DPR,Illegal Tree Damage,Trunk Damaged,Bronx,10452.0,Closed,Phone,26
+63635283,2025-01-05 13:47:31,2025-02-20 11:52:46,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11217.0,Closed,Online,45
+63635346,2025-01-05 15:13:58,2025-02-19 10:11:02,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10314.0,Closed,Online,44
+63636592,2025-01-05 14:45:59,2025-01-10 08:53:43,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11207.0,Closed,Mobile,4
+63636593,2025-01-05 18:38:29,2025-01-07 10:04:51,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10034.0,Closed,Online,1
+63636635,2025-01-05 15:32:58,2025-01-06 13:41:57,DPR,Maintenance Or Facility,Unsecured Facility,Bronx,10471.0,Closed,Phone,0
+63637397,2025-01-05 07:50:04,2025-01-05 11:35:32,DPR,Animal In A Park,Dog Off Leash,Manhattan,10033.0,Closed,Online,0
+63637782,2025-01-05 13:04:07,2025-01-07 13:56:54,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11694.0,Closed,Phone,2
+63637783,2025-01-05 13:16:23,2025-01-15 09:57:44,DPR,Illegal Tree Damage,Trunk Damaged,Queens,11357.0,Closed,Phone,9
+63637805,2025-01-05 20:01:10,2025-01-13 10:07:20,DPR,Damaged Tree,Tree Leaning/Uprooted,Queens,11367.0,Closed,Mobile,7
+63637806,2025-01-05 16:00:19,2025-01-06 11:27:05,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10035.0,Closed,Unknown,0
+63637892,2025-01-05 13:14:33,2025-01-27 11:50:55,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11215.0,Closed,Online,21
+63637904,2025-01-05 19:15:27,2025-01-08 09:36:13,DPR,Overgrown Tree/Branches,Clear Street Light,Bronx,10469.0,Closed,Phone,2
+63638222,2025-01-05 18:36:17,2025-01-08 14:53:10,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10462.0,Closed,Phone,2
+63638223,2025-01-05 14:27:56,2025-01-14 14:06:08,DPR,Maintenance Or Facility,Garbage or Litter,Queens,11415.0,Closed,Online,8
+63638224,2025-01-05 14:32:36,2025-01-07 15:19:38,DPR,Maintenance Or Facility,Structure - Outdoors,Queens,11415.0,Closed,Online,2
+63638941,2025-01-05 14:04:40,2025-01-05 19:38:49,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11249.0,Closed,Online,0
+63638942,2025-01-05 15:16:35,2025-01-05 23:51:00,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11238.0,Closed,Online,0
+63638943,2025-01-05 08:20:04,2025-01-05 11:35:07,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11205.0,Closed,Online,0
+63639336,2025-01-05 12:01:50,2025-01-06 13:20:53,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Manhattan,10065.0,Closed,Phone,1
+63639341,2025-01-05 11:46:39,2025-01-10 15:40:32,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11366.0,Closed,Online,5
+63639429,2025-01-05 17:30:22,2025-01-05 18:11:12,DPR,Violation Of Park Rules,Unlicensed Vendors,Manhattan,10028.0,Closed,Unknown,0
+63639455,2025-01-05 15:38:08,2025-02-14 21:22:23,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11422.0,Closed,Phone,40
+63639456,2025-01-05 12:18:16,2025-01-14 13:29:11,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11379.0,Closed,Online,9
+63639751,2025-01-05 13:13:41,2025-01-06 11:26:18,DPR,Maintenance Or Facility,Rodent Sighting,Manhattan,10038.0,Closed,Mobile,0
+63640921,2025-01-05 21:13:47,2025-01-06 11:13:23,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11229.0,Closed,Online,0
+63640939,2025-01-05 08:15:00,2025-01-08 12:39:59,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Brooklyn,11221.0,Closed,Unknown,3
+63641127,2025-01-05 14:31:35,2025-01-15 09:57:45,DPR,Wood Pile Remaining,Remove Debris,Queens,11357.0,Closed,Unknown,9
+63641195,2025-01-05 08:18:33,2025-01-10 11:48:25,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11230.0,Closed,Online,5
+63641289,2025-01-05 11:43:49,2025-01-10 11:47:42,DPR,Maintenance Or Facility,Rodent Sighting,Brooklyn,11221.0,Closed,Online,5
+63641311,2025-01-05 17:27:21,2025-01-07 07:37:20,DPR,Maintenance Or Facility,Rodent Sighting,Queens,11385.0,Closed,Phone,1
+63642381,2025-01-05 13:51:56,2025-11-21 14:21:42,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Brooklyn,11221.0,Closed,Phone,320
+63642424,2025-01-05 16:14:48,2025-02-21 13:09:00,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11204.0,Closed,Unknown,46
+63642514,2025-01-05 15:52:04,2025-03-17 08:34:47,DPR,Damaged Tree,Tree Trunk Split,Queens,11357.0,Closed,Mobile,70
+63642719,2025-01-05 18:23:34,2025-01-31 13:38:50,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10468.0,Closed,Online,25
+63642762,2025-01-05 14:19:02,2025-02-28 10:24:12,DPR,Maintenance Or Facility,Hours of Operation,Brooklyn,11217.0,Closed,Mobile,53
+63642763,2025-01-05 21:57:16,2025-01-06 11:30:05,DPR,Maintenance Or Facility,Rodent Sighting,Manhattan,10014.0,Closed,Online,0
+63643483,2025-01-05 22:37:18,2025-01-05 23:50:24,DPR,Animal In A Park,Injured Wildlife,Queens,11357.0,Closed,Phone,0
+63643947,2025-01-05 21:42:30,2025-03-27 15:42:44,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11219.0,Closed,Phone,80
+63643948,2025-01-05 15:00:03,2025-02-05 15:36:28,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11365.0,Closed,Online,31
+63644016,2025-01-05 13:21:01,2025-01-17 10:24:06,DPR,Illegal Tree Damage,Unauthorized Tree Removal,Brooklyn,11225.0,Closed,Mobile,11
+63644017,2025-01-05 11:06:49,2025-01-06 08:20:43,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11374.0,Closed,Phone,0
+63644083,2025-01-05 09:34:11,2025-01-14 12:10:57,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11372.0,Closed,Unknown,9
+63644085,2025-01-05 22:26:15,2025-06-03 16:27:31,DPR,New Tree Request,For One Address,Bronx,10473.0,Closed,Online,148
+63644087,2025-01-05 18:15:06,2025-01-14 13:29:10,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11435.0,Closed,Unknown,8
+63644115,2025-01-05 17:04:33,2025-08-15 14:06:31,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11367.0,Closed,Phone,221
+63644362,2025-01-05 12:27:24,2025-01-10 11:47:22,DPR,Maintenance Or Facility,Rodent Sighting,Brooklyn,11221.0,Closed,Phone,4
+63644465,2025-01-05 18:55:34,2025-05-30 15:11:01,DPR,Maintenance Or Facility,Unsecured Facility,Bronx,10455.0,Closed,Mobile,144
+63645479,2025-01-05 19:09:17,2025-01-07 14:26:34,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11210.0,Closed,Phone,1
+63645481,2025-01-05 11:02:21,2025-01-06 08:20:39,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11374.0,Closed,Phone,0
+63645482,2025-01-05 15:45:50,2025-06-13 10:29:24,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11422.0,Closed,Phone,158
+63645524,2025-01-05 13:22:39,2025-01-09 13:09:26,DPR,Illegal Tree Damage,Unauthorized Tree Removal,Brooklyn,11225.0,Closed,Mobile,3
+63645534,2025-01-05 12:49:40,2025-02-14 15:39:37,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11228.0,Closed,Online,40
+63645610,2025-01-05 09:38:53,2025-01-08 13:53:15,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11411.0,Closed,Phone,3
+63645611,2025-01-05 12:33:57,2025-01-07 13:52:38,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11358.0,Closed,Online,2
+63645643,2025-01-05 16:21:07,2025-01-07 13:45:56,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11375.0,Closed,Online,1
+63645644,2025-01-05 21:58:27,2025-01-06 08:05:11,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11375.0,Closed,Phone,0
+63645645,2025-01-05 09:39:24,2025-02-25 14:06:51,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11377.0,Closed,Phone,51
+63645724,2025-01-05 15:47:54,2025-01-05 23:50:41,DPR,Violation Of Park Rules,Biking/Rollerblading off Path,Bronx,10471.0,Closed,Phone,0
+63645930,2025-01-05 16:10:53,2025-01-16 14:20:31,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10468.0,Closed,Phone,10
+63646151,2025-01-05 10:28:08,2025-01-06 11:23:15,DPR,Maintenance Or Facility,Garbage or Litter,Manhattan,10004.0,Closed,Online,1
+63646670,2025-01-05 16:01:07,2025-01-05 19:35:48,DPR,Animal In A Park,Dog Off Leash,Bronx,10463.0,Closed,Phone,0
+63647191,2025-01-05 22:55:09,2025-01-13 16:14:58,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11208.0,Closed,Online,7
+63647194,2025-01-05 08:13:46,2025-01-14 15:26:46,DPR,Illegal Tree Damage,Bicycle Chained to Tree,Brooklyn,11232.0,Closed,Online,9
+63647213,2025-01-05 14:58:43,2025-01-08 10:44:09,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11357.0,Closed,Online,2
+63647281,2025-01-05 20:58:28,2025-01-05 21:51:17,DPR,Animal In A Park,Domestic Strays,Brooklyn,11209.0,Closed,Phone,0
+63647520,2025-01-06 15:45:28,2025-01-07 08:04:56,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Bronx,10467.0,Closed,Phone,0
+63647521,2025-01-06 17:18:06,2025-01-10 10:55:07,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11214.0,Closed,Online,3
+63647522,2025-01-06 14:32:08,2025-01-08 13:10:15,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11234.0,Closed,Phone,1
+63647523,2025-01-06 09:59:56,2025-01-16 15:04:47,DPR,Damaged Tree,Tree Alive - in Poor Condition,Manhattan,10016.0,Closed,Phone,10
+63647524,2025-01-06 12:05:43,2025-01-13 09:10:38,DPR,Damaged Tree,Tree Leaning/Uprooted,Staten Island,10314.0,Closed,Online,6
+63647531,2025-01-06 22:32:53,2025-01-10 08:27:17,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11231.0,Closed,Unknown,3
+63647538,2025-01-06 23:22:54,2025-01-14 14:19:02,DPR,Illegal Tree Damage,Branches Damaged,Queens,11420.0,Closed,Mobile,7
+63647539,2025-01-06 17:04:09,2025-01-14 14:15:33,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11691.0,Closed,Online,7
+63647543,2025-01-06 22:48:37,2025-01-07 09:56:36,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10310.0,Closed,Mobile,0
+63647544,2025-01-06 16:32:22,2025-01-07 10:59:41,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11432.0,Closed,Online,0
+63647546,2025-01-06 09:08:06,2025-01-27 10:46:40,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11215.0,Closed,Online,21
+63647556,2025-01-06 06:09:38,2025-01-13 11:23:04,DPR,Overgrown Tree/Branches,Traffic Sign or Signal Blocked,Staten Island,10309.0,Closed,Online,7
+63647574,2025-01-06 11:24:00,2025-03-13 11:37:03,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11236.0,Closed,Phone,66
+63647623,2025-01-06 17:32:41,2025-01-09 13:26:42,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10473.0,Closed,Online,2
+63647667,2025-01-06 15:33:35,2025-04-11 12:52:02,DPR,Maintenance Or Facility,Structure - Outdoors,Queens,11365.0,Closed,Phone,94
+63647762,2025-01-06 10:32:03,2025-01-17 12:23:23,DPR,Overgrown Tree/Branches,Hitting Power Lines,Bronx,10464.0,Closed,Phone,11
+63648061,2025-01-06 22:08:30,2025-02-03 10:48:36,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11201.0,Closed,Online,27
+63648180,2025-01-06 08:25:22,2025-01-06 08:35:51,DPR,Overgrown Tree/Branches,Hitting Phone/Cable Lines,Queens,11412.0,Closed,Phone,0
+63648426,2025-01-06 11:30:16,2025-01-06 15:07:05,DPR,Animal In A Park,Dog Off Leash,Staten Island,10304.0,Closed,Unknown,0
+63648489,2025-01-06 15:08:24,2025-01-06 19:48:47,DPR,Animal In A Park,Dog Off Leash,Queens,11004.0,Closed,Online,0
+63649408,2025-01-06 16:18:48,2025-04-30 15:57:51,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11229.0,Closed,Phone,113
+63649409,2025-01-06 22:14:00,2025-01-13 08:21:21,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11223.0,Closed,Online,6
+63649432,2025-01-06 11:53:40,2025-04-10 15:06:51,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11428.0,Closed,Phone,94
+63649443,2025-01-06 16:37:34,2025-01-10 15:43:32,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11378.0,Closed,Phone,3
+63649455,2025-01-06 09:32:32,2025-01-15 12:29:14,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11414.0,Closed,Online,9
+63649464,2025-01-06 18:24:22,2025-01-08 13:42:46,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10009.0,Closed,Phone,1
+63649468,2025-01-06 22:44:54,2025-01-17 13:09:29,DPR,Maintenance Or Facility,Unsecured Facility,Bronx,10464.0,Closed,Unknown,10
+63649472,2025-01-06 10:54:47,2025-01-23 12:18:21,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10307.0,Closed,Phone,17
+63649473,2025-01-06 18:51:39,2025-10-01 13:35:04,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10308.0,Closed,Online,267
+63649474,2025-01-06 18:13:08,2025-02-14 15:27:38,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11418.0,Closed,Unknown,38
+63649542,2025-01-06 11:45:16,2025-01-27 11:48:28,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11234.0,Closed,Online,21
+63649543,2025-01-06 14:37:37,2025-01-07 11:39:39,DPR,Maintenance Or Facility,Hours of Operation,Manhattan,10029.0,Closed,Mobile,0
+63649544,2025-01-06 07:34:05,2025-01-24 14:19:11,DPR,Maintenance Or Facility,Structure - Indoors,Bronx,10457.0,Closed,Phone,18
+63649553,2025-01-06 12:39:30,2025-01-27 11:46:47,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11230.0,Closed,Online,20
+63649554,2025-01-06 11:54:11,2025-01-08 13:40:42,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10016.0,Closed,Online,2
+63649584,2025-01-06 12:14:17,2025-01-09 17:18:30,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11229.0,Closed,Phone,3
+63650310,2025-01-06 19:38:40,2025-01-06 19:43:56,DPR,Animal In A Park,Dead Animal,Bronx,10457.0,Closed,Unknown,0
+63650311,2025-01-06 08:38:27,2025-01-06 15:10:26,DPR,Animal In A Park,Dog Off Leash,Manhattan,10033.0,Closed,Online,0
+63650735,2025-01-06 12:18:00,2025-01-09 08:40:12,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11434.0,Closed,Phone,2
+63650843,2025-01-06 16:45:22,2025-01-10 11:42:40,DPR,Animal In A Park,Animal Waste,Brooklyn,11222.0,Closed,Phone,3
+63650878,2025-01-06 12:44:55,2025-01-06 16:09:16,DPR,Violation Of Park Rules,Obstructing Public Use,Queens,11368.0,Closed,Unknown,0
+63651261,2025-01-06 13:39:07,2025-01-06 14:38:18,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11362.0,Closed,Unknown,0
+63651338,2025-01-06 12:14:58,2025-02-17 14:04:00,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11432.0,Closed,Phone,42
+63651404,2025-01-06 08:35:14,2025-01-07 11:40:51,DPR,Maintenance Or Facility,Rodent Sighting,Manhattan,10028.0,Closed,Online,1
+63651423,2025-01-06 14:51:49,2025-01-13 11:15:31,DPR,Damaged Tree,Branch Cracked and Will Fall,Manhattan,10021.0,Closed,Mobile,6
+63651424,2025-01-06 19:47:59,2025-01-09 15:19:35,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11229.0,Closed,Phone,2
+63651425,2025-01-06 21:59:21,2025-06-03 16:27:35,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63651432,2025-01-06 13:44:52,2025-03-04 21:01:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11235.0,Closed,Online,57
+63651435,2025-01-06 10:32:24,2025-01-22 09:50:46,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Bronx,10469.0,Closed,Online,15
+63651437,2025-01-06 00:25:42,2025-01-31 09:04:44,DPR,Illegal Tree Damage,Trunk Damaged,Bronx,10452.0,Closed,Phone,25
+63651464,2025-01-06 09:56:48,2025-01-22 12:07:26,DPR,Maintenance Or Facility,Garbage or Litter,Queens,11360.0,Closed,Online,16
+63651592,2025-01-06 08:36:05,2025-01-06 08:36:43,DPR,Maintenance Or Facility,Graffiti or Vandalism,Staten Island,10314.0,Closed,Unknown,0
+63652765,2025-01-06 15:52:11,2025-01-16 12:14:38,DPR,Overgrown Tree/Branches,Hitting Power Lines,Staten Island,10306.0,Closed,Phone,9
+63652767,2025-01-06 16:54:16,2025-01-28 12:09:03,DPR,Maintenance Or Facility,Graffiti or Vandalism,Queens,11368.0,Closed,Unknown,21
+63653220,2025-01-06 17:27:27,2025-01-10 15:06:50,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11429.0,Closed,Online,3
+63653227,2025-01-06 11:08:07,2025-07-01 08:45:07,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11413.0,Closed,Online,175
+63653230,2025-01-06 18:03:14,2025-01-07 09:43:40,DPR,Damaged Tree,Branch Cracked and Will Fall,Bronx,10465.0,Closed,Online,0
+63653237,2025-01-06 21:48:58,2025-06-03 16:27:32,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63653253,2025-01-06 21:57:12,2025-06-03 16:27:35,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63653347,2025-01-06 08:05:45,2025-06-03 16:27:31,DPR,New Tree Request,For One Address,Staten Island,10314.0,Closed,Online,148
+63653348,2025-01-06 09:02:32,2025-01-16 14:16:37,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Brooklyn,11222.0,Closed,Phone,10
+63653349,2025-01-06 09:47:37,2025-05-23 11:28:34,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11209.0,Closed,Unknown,137
+63653354,2025-01-06 11:23:36,2025-03-19 15:06:03,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11434.0,Closed,Phone,72
+63654010,2025-01-06 07:43:46,2025-01-06 07:54:02,DPR,Animal In A Park,Dog Off Leash,Manhattan,10033.0,Closed,Online,0
+63654104,2025-01-06 09:36:17,2025-01-06 16:13:08,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Online,0
+63654562,2025-01-06 14:41:21,2025-01-06 15:41:38,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11375.0,Closed,Unknown,0
+63655134,2025-01-06 15:56:25,2025-02-03 10:49:31,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11215.0,Closed,Online,27
+63655145,2025-01-06 15:25:10,2025-01-09 08:25:05,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11420.0,Closed,Phone,2
+63655149,2025-01-06 16:39:19,2025-02-19 19:05:43,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10314.0,Closed,Online,44
+63655204,2025-01-06 09:21:59,2025-01-07 14:54:18,DPR,Damaged Tree,Entire Tree Has Fallen Down,Brooklyn,11213.0,Closed,Phone,1
+63655205,2025-01-06 11:28:28,2025-01-10 13:22:30,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11691.0,Closed,Phone,4
+63655206,2025-01-06 13:12:33,2026-04-24 12:24:59,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11434.0,Closed,Online,472
+63655207,2025-01-06 17:21:28,2025-01-09 09:44:39,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11385.0,Closed,Online,2
+63655212,2025-01-06 12:41:57,2025-01-07 13:56:54,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11694.0,Closed,Online,1
+63655213,2025-01-06 21:54:27,2025-06-03 16:27:34,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63655214,2025-01-06 21:56:43,2025-06-03 16:27:34,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63655225,2025-01-06 20:35:29,2025-02-20 21:31:18,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11374.0,Closed,Online,45
+63655239,2025-01-06 16:17:29,2025-03-10 15:14:29,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11423.0,Closed,Phone,62
+63655288,2025-01-06 11:42:43,2025-01-10 10:03:03,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11385.0,Closed,Phone,3
+63655306,2025-01-06 10:18:24,2025-01-16 15:35:22,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11422.0,Closed,Phone,10
+63655329,2025-01-06 20:58:00,2025-01-09 13:09:20,DPR,Maintenance Or Facility,Structure - Outdoors,Bronx,10453.0,Closed,Unknown,2
+63655435,2025-01-06 14:42:16,2025-01-13 09:10:57,DPR,Maintenance Or Facility,Snow or Ice,Queens,11101.0,Closed,Mobile,6
+63655884,2025-01-06 09:38:17,2025-01-06 16:14:02,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Online,0
+63656468,2025-01-06 13:19:26,2025-10-31 08:53:01,DPR,Uprooted Stump,Remove Stump,Queens,11419.0,Closed,Phone,297
+63656671,2025-01-06 15:26:37,2025-01-08 15:54:48,DPR,Overgrown Tree/Branches,Hitting Power Lines,Bronx,10466.0,Closed,Unknown,2
+63657039,2025-01-06 10:23:09,2025-01-07 13:45:56,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11375.0,Closed,Online,1
+63657041,2025-01-06 10:14:39,2025-01-09 13:31:05,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Manhattan,10025.0,Closed,Online,3
+63657043,2025-01-06 21:51:09,2025-06-03 16:27:32,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63657044,2025-01-06 21:52:25,2025-06-03 16:27:33,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63657045,2025-01-06 21:58:54,2025-06-03 16:27:35,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63657048,2025-01-06 16:09:11,2025-04-10 15:06:56,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11426.0,Closed,Unknown,93
+63657131,2025-01-06 15:20:38,2025-01-13 15:32:07,DPR,Illegal Tree Damage,Trunk Damaged,Brooklyn,11209.0,Closed,Unknown,7
+63657133,2025-01-06 21:48:13,2025-06-03 16:27:31,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63657143,2025-01-06 09:40:07,2025-04-08 14:03:48,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11358.0,Closed,Phone,92
+63657149,2025-01-06 22:32:50,2025-06-09 09:48:53,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11211.0,Closed,Unknown,153
+63657151,2025-01-06 20:31:17,2025-02-17 13:38:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11423.0,Closed,Online,41
+63657251,2025-01-06 23:22:41,2025-01-10 15:49:38,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11234.0,Closed,Phone,3
+63657259,2025-01-06 08:55:12,2025-02-03 11:42:29,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10309.0,Closed,Phone,28
+63657262,2025-01-06 21:50:06,2025-06-03 16:27:32,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63657271,2025-01-06 17:28:06,2025-06-09 09:48:52,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11211.0,Closed,Unknown,153
+63657278,2025-01-06 14:55:03,2025-01-13 08:05:10,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11231.0,Closed,Phone,6
+63657283,2025-01-06 12:57:22,2025-01-10 13:17:47,DPR,Maintenance Or Facility,Snow or Ice,Bronx,10467.0,Closed,Mobile,4
+63657731,2025-01-06 11:48:23,2025-01-06 16:15:08,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Phone,0
+63657921,2025-01-06 09:51:20,2025-01-06 09:58:39,DPR,Animal In A Park,Injured Wildlife,Bronx,10473.0,Closed,Unknown,0
+63657985,2025-01-06 19:51:14,2025-01-06 20:23:23,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11215.0,Closed,Online,0
+63658584,2025-01-06 11:58:23,2025-01-06 12:24:35,DPR,Violation Of Park Rules,Obstructing Public Use,Queens,11105.0,Closed,Unknown,0
+63658958,2025-01-06 14:01:49,2025-01-16 14:16:37,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11222.0,Closed,Online,10
+63658966,2025-01-06 08:14:08,2025-02-19 14:13:28,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11234.0,Closed,Phone,44
+63658967,2025-01-06 16:52:53,2025-03-18 17:50:21,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11220.0,Closed,Online,71
+63659024,2025-01-06 11:57:49,2025-01-07 09:33:50,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11370.0,Closed,Phone,0
+63659030,2025-01-06 21:55:30,2025-06-03 16:27:34,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63659031,2025-01-06 21:51:29,2025-06-03 16:27:33,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63659035,2025-01-06 12:57:24,2025-01-29 18:18:03,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10469.0,Closed,Online,23
+63659036,2025-01-06 09:47:33,2025-02-12 14:34:11,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10455.0,Closed,Online,37
+63659050,2025-01-06 09:16:34,2025-05-03 11:48:26,DPR,Maintenance Or Facility,Structure - Outdoors,Queens,11101.0,Closed,Phone,117
+63659109,2025-01-06 14:09:55,2025-03-06 15:37:45,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11213.0,Closed,Online,59
+63659110,2025-01-06 20:37:35,2025-02-20 21:31:21,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11374.0,Closed,Online,45
+63659139,2025-01-05 23:54:20,2025-01-10 11:43:56,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11220.0,Closed,Online,4
+63659198,2025-01-06 21:53:43,2025-06-03 16:27:34,DPR,New Tree Request,For One Address,Queens,11385.0,Closed,Mobile,147
+63659226,2025-01-06 15:26:06,2025-01-09 11:15:11,DPR,Maintenance Or Facility,Snow or Ice,Staten Island,10301.0,Closed,Mobile,2
+63659723,2025-01-06 14:46:11,2025-01-06 19:26:15,DPR,Animal In A Park,Dog Off Leash,Manhattan,10025.0,Closed,Phone,0
+63660901,2025-01-06 06:56:21,2025-01-06 12:55:46,DPR,Overgrown Tree/Branches,Traffic Sign or Signal Blocked,Staten Island,10309.0,Closed,Online,0
+63660912,2025-01-06 10:23:17,2025-01-08 12:40:01,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11233.0,Closed,Online,2
+63660914,2025-01-06 10:19:29,2025-01-08 12:39:59,DPR,Damaged Tree,Branch Cracked and Will Fall,Manhattan,10032.0,Closed,Phone,2
+63660915,2025-01-06 22:35:54,2025-06-09 09:48:54,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11211.0,Closed,Unknown,153
+63660917,2025-01-06 06:45:02,2025-01-07 15:25:09,DPR,Maintenance Or Facility,Graffiti or Vandalism,Bronx,10453.0,Closed,Unknown,1
+63660920,2025-01-06 19:51:58,2025-01-10 15:53:08,DPR,Illegal Tree Damage,Branches Damaged,Brooklyn,11229.0,Closed,Mobile,3
+63660922,2025-01-06 15:47:26,2025-02-27 13:26:29,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11358.0,Closed,Online,51
+63660928,2025-01-06 16:00:33,2025-01-27 11:19:22,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11375.0,Closed,Online,20
+63660956,2025-01-06 14:39:59,2025-01-07 11:39:43,DPR,Maintenance Or Facility,Hours of Operation,Manhattan,10029.0,Closed,Mobile,0
+63661049,2025-01-06 08:45:44,2025-01-17 12:41:56,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11223.0,Closed,Mobile,11
+63661050,2025-01-06 17:31:01,2025-02-20 15:24:47,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11385.0,Closed,Unknown,44
+63661060,2025-01-06 07:53:50,2025-02-20 16:24:52,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11215.0,Closed,Online,45
+63661061,2025-01-06 09:48:50,2025-03-10 15:14:25,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11412.0,Closed,Phone,63
+63661125,2025-01-06 13:22:31,2025-01-10 13:19:02,DPR,Maintenance Or Facility,Snow or Ice,Bronx,10467.0,Closed,Mobile,3
+63661189,2025-01-06 11:11:00,2025-01-06 16:16:58,DPR,Violation Of Park Rules,Smoking,Brooklyn,11220.0,Closed,Online,0
+63661279,2025-01-06 20:10:12,2025-02-03 10:49:09,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11249.0,Closed,Phone,27
+63661280,2025-01-06 21:36:57,2025-02-03 10:48:52,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11222.0,Closed,Online,27
+63662807,2025-01-06 06:33:04,2025-01-06 12:55:45,DPR,Overgrown Tree/Branches,Traffic Sign or Signal Blocked,Staten Island,10309.0,Closed,Online,0
+63663276,2025-01-07 10:44:12,2025-01-16 14:16:37,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11222.0,Closed,Unknown,9
+63663281,2025-01-07 09:26:50,2025-01-14 08:05:27,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Bronx,10461.0,Closed,Online,6
+63663282,2025-01-07 12:31:09,2025-01-15 16:27:07,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11230.0,Closed,Unknown,8
+63663285,2025-01-07 14:53:36,2025-01-13 09:25:04,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10312.0,Closed,Phone,5
+63663287,2025-01-07 15:28:13,2025-01-08 10:19:51,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11375.0,Closed,Online,0
+63663296,2025-01-07 06:44:34,2025-02-03 10:48:18,DPR,Maintenance Or Facility,Graffiti or Vandalism,Brooklyn,11211.0,Closed,Online,27
+63663297,2025-01-07 15:09:53,2025-01-10 12:50:56,DPR,Damaged Tree,Entire Tree Has Fallen Down,Brooklyn,11215.0,Closed,Online,2
+63663323,2025-01-07 11:03:16,2026-06-26 10:04:02,DPR,Illegal Tree Damage,Branches Damaged,Queens,11379.0,Closed,Mobile,534
+63663328,2025-01-07 13:13:30,2025-06-03 16:27:36,DPR,New Tree Request,For One Address,Brooklyn,11231.0,Closed,Mobile,147
+63663330,2025-01-07 09:26:45,2025-01-14 08:05:27,DPR,Overgrown Tree/Branches,Hitting Building,Bronx,10461.0,Closed,Online,6
+63663337,2025-01-07 11:22:40,2025-01-08 10:34:59,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11375.0,Closed,Online,0
+63663342,2025-01-07 15:32:43,2025-03-24 14:23:04,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11213.0,Closed,Phone,75
+63663343,2025-01-07 12:52:54,2025-03-13 13:04:20,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11226.0,Closed,Phone,65
+63663347,2025-01-07 07:25:28,2025-01-09 12:38:37,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11413.0,Closed,Phone,2
+63663364,2025-01-07 12:26:51,2025-01-08 07:00:37,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11357.0,Closed,Phone,0
+63663696,2025-01-07 06:40:39,2025-07-18 11:51:13,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11231.0,Closed,Online,192
+63664478,2025-01-07 16:08:34,2025-01-07 16:17:41,DPR,Animal In A Park,Removing Wildlife,Manhattan,10029.0,Closed,Unknown,0
+63664531,2025-01-07 11:37:59,2025-02-03 10:37:25,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11225.0,Closed,Online,26
+63664552,2025-01-07 10:44:28,2025-01-13 11:30:58,DPR,Maintenance Or Facility,Snow or Ice,Staten Island,10308.0,Closed,Online,6
+63664559,2025-01-07 13:58:47,2025-02-03 10:36:55,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11226.0,Closed,Online,26
+63664563,2025-01-07 08:42:51,2025-01-13 09:09:56,DPR,Maintenance Or Facility,Snow or Ice,Queens,11101.0,Closed,Mobile,6
+63664564,2025-01-07 12:32:45,2025-01-28 11:44:31,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11228.0,Closed,Online,20
+63664569,2025-01-07 08:04:18,2025-02-03 10:47:35,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11217.0,Closed,Mobile,27
+63664985,2025-01-07 10:00:23,2025-01-15 11:04:35,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10002.0,Closed,Online,8
+63665153,2025-01-07 07:04:52,2025-01-07 07:18:37,DPR,Damaged Tree,Tree Leaning/Uprooted,Staten Island,10312.0,Closed,Mobile,0
+63665794,2025-01-07 15:05:30,2025-01-14 08:05:28,DPR,Damaged Tree,Branch Cracked and Will Fall,Bronx,10461.0,Closed,Online,6
+63665797,2025-01-07 09:14:06,2025-03-24 11:04:53,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10312.0,Closed,Phone,76
+63665813,2025-01-07 10:15:57,2025-01-08 07:01:16,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11357.0,Closed,Online,0
+63665873,2025-01-07 15:35:09,2025-01-09 14:33:23,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11375.0,Closed,Online,1
+63665874,2025-01-07 16:13:17,2025-01-08 10:35:00,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11375.0,Closed,Online,0
+63665877,2025-01-07 17:09:42,2025-01-08 08:58:49,DPR,Overgrown Tree/Branches,Hitting Phone/Cable Lines,Bronx,10469.0,Closed,Online,0
+63665878,2025-01-07 16:26:13,2025-01-08 09:01:54,DPR,Overgrown Tree/Branches,Hitting Phone/Cable Lines,Queens,11379.0,Closed,Online,0
+63665886,2025-01-07 15:15:40,2025-01-10 14:42:44,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11358.0,Closed,Phone,2
+63665888,2025-01-07 13:36:29,2025-01-15 16:27:07,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11230.0,Closed,Phone,8
+63665902,2025-01-07 15:00:04,2025-01-23 14:56:32,DPR,Illegal Tree Damage,Branches Damaged,Queens,11379.0,Closed,Mobile,15
+63665928,2025-01-07 08:14:44,2025-01-23 12:35:54,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10458.0,Closed,Online,16
+63665929,2025-01-07 15:07:48,2025-04-08 14:18:03,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11360.0,Closed,Phone,90
+63665930,2025-01-07 14:13:00,2025-03-11 14:36:31,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11230.0,Closed,Unknown,63
+63665936,2025-01-07 13:08:26,2025-01-08 08:51:35,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11385.0,Closed,Online,0
+63665942,2025-01-07 09:38:11,2025-02-07 12:48:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11234.0,Closed,Phone,31
+63665959,2025-01-07 13:14:19,2025-06-03 16:27:36,DPR,New Tree Request,For One Address,Brooklyn,11231.0,Closed,Mobile,147
+63665980,2025-01-07 20:50:19,2025-05-16 14:25:29,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11221.0,Closed,Online,128
+63665985,2025-01-07 12:53:00,2025-02-28 14:01:21,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11211.0,Closed,Phone,52
+63666505,2025-01-07 09:42:25,2025-01-07 13:48:18,DPR,Violation Of Park Rules,Unsafe Use of Playground,Brooklyn,11206.0,Closed,Online,0
+63666517,2025-01-07 10:56:15,2025-02-03 10:37:42,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11249.0,Closed,Mobile,26
+63666518,2025-01-07 15:14:40,2025-01-15 11:04:22,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10002.0,Closed,Phone,7
+63666519,2025-01-07 09:28:23,2025-01-28 11:41:34,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11225.0,Closed,Mobile,21
+63666558,2025-01-07 10:25:27,2025-02-03 09:53:35,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11232.0,Closed,Phone,26
+63667736,2025-01-07 15:56:29,2025-06-22 07:44:17,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11421.0,Closed,Phone,165
+63667737,2025-01-07 10:54:47,2025-01-08 09:56:15,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10007.0,Closed,Unknown,0
+63667756,2025-01-07 10:53:45,2025-01-10 12:50:56,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11217.0,Closed,Phone,3
+63667757,2025-01-07 17:03:44,2025-01-10 15:53:08,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11229.0,Closed,Phone,2
+63667771,2025-01-07 07:52:19,2025-01-15 14:35:24,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11358.0,Closed,Online,8
+63667772,2025-01-07 07:43:15,2025-01-08 12:18:40,DPR,Damaged Tree,Tree Leaning/Uprooted,Queens,11423.0,Closed,Online,1
+63667774,2025-01-07 08:36:25,2025-01-08 11:19:25,DPR,Illegal Tree Damage,Bicycle Chained to Tree,Brooklyn,11226.0,Closed,Phone,1
+63667783,2025-01-07 09:50:39,2025-05-20 13:44:07,DPR,Damaged Tree,Tree Alive - in Poor Condition,Staten Island,10306.0,Closed,Mobile,133
+63667795,2025-01-07 13:09:32,2025-03-05 16:27:31,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11212.0,Closed,Online,57
+63667833,2025-01-07 15:52:53,2025-01-16 14:26:54,DPR,Maintenance Or Facility,Garbage or Litter,Bronx,10462.0,Closed,Online,8
+63667865,2025-01-07 17:27:54,2025-01-10 12:50:57,DPR,Wood Pile Remaining,Remove Debris,Brooklyn,11215.0,Closed,Unknown,2
+63667890,2025-01-07 21:42:09,2025-01-09 14:54:55,DPR,Wood Pile Remaining,Remove Debris,Queens,11373.0,Closed,Unknown,1
+63667893,2025-01-07 14:17:02,2025-01-13 09:49:26,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11364.0,Closed,Unknown,5
+63667894,2025-01-07 14:17:56,2025-01-08 06:45:31,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10309.0,Closed,Online,0
+63667896,2025-01-07 11:34:08,2025-01-08 09:04:53,DPR,Overgrown Tree/Branches,Blocking Street,Staten Island,10305.0,Closed,Online,0
+63667897,2025-01-07 14:24:42,2025-01-08 06:42:30,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Staten Island,10309.0,Closed,Online,0
+63667959,2025-01-07 14:36:29,2025-01-13 09:28:07,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10309.0,Closed,Phone,5
+63667960,2025-01-07 17:22:28,2025-01-13 15:32:04,DPR,Damaged Tree,Entire Tree Has Fallen Down,Brooklyn,11207.0,Closed,Phone,5
+63667990,2025-01-07 20:31:15,2025-02-19 19:05:46,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10314.0,Closed,Unknown,42
+63668414,2025-01-07 08:11:32,2025-02-25 10:58:01,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11220.0,Closed,Mobile,49
+63668466,2025-01-07 12:07:09,2025-01-28 11:48:14,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11211.0,Closed,Phone,20
+63668963,2025-01-07 09:23:54,2025-01-07 13:26:07,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11233.0,Closed,Phone,0
+63668992,2025-01-07 18:34:33,2025-01-07 19:02:06,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11234.0,Closed,Phone,0
+63669037,2025-01-07 14:22:04,2025-01-07 16:29:19,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Online,0
+63669609,2025-01-07 13:50:25,2025-01-14 15:26:46,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11218.0,Closed,Phone,7
+63669610,2025-01-07 12:34:54,2025-01-13 09:10:34,DPR,Damaged Tree,Entire Tree Has Fallen Down,Staten Island,10314.0,Closed,Phone,5
+63669611,2025-01-07 12:44:22,2025-11-17 09:34:50,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11238.0,Closed,Phone,313
+63669628,2025-01-07 13:38:59,2025-04-01 14:00:22,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11215.0,Closed,Online,84
+63669629,2025-01-07 14:39:08,2025-01-09 14:54:54,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11373.0,Closed,Unknown,2
+63669637,2025-01-07 14:39:41,2025-04-09 12:52:19,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11218.0,Closed,Mobile,91
+63669638,2025-01-07 11:39:49,2025-01-27 11:45:08,DPR,Maintenance Or Facility,Garbage or Litter,Brooklyn,11211.0,Closed,Phone,20
+63669701,2025-01-07 10:39:59,2025-08-05 13:35:25,DPR,Maintenance Or Facility,Rodent Sighting,Brooklyn,11249.0,Closed,Mobile,210
+63669758,2025-01-07 18:36:03,2025-04-29 08:12:13,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11354.0,Closed,Phone,111
+63669759,2025-01-07 14:41:05,2025-01-08 12:18:38,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11429.0,Closed,Phone,0
+63669760,2025-01-07 17:17:51,2025-01-16 14:49:41,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11204.0,Closed,Phone,8
+63669761,2025-01-07 18:36:46,2025-01-08 14:35:36,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11358.0,Closed,Phone,0
+63669764,2025-01-07 02:14:23,2025-01-16 11:17:00,DPR,Illegal Tree Damage,Bicycle Chained to Tree,Manhattan,10030.0,Closed,Online,9
+63669791,2025-01-07 16:08:41,2025-03-24 15:07:44,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11225.0,Closed,Online,75
+63670161,2025-01-07 06:03:25,2025-02-21 09:39:20,DPR,Maintenance Or Facility,Recreation Center,Manhattan,10040.0,Closed,Phone,45
+63670171,2025-01-07 08:50:13,2025-01-08 15:14:21,DPR,Maintenance Or Facility,Snow or Ice,Bronx,10473.0,Closed,Phone,1
+63670181,2025-01-07 08:10:06,2025-01-15 11:03:07,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10002.0,Closed,Mobile,8
+63670188,2025-01-07 16:17:25,2025-02-03 10:36:32,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11214.0,Closed,Phone,26
+63670641,2025-01-07 09:11:17,2025-02-03 10:39:40,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11230.0,Closed,Online,27
+63670769,2025-01-07 08:50:07,2025-01-07 13:03:17,DPR,Damaged Tree,Tree Leaning/Uprooted,Staten Island,10312.0,Closed,Mobile,0
+63671435,2025-01-07 16:59:44,2025-01-08 06:24:28,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10314.0,Closed,Online,0
+63671436,2025-01-07 16:08:23,2025-01-10 08:39:58,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11229.0,Closed,Phone,2
+63671437,2025-01-07 13:01:53,2025-01-08 14:35:38,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11358.0,Closed,Online,1
+63671442,2025-01-07 17:36:00,2025-06-22 08:06:51,DPR,Overgrown Tree/Branches,Hitting Power Lines,Queens,11420.0,Closed,Phone,165
+63671483,2025-01-07 09:52:27,2025-01-16 14:49:41,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11204.0,Closed,Phone,9
+63671484,2025-01-07 15:16:40,2025-01-10 15:53:08,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11234.0,Closed,Mobile,3
+63671485,2025-01-07 22:40:57,2025-01-10 13:47:23,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11426.0,Closed,Online,2
+63671513,2025-01-07 14:34:18,2025-01-27 13:33:47,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10314.0,Closed,Phone,19
+63671514,2025-01-07 12:15:07,2025-02-20 20:12:58,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Staten Island,10314.0,Closed,Phone,44
+63671539,2025-01-07 12:10:08,2025-02-05 11:03:12,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10453.0,Closed,Phone,28
+63671541,2025-01-07 19:36:20,2025-04-09 10:00:29,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11204.0,Closed,Phone,91
+63671567,2025-01-07 14:46:39,2025-01-13 15:32:08,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11209.0,Closed,Phone,6
+63671568,2025-01-07 13:49:03,2025-01-14 13:23:08,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11362.0,Closed,Unknown,6
+63671569,2025-01-07 10:09:14,2025-01-14 08:05:27,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Bronx,10461.0,Closed,Unknown,6
+63671597,2025-01-07 15:42:19,2025-04-09 10:15:52,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11229.0,Closed,Online,91
+63671598,2025-01-07 13:00:38,2025-01-16 12:30:08,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11419.0,Closed,Online,8
+63671605,2025-01-07 20:46:21,2025-04-25 14:27:40,DPR,Maintenance Or Facility,Structure - Outdoors,Brooklyn,11215.0,Closed,Mobile,107
+63671606,2025-01-07 07:19:51,2026-07-08 13:24:00,DPR,Maintenance Or Facility,Unsecured Facility,Manhattan,10025.0,Closed,Online,547
+63671635,2025-01-07 13:08:19,2025-01-15 11:05:50,DPR,Maintenance Or Facility,Garbage or Litter,Manhattan,10028.0,Closed,Online,7
+63671828,2025-01-07 12:58:08,2025-01-09 08:40:11,DPR,Overgrown Tree/Branches,Hitting Phone/Cable Lines,Queens,11412.0,Closed,Online,1
+63671851,2025-01-07 14:37:07,2025-01-09 14:57:56,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11365.0,Closed,Unknown,2
+63671852,2025-01-07 12:45:52,2025-01-08 12:18:37,DPR,Damaged Tree,Tree Alive - in Poor Condition,Queens,11423.0,Closed,Phone,0
+63671859,2025-01-07 16:23:46,2025-04-03 05:43:47,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Manhattan,10003.0,Closed,Online,85
+63671860,2025-01-07 10:29:07,2025-04-01 11:30:38,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10306.0,Closed,Phone,84
+63671863,2025-01-07 13:17:07,2025-06-03 16:27:37,DPR,New Tree Request,For One Address,Brooklyn,11231.0,Closed,Mobile,147
+63671864,2025-01-07 16:34:58,2025-01-10 08:41:26,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Brooklyn,11229.0,Closed,Online,2
+63671865,2025-01-07 10:12:56,2025-01-10 09:16:18,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Brooklyn,11211.0,Closed,Online,2
+63671870,2025-01-07 19:04:26,2025-04-09 12:24:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Manhattan,10027.0,Closed,Online,91
+63671871,2025-01-07 13:49:03,2025-02-27 15:38:20,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11361.0,Closed,Unknown,51
+63671872,2025-01-07 13:37:56,2025-03-04 21:01:07,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11235.0,Closed,Phone,56
+63671901,2025-01-07 15:17:49,2025-01-08 09:46:47,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10011.0,Closed,Phone,0
+63672234,2025-01-07 07:40:16,2025-02-03 10:40:37,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11224.0,Closed,Mobile,27
+63672235,2025-01-07 08:24:23,2025-02-03 10:39:57,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11215.0,Closed,Phone,27
+63672238,2025-01-07 08:18:26,2025-01-07 11:38:41,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10029.0,Closed,Mobile,0
+63672303,2025-01-07 10:34:15,2025-01-07 11:46:52,DPR,Damaged Tree,Tree Trunk Split,Bronx,10465.0,Closed,Mobile,0
+63673327,2025-01-07 13:16:31,2025-01-17 12:05:14,DPR,Damaged Tree,Branch Cracked and Will Fall,Staten Island,10303.0,Closed,Phone,9
+63673328,2025-01-07 11:56:46,2025-01-10 13:16:26,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10306.0,Closed,Phone,3
+63673329,2025-01-07 13:43:50,2025-01-30 15:05:44,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11234.0,Closed,Online,23
+63673342,2025-01-07 13:53:27,2025-06-10 11:16:33,DPR,Overgrown Tree/Branches,Hitting Building,Queens,11433.0,Closed,Phone,153
+63673345,2025-01-07 12:41:18,2025-03-16 19:31:19,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11217.0,Closed,Phone,68
+63673413,2025-01-07 12:38:14,2025-01-22 10:05:47,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11414.0,Closed,Phone,14
+63673414,2025-01-07 12:12:28,2025-01-09 14:42:30,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11102.0,Closed,Phone,2
+63673415,2025-01-07 13:46:10,2025-01-09 14:57:56,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11365.0,Closed,Unknown,2
+63673437,2025-01-07 12:40:47,2025-01-23 11:53:19,DPR,Illegal Tree Damage,Branches Damaged,Queens,11426.0,Closed,Mobile,15
+63673439,2025-01-07 12:50:49,2025-06-03 16:27:36,DPR,New Tree Request,For One Address,Brooklyn,11220.0,Closed,Phone,147
+63673445,2025-01-07 11:27:08,2025-04-10 13:02:36,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11427.0,Closed,Online,93
+63673457,2025-01-07 13:10:54,2025-02-13 15:36:24,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11434.0,Closed,Online,37
+63673458,2025-01-07 08:10:33,2025-01-23 12:35:54,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Bronx,10458.0,Closed,Online,16
+63673528,2025-01-07 15:48:37,2025-01-08 09:47:25,DPR,Maintenance Or Facility,Structure - Outdoors,Manhattan,10028.0,Closed,Mobile,0
+63673762,2025-01-07 13:17:37,2025-01-08 12:40:02,DPR,Damaged Tree,Tree Alive - in Poor Condition,Manhattan,10034.0,Closed,Unknown,0
+63673763,2025-01-07 10:55:00,2025-01-14 16:11:59,DPR,Damaged Tree,Branch Cracked and Will Fall,Brooklyn,11212.0,Closed,Phone,7
+63673764,2025-01-07 22:57:57,2025-01-08 08:22:49,DPR,Damaged Tree,Entire Tree Has Fallen Down,Bronx,10472.0,Closed,Phone,0
+63673765,2025-01-07 11:08:16,2025-01-08 11:38:30,DPR,Damaged Tree,Entire Tree Has Fallen Down,Bronx,10462.0,Closed,Mobile,1
+63673782,2025-01-07 15:45:36,2025-04-10 15:10:26,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11229.0,Closed,Online,92
+63673916,2025-01-07 15:35:14,2025-01-13 11:31:01,DPR,Maintenance Or Facility,Snow or Ice,Staten Island,10308.0,Closed,Phone,5
+63673934,2025-01-07 10:16:41,2025-02-03 10:38:16,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11201.0,Closed,Phone,27
+63674088,2025-01-07 06:55:10,2025-01-08 13:44:08,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10019.0,Closed,Phone,1
+63674089,2025-01-07 08:16:42,2025-02-03 10:46:13,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11224.0,Closed,Phone,27
+63674090,2025-01-07 09:24:17,2025-01-15 11:03:29,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10014.0,Closed,Online,8
+63674106,2025-01-07 10:38:55,2025-01-07 11:37:31,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11415.0,Closed,Online,0
+63674415,2025-01-07 09:01:49,2025-01-07 10:06:54,DPR,Animal In A Park,Domestic Strays,Bronx,10457.0,Closed,Unknown,0
+63674590,2025-01-07 10:24:34,2025-01-07 14:19:44,DPR,Animal In A Park,Dog Off Leash,Brooklyn,11222.0,Closed,Online,0
+63675362,2025-01-07 17:20:33,2025-01-09 10:10:36,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Staten Island,10312.0,Closed,Phone,1
+63675366,2025-01-07 21:35:37,2026-08-13 13:05:04,DPR,Maintenance Or Facility,Garbage or Litter,Queens,11368.0,Closed,Mobile,582
+63675379,2025-01-07 13:16:36,2025-01-09 14:57:55,DPR,Damaged Tree,Entire Tree Has Fallen Down,Queens,11365.0,Closed,Online,2
+63675503,2025-01-07 07:07:39,2025-01-14 09:25:53,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10026.0,Closed,Phone,7
+63675575,2025-01-07 13:59:38,2025-01-08 12:18:23,DPR,Damaged Tree,Branch Cracked and Will Fall,Queens,11423.0,Closed,Phone,0
+63675576,2025-01-07 12:06:27,2025-01-09 11:33:53,DPR,Damaged Tree,Branch Cracked and Will Fall,Bronx,10453.0,Closed,Phone,1
+63675577,2025-01-07 15:24:10,2025-01-14 12:21:28,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11414.0,Closed,Online,6
+63675578,2025-01-07 12:16:05,2025-01-16 12:42:39,DPR,Damaged Tree,Tree Leaning/Uprooted,Brooklyn,11237.0,Closed,Online,9
+63675588,2025-01-07 07:28:32,2025-02-14 21:22:24,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Queens,11413.0,Closed,Phone,38
+63675684,2025-01-07 09:44:17,2025-02-03 10:38:36,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11223.0,Closed,Mobile,27
+63675685,2025-01-07 09:35:57,2025-02-03 09:51:18,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11233.0,Closed,Phone,27
+63675743,2025-01-07 08:40:32,2025-01-13 09:10:24,DPR,Maintenance Or Facility,Snow or Ice,Queens,11101.0,Closed,Mobile,6
+63675744,2025-01-07 09:47:50,2025-01-15 11:04:14,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10002.0,Closed,Online,8
+63675784,2025-01-07 19:18:03,2025-01-10 12:10:58,DPR,Damaged Tree,Entire Tree Has Fallen Down,Bronx,10451.0,Closed,Mobile,2
+63675787,2025-01-07 13:15:28,2025-06-03 16:27:37,DPR,New Tree Request,For One Address,Brooklyn,11231.0,Closed,Mobile,147
+63676017,2025-01-07 09:23:40,2025-02-03 10:39:13,DPR,Maintenance Or Facility,Snow or Ice,Brooklyn,11224.0,Closed,Phone,27
+63676164,2025-01-07 06:59:18,2025-01-07 12:18:41,DPR,Overgrown Tree/Branches,Traffic Sign or Signal Blocked,Staten Island,10301.0,Closed,Online,0
+63676181,2025-01-07 10:28:22,2025-01-08 13:42:51,DPR,Maintenance Or Facility,Snow or Ice,Manhattan,10009.0,Closed,Online,1
+63676505,2025-01-07 12:35:21,2025-01-07 13:49:48,DPR,Animal In A Park,Injured Wildlife,Brooklyn,11236.0,Closed,Phone,0
+63676534,2025-01-07 13:39:48,2025-01-07 14:02:25,DPR,Violation Of Park Rules,Obstructing Public Use,Queens,11373.0,Closed,Unknown,0
+63677238,2025-01-07 16:08:38,2025-01-08 15:06:34,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Queens,11385.0,Closed,Online,0
+63677241,2025-01-07 15:30:01,2025-02-21 16:17:08,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11218.0,Closed,Unknown,45
+63677242,2025-01-07 14:13:15,2025-02-13 06:57:42,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11214.0,Closed,Phone,36
+63677287,2025-01-07 12:48:17,2025-01-14 16:11:59,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11221.0,Closed,Phone,7
+63677309,2025-01-07 13:12:21,2025-06-03 16:27:36,DPR,New Tree Request,For One Address,Brooklyn,11231.0,Closed,Mobile,147
+63677310,2025-01-07 10:14:48,2025-12-19 10:53:41,DPR,Overgrown Tree/Branches,Blocking Street,Staten Island,10312.0,Closed,Online,346
+63677311,2025-01-07 12:50:57,2025-01-14 13:07:33,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Brooklyn,11216.0,Closed,Online,7
+63677312,2025-01-07 11:54:05,2025-06-09 09:52:34,DPR,Overgrown Tree/Branches,Hitting Building,Brooklyn,11222.0,Closed,Phone,152
+63677476,2025-01-07 13:28:51,2025-10-19 14:59:04,DPR,Wood Pile Remaining,Remove Debris,Brooklyn,11203.0,Closed,Online,285
+63677500,2025-01-07 14:58:22,2025-01-15 15:43:26,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Brooklyn,11210.0,Closed,Online,8
+63677501,2025-01-07 14:58:13,2025-03-10 07:49:03,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Staten Island,10306.0,Closed,Phone,61
+63677502,2025-01-07 13:30:15,2025-01-08 12:46:05,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11367.0,Closed,Online,0
+63677511,2025-01-07 22:15:34,2025-02-28 01:43:44,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11216.0,Closed,Online,51
+63677666,2025-01-07 14:02:55,2025-01-11 11:42:03,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Brooklyn,11226.0,Closed,Online,3
+63677670,2025-01-07 17:42:46,2025-01-14 14:35:15,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11413.0,Closed,Online,6
+63677671,2025-01-07 19:19:09,2025-01-10 14:45:45,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Queens,11375.0,Closed,Phone,2
+63677672,2025-01-07 13:51:52,2025-07-11 13:46:11,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Queens,11422.0,Closed,Online,184
+63677673,2025-01-07 15:49:13,2025-01-15 14:35:51,DPR,Illegal Tree Damage,Unauthorized Tree Removal,Manhattan,10028.0,Closed,Unknown,7
+63677674,2025-01-07 13:16:23,2025-06-03 16:27:37,DPR,New Tree Request,For One Address,Brooklyn,11231.0,Closed,Mobile,147
+63677677,2025-01-07 13:33:49,2025-01-13 09:28:09,DPR,Overgrown Tree/Branches,Blocking Street,Brooklyn,11235.0,Closed,Phone,5
+63677680,2025-01-07 12:44:38,2025-02-14 12:57:12,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11234.0,Closed,Online,38
+63677681,2025-01-07 13:09:42,2025-03-07 15:36:05,DPR,Root/Sewer/Sidewalk Condition,Trees and Sidewalks Program,Brooklyn,11230.0,Closed,Unknown,59
+63684852,2025-01-07 23:59:09,2025-01-23 13:27:21,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Bronx,10462.0,Closed,Unknown,15

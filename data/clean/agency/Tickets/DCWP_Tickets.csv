@@ -1,0 +1,292 @@
+Unique_Key,Created_Date,Closed_Date,Agency,Complaint_Type,Descriptor,Borough,Incident_Zip,Status,Open_Data_Channel_Type,Resolution_Days
+63582124,2025-01-01 01:37:39,2025-01-27 11:01:44,DCWP,Consumer Complaint,Department Store or Megastore,Staten Island,10314.0,Closed,Online,26
+63585731,2025-01-01 18:48:58,2025-02-27 23:00:48,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11223.0,Closed,Online,57
+63585882,2025-01-01 12:33:50,2025-01-02 08:48:27,DCWP,Consumer Complaint,"Barber Shop, Beauty Salon, or Nail Salon",Brooklyn,11223.0,Closed,Online,0
+63586718,2025-01-01 15:36:31,2025-02-01 04:01:54,DCWP,Consumer Complaint,Other Store (Non-Food),Bronx,10454.0,Closed,Online,30
+63587770,2025-01-01 19:59:16,2025-01-02 09:36:50,DCWP,Consumer Complaint,Restaurant,Manhattan,10017.0,Closed,Online,0
+63588986,2025-01-01 22:25:25,2025-01-10 09:14:46,DCWP,Consumer Complaint,Restaurant,Bronx,10475.0,Closed,Online,8
+63588990,2025-01-01 19:43:33,2025-01-02 08:54:29,DCWP,Consumer Complaint,Restaurant,Brooklyn,11224.0,Closed,Phone,0
+63589045,2025-01-01 05:17:07,2025-01-02 12:02:14,DCWP,Consumer Complaint,Tour Guide,Bronx,10458.0,Closed,Online,1
+63589180,2025-01-01 11:40:56,2025-01-09 15:37:25,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Staten Island,10301.0,Closed,Phone,8
+63590368,2025-01-01 14:13:04,2025-01-02 10:33:02,DCWP,Consumer Complaint,Restaurant,Bronx,10453.0,Closed,Phone,0
+63590421,2025-01-01 14:59:56,2025-01-02 12:23:19,DCWP,Consumer Complaint,Other Store (Non-Food),Queens,11377.0,Closed,Online,0
+63591529,2025-01-02 00:10:31,2025-01-03 12:13:00,DCWP,Consumer Complaint,Garage or Parking Lot,Brooklyn,11206.0,Closed,Online,1
+63592822,2025-01-01 12:46:27,2025-02-01 04:01:54,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11225.0,Closed,Online,30
+63592829,2025-01-01 12:45:49,2025-01-02 10:29:58,DCWP,Consumer Complaint,Ticket Seller,Manhattan,10004.0,Closed,Online,0
+63595217,2025-01-01 11:48:38,2025-01-02 10:11:37,DCWP,Consumer Complaint,Used Car Dealer,Bronx,10475.0,Closed,Phone,0
+63595326,2025-01-01 16:20:34,2025-02-01 04:01:54,DCWP,Consumer Complaint,Gas Station Pumps,Brooklyn,11220.0,Closed,Phone,30
+63595484,2025-01-01 09:44:35,2025-01-10 16:07:35,DCWP,Consumer Complaint,Stoop Line Stand,Queens,11354.0,Closed,Online,9
+63595518,2025-01-02 23:18:25,2025-02-02 04:02:11,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10019.0,Closed,Online,30
+63595519,2025-01-02 14:46:56,2025-02-02 04:02:24,DCWP,Consumer Complaint,Storage Warehouse,Bronx,10460.0,Closed,Phone,30
+63595527,2025-01-02 12:33:06,2025-01-03 08:47:23,DCWP,Consumer Complaint,Tow Truck Company,Bronx,10472.0,Closed,Phone,0
+63595532,2025-01-02 11:32:28,2025-01-03 12:28:54,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Queens,11103.0,Closed,Phone,1
+63595536,2025-01-03 00:54:02,2025-01-03 08:59:27,DCWP,Consumer Complaint,Tobacco Sales,Brooklyn,11236.0,Closed,Phone,0
+63595540,2025-01-02 10:43:43,2025-01-03 12:25:53,DCWP,Consumer Complaint,Shipping Company,Brooklyn,11236.0,Closed,Online,1
+63595549,2025-01-02 23:12:38,2025-01-03 09:41:39,DCWP,Consumer Complaint,Tobacco Sales,Manhattan,10027.0,Closed,Phone,0
+63595551,2025-01-02 10:04:20,2025-01-03 10:09:51,DCWP,Consumer Complaint,Laundromat,Brooklyn,11216.0,Closed,Online,1
+63595770,2025-01-02 15:48:29,2025-01-03 12:22:09,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11225.0,Closed,Online,0
+63595771,2025-01-02 10:32:43,2025-02-02 04:01:43,DCWP,Consumer Complaint,Home Improvement Contractor,Staten Island,10314.0,Closed,Phone,30
+63595868,2025-01-02 14:03:18,2025-01-03 10:15:51,DCWP,Consumer Complaint,Used Car Dealer,Staten Island,10305.0,Closed,Phone,0
+63597382,2025-01-02 08:11:12,2025-01-17 12:31:45,DCWP,Consumer Complaint,E-Cigarette Sales,Bronx,10460.0,Closed,Phone,15
+63597711,2025-01-02 12:05:47,2025-02-02 04:01:43,DCWP,Consumer Complaint,Tour Guide,Manhattan,10014.0,Closed,Online,30
+63597717,2025-01-02 08:00:42,2025-01-03 09:44:48,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10455.0,Closed,Online,1
+63597718,2025-01-02 22:19:35,2025-01-03 09:47:58,DCWP,Consumer Complaint,Tobacco Sales,Queens,11412.0,Closed,Phone,0
+63597722,2025-01-02 09:27:31,2025-02-02 04:01:49,DCWP,Consumer Complaint,Gas Station Pumps,Queens,11101.0,Closed,Online,30
+63597829,2025-01-02 15:53:00,2025-01-13 09:21:26,DCWP,Consumer Complaint,Home Improvement Contractor,Brooklyn,11206.0,Closed,Phone,10
+63598162,2025-01-02 13:05:59,2025-01-03 10:46:22,DCWP,Consumer Complaint,Car Wash,Manhattan,10026.0,Closed,Phone,0
+63599085,2025-01-02 12:13:44,2025-01-03 08:44:23,DCWP,Consumer Complaint,Street Fair Vendor,Bronx,10458.0,Closed,Online,0
+63599244,2025-01-02 11:24:41,2025-02-02 04:01:43,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11215.0,Closed,Phone,30
+63599586,2025-01-02 16:49:30,2025-01-22 16:23:30,DCWP,Consumer Complaint,Home Improvement Contractor,Queens,11362.0,Closed,Online,19
+63599602,2025-01-02 16:08:17,2025-01-03 12:28:54,DCWP,Consumer Complaint,Supermarket or Grocery Store,Bronx,10458.0,Closed,Phone,0
+63599726,2025-01-02 11:26:20,2025-02-02 04:01:43,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10030.0,Closed,Phone,30
+63599839,2025-01-02 13:14:27,2025-01-03 10:18:51,DCWP,Consumer Complaint,Pedicab,Brooklyn,11219.0,Closed,Phone,0
+63600778,2025-01-02 17:51:44,2025-01-03 12:16:05,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10013.0,Closed,Online,0
+63601098,2025-01-02 14:13:09,2025-01-22 15:37:06,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10022.0,Closed,Phone,20
+63601179,2025-01-02 09:58:41,2025-02-02 04:01:43,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10032.0,Closed,Phone,30
+63601518,2025-01-02 22:26:04,2025-01-03 12:22:07,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Queens,11412.0,Closed,Phone,0
+63601599,2025-01-02 09:23:13,2025-02-02 04:02:20,DCWP,Consumer Complaint,Third-Party Food Delivery Service,Brooklyn,11212.0,Closed,Online,30
+63601735,2025-01-02 21:59:14,2025-01-03 15:21:52,DCWP,Consumer Complaint,Tobacco Sales,Brooklyn,11207.0,Closed,Phone,0
+63602915,2025-01-02 13:50:21,2025-02-02 04:01:43,DCWP,Consumer Complaint,Tow Truck Company,Queens,11377.0,Closed,Online,30
+63602947,2025-01-02 09:50:51,2025-01-03 12:19:08,DCWP,Consumer Complaint,Tobacco Sales,Queens,11413.0,Closed,Phone,1
+63602988,2025-01-02 12:35:27,2025-02-11 12:50:16,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10001.0,Closed,Online,40
+63603319,2025-01-02 17:53:06,2025-01-03 11:23:23,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11233.0,Closed,Phone,0
+63603519,2025-01-02 23:16:06,2025-01-03 15:33:51,DCWP,Consumer Complaint,Tobacco Sales,Manhattan,10027.0,Closed,Phone,0
+63603539,2025-01-02 22:42:04,2025-01-03 09:44:39,DCWP,Consumer Complaint,Garage or Parking Lot,Queens,11691.0,Closed,Phone,0
+63603582,2025-01-02 10:32:21,2025-02-02 04:01:50,DCWP,Consumer Complaint,Home Improvement Contractor,Queens,11375.0,Closed,Phone,30
+63604829,2025-01-02 21:18:19,2025-01-06 16:53:26,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Manhattan,10001.0,Closed,Phone,3
+63605078,2025-01-02 11:36:32,2025-02-02 04:01:43,DCWP,Consumer Complaint,Garage or Parking Lot,Queens,11373.0,Closed,Online,30
+63605148,2025-01-02 15:48:01,2025-01-03 08:50:24,DCWP,Consumer Complaint,Home Improvement Contractor,Queens,11378.0,Closed,Phone,0
+63605446,2025-01-02 21:45:32,2025-02-02 04:02:08,DCWP,Consumer Complaint,Hotel or Motel,Manhattan,10036.0,Closed,Phone,30
+63606697,2025-01-02 17:02:56,2025-02-02 04:02:00,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11224.0,Closed,Online,30
+63606741,2025-01-02 16:57:45,2025-02-02 04:01:43,DCWP,Consumer Complaint,Storage Warehouse,Brooklyn,11224.0,Closed,Phone,30
+63607099,2025-01-02 09:56:09,2025-02-02 04:02:01,DCWP,Consumer Complaint,Storage Warehouse,Staten Island,10301.0,Closed,Phone,30
+63607110,2025-01-02 10:06:43,2025-02-07 12:50:30,DCWP,Consumer Complaint,Home Improvement Contractor,Brooklyn,11214.0,Closed,Phone,36
+63607182,2025-01-02 08:56:57,2025-01-03 10:36:54,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11212.0,Closed,Phone,1
+63607210,2025-01-02 14:17:35,2025-01-17 15:53:01,DCWP,Consumer Complaint,Department Store or Megastore,Brooklyn,11204.0,Closed,Phone,15
+63608526,2025-01-02 22:38:51,2025-01-07 10:46:11,DCWP,Consumer Complaint,Pedicab,Brooklyn,11229.0,Closed,Online,4
+63608547,2025-01-02 16:37:36,2025-01-03 12:13:03,DCWP,Consumer Complaint,"Gift, Novelty, or Souvenir Store",Brooklyn,11201.0,Closed,Phone,0
+63608592,2025-01-02 17:04:52,2025-02-02 04:01:43,DCWP,Consumer Complaint,Travel Agency,Brooklyn,11209.0,Closed,Phone,30
+63609203,2025-01-02 14:39:18,2025-02-02 04:01:43,DCWP,Consumer Complaint,Used Car Dealer,Brooklyn,11203.0,Closed,Phone,30
+63610512,2025-01-03 17:36:52,2025-02-05 04:02:56,DCWP,Consumer Complaint,Furniture Store,Queens,11385.0,Closed,Phone,32
+63610525,2025-01-03 20:30:07,2025-01-13 15:04:09,DCWP,Consumer Complaint,Storage Warehouse,Manhattan,10001.0,Closed,Online,9
+63610939,2025-01-03 15:49:29,2025-02-05 04:02:56,DCWP,Consumer Complaint,Other Store (Non-Food),Staten Island,10301.0,Closed,Phone,32
+63611157,2025-01-03 17:01:38,2025-02-05 04:02:58,DCWP,Consumer Complaint,Tow Truck Company,Queens,11417.0,Closed,Phone,32
+63611761,2025-01-03 12:22:11,2025-02-05 04:02:58,DCWP,Consumer Complaint,Electronics Store,Brooklyn,11226.0,Closed,Phone,32
+63612019,2025-01-03 22:42:33,2025-02-05 04:02:56,DCWP,Consumer Complaint,Third-Party Food Delivery Service,Manhattan,10016.0,Closed,Online,32
+63612050,2025-01-03 12:49:17,2025-01-06 11:53:26,DCWP,Consumer Complaint,Restaurant,Queens,11101.0,Closed,Online,2
+63612115,2025-01-03 16:42:01,2025-02-05 04:02:56,DCWP,Consumer Complaint,Garage or Parking Lot,Queens,11375.0,Closed,Online,32
+63612136,2025-01-03 17:11:17,2025-01-06 14:26:01,DCWP,Consumer Complaint,"Smoking, Cigar, or Vape Store",Brooklyn,11220.0,Closed,Phone,2
+63612168,2025-01-03 08:13:52,2025-01-06 14:10:59,DCWP,Consumer Complaint,E-Cigarette Sales,Bronx,10467.0,Closed,Phone,3
+63612647,2025-01-03 23:28:07,2025-01-06 09:05:47,DCWP,Consumer Complaint,Stoop Line Stand,Brooklyn,11226.0,Closed,Online,2
+63612648,2025-01-03 23:15:20,2025-01-15 14:39:52,DCWP,Consumer Complaint,Laundromat,Brooklyn,11203.0,Closed,Online,11
+63612803,2025-01-03 14:57:51,2025-01-06 11:57:03,DCWP,Consumer Complaint,Street Fair Vendor,Queens,11368.0,Closed,Phone,2
+63613379,2025-01-03 13:29:28,2025-02-05 04:02:57,DCWP,Consumer Complaint,Car Rental,Manhattan,10036.0,Closed,Phone,32
+63613381,2025-01-03 15:42:18,2025-02-05 04:02:56,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11213.0,Closed,Phone,32
+63613513,2025-01-03 17:36:03,2025-01-06 14:29:10,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11220.0,Closed,Phone,2
+63613514,2025-01-03 17:03:27,2025-01-06 09:33:16,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11216.0,Closed,Phone,2
+63613527,2025-01-03 13:55:22,2025-01-28 13:06:06,DCWP,Consumer Complaint,Pawnbroker,Brooklyn,11236.0,Closed,Phone,24
+63613680,2025-01-03 10:59:59,2025-01-10 09:45:42,DCWP,Consumer Complaint,Tobacco Sales,Manhattan,10026.0,Closed,Phone,6
+63613682,2025-01-03 11:26:31,2025-02-05 04:02:58,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10016.0,Closed,Phone,32
+63614409,2025-01-03 17:30:39,2025-02-05 04:02:57,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11236.0,Closed,Phone,32
+63615073,2025-01-03 16:41:53,2025-01-06 10:20:30,DCWP,Consumer Complaint,Hotel or Motel,Queens,11101.0,Closed,Phone,2
+63615685,2025-01-03 02:17:13,2025-02-07 04:01:24,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10036.0,Closed,Online,35
+63615923,2025-01-03 09:18:36,2025-02-05 04:02:56,DCWP,Consumer Complaint,Mobile Food Vendor,Manhattan,10036.0,Closed,Online,32
+63616628,2025-01-03 11:38:35,2025-02-05 04:02:56,DCWP,Consumer Complaint,Department Store or Megastore,Bronx,10475.0,Closed,Phone,32
+63616629,2025-01-03 16:35:56,2025-01-07 14:42:19,DCWP,Consumer Complaint,Laundromat,Queens,11413.0,Closed,Phone,3
+63616649,2025-01-03 11:19:01,2025-02-05 04:02:57,DCWP,Consumer Complaint,Hotel or Motel,Brooklyn,11217.0,Closed,Phone,32
+63616676,2025-01-03 18:31:42,2025-01-06 10:43:02,DCWP,Consumer Complaint,Cell Phone Store,Brooklyn,11236.0,Closed,Phone,2
+63616691,2025-01-03 18:10:38,2025-02-05 04:02:55,DCWP,Consumer Complaint,Storage Warehouse,Manhattan,10019.0,Closed,Phone,32
+63616707,2025-01-03 04:44:44,2025-01-06 11:22:52,DCWP,Consumer Complaint,Laundromat,Brooklyn,11232.0,Closed,Online,3
+63616708,2025-01-03 19:26:01,2025-02-05 04:02:56,DCWP,Consumer Complaint,Residential Rental Agency,Queens,11375.0,Closed,Online,32
+63617193,2025-01-03 18:53:47,2025-02-05 04:02:58,DCWP,Consumer Complaint,Garage or Parking Lot,Queens,11420.0,Closed,Online,32
+63617362,2025-01-03 15:56:40,2025-02-06 10:46:45,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10013.0,Closed,Online,33
+63618173,2025-01-03 10:18:12,2025-01-07 12:52:44,DCWP,Consumer Complaint,Garage or Parking Lot,Queens,11436.0,Closed,Online,4
+63618209,2025-01-03 20:01:14,2025-01-06 14:23:00,DCWP,Consumer Complaint,Tobacco Sales,Queens,11378.0,Closed,Online,2
+63618210,2025-01-04 00:23:04,2025-02-05 04:02:55,DCWP,Consumer Complaint,Restaurant,Manhattan,10033.0,Closed,Phone,32
+63618211,2025-01-03 16:25:26,2025-01-06 10:49:30,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11231.0,Closed,Online,2
+63618221,2025-01-03 14:53:40,2025-02-05 04:02:58,DCWP,Consumer Complaint,Electronics Store,Queens,11429.0,Closed,Phone,32
+63618325,2025-01-03 12:43:15,2025-01-06 14:07:58,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10471.0,Closed,Online,3
+63618326,2025-01-03 09:51:12,2025-01-06 08:35:26,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10036.0,Closed,Phone,2
+63618908,2025-01-03 18:26:55,2025-02-05 04:02:58,DCWP,Consumer Complaint,Garage or Parking Lot,Queens,11101.0,Closed,Online,32
+63618979,2025-01-03 16:14:38,2025-01-06 09:54:35,DCWP,Consumer Complaint,Street Fair Vendor,Queens,11691.0,Closed,Online,2
+63619777,2025-01-03 11:04:37,2025-02-05 04:02:57,DCWP,Consumer Complaint,Hotel or Motel,Brooklyn,11201.0,Closed,Phone,32
+63619778,2025-01-03 16:27:56,2025-01-06 14:10:58,DCWP,Consumer Complaint,Tobacco Sales,Manhattan,10025.0,Closed,Online,2
+63619781,2025-01-03 09:50:24,2025-01-06 14:39:09,DCWP,Consumer Complaint,Garage or Parking Lot,Bronx,10458.0,Closed,Phone,3
+63620396,2025-01-03 10:45:27,2025-01-06 11:47:25,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10035.0,Closed,Phone,3
+63620455,2025-01-03 19:32:06,2025-01-06 09:21:01,DCWP,Consumer Complaint,Mobile Food Vendor,Bronx,10467.0,Closed,Phone,2
+63621182,2025-01-03 19:30:33,2025-02-05 04:02:57,DCWP,Consumer Complaint,Third-Party Food Delivery Service,Manhattan,10034.0,Closed,Online,32
+63621204,2025-01-03 11:14:17,2025-02-05 04:02:57,DCWP,Consumer Complaint,Storage Warehouse,Brooklyn,11217.0,Closed,Phone,32
+63621300,2025-01-03 21:42:24,2025-01-06 10:43:31,DCWP,Consumer Complaint,Supermarket or Grocery Store,Bronx,10459.0,Closed,Online,2
+63621320,2025-01-03 10:41:55,2025-02-05 04:02:56,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10036.0,Closed,Online,32
+63621344,2025-01-03 11:47:35,2025-02-05 04:02:55,DCWP,Consumer Complaint,Cell Phone Store,Brooklyn,11213.0,Closed,Phone,32
+63621357,2025-01-03 17:47:29,2025-01-06 09:36:03,DCWP,Consumer Complaint,"Smoking, Cigar, or Vape Store",Manhattan,10001.0,Closed,Phone,2
+63621794,2025-01-03 11:51:11,2025-01-06 10:14:28,DCWP,Consumer Complaint,Stoop Line Stand,Brooklyn,11201.0,Closed,Online,2
+63622728,2025-01-04 10:15:13,2025-01-06 15:49:29,DCWP,Consumer Complaint,Garage or Parking Lot,Brooklyn,11231.0,Closed,Online,2
+63622729,2025-01-04 23:14:27,2025-01-06 10:00:59,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63622738,2025-01-04 16:16:38,2025-01-06 12:19:09,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10017.0,Closed,Online,1
+63624382,2025-01-04 14:41:33,2025-01-06 11:37:53,DCWP,Consumer Complaint,Supermarket or Grocery Store,Bronx,10451.0,Closed,Phone,1
+63625091,2025-01-04 23:02:34,2025-01-06 09:57:56,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63625092,2025-01-04 19:43:02,2025-01-06 10:11:23,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10003.0,Closed,Online,1
+63625097,2025-01-04 23:06:15,2025-01-06 12:03:35,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63625139,2025-01-04 18:14:20,2025-01-15 09:50:27,DCWP,Consumer Complaint,Used Car Dealer,Queens,11435.0,Closed,Online,10
+63625140,2025-01-04 19:52:51,2025-01-06 09:51:34,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10010.0,Closed,Online,1
+63625710,2025-01-04 15:01:07,2025-01-15 15:46:43,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Queens,11102.0,Closed,Online,11
+63625711,2025-01-04 15:35:50,2025-02-05 11:12:51,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10023.0,Closed,Online,31
+63625800,2025-01-04 16:05:06,2025-02-05 04:02:59,DCWP,Consumer Complaint,Tow Truck Company,Queens,11429.0,Closed,Phone,31
+63626567,2025-01-04 11:36:31,2025-01-06 10:36:43,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10029.0,Closed,Phone,1
+63626568,2025-01-04 22:38:49,2025-01-06 11:37:53,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63626575,2025-01-04 09:24:09,2025-01-06 09:42:06,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Brooklyn,11204.0,Closed,Online,2
+63626576,2025-01-04 22:42:44,2025-01-06 10:39:44,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63626577,2025-01-04 13:19:23,2025-01-15 15:13:33,DCWP,Consumer Complaint,Laundromat,Brooklyn,11225.0,Closed,Phone,11
+63626607,2025-01-04 22:18:10,2025-01-06 12:00:04,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10003.0,Closed,Online,1
+63626660,2025-01-04 10:23:27,2025-01-06 12:12:36,DCWP,Consumer Complaint,Other Store (Non-Food),Queens,11693.0,Closed,Phone,2
+63626661,2025-01-04 22:50:50,2025-01-06 12:16:07,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63626662,2025-01-04 22:14:04,2025-01-06 10:17:30,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10003.0,Closed,Online,1
+63626663,2025-01-04 22:09:27,2025-01-06 09:54:54,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63627362,2025-01-04 20:22:47,2025-01-10 09:23:47,DCWP,Consumer Complaint,Tobacco Sales,Staten Island,10305.0,Closed,Online,5
+63627571,2025-01-04 18:27:36,2025-02-05 04:02:56,DCWP,Consumer Complaint,"Barber Shop, Beauty Salon, or Nail Salon",Queens,11104.0,Closed,Online,31
+63628195,2025-01-04 23:19:24,2025-01-06 10:00:59,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10002.0,Closed,Online,1
+63628204,2025-01-04 21:59:42,2025-02-05 04:02:57,DCWP,Consumer Complaint,Restaurant,Brooklyn,11224.0,Closed,Phone,31
+63629736,2025-01-04 20:04:25,2025-01-06 10:43:01,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10003.0,Closed,Online,1
+63629737,2025-01-04 19:48:53,2025-01-06 16:50:27,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63629738,2025-01-04 20:02:20,2025-01-06 15:27:56,DCWP,Consumer Complaint,Online or Mail Order,Brooklyn,11238.0,Closed,Online,1
+63629749,2025-01-04 22:58:31,2025-01-06 12:06:34,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63629750,2025-01-04 16:50:07,2025-01-06 11:10:46,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11213.0,Closed,Online,1
+63629751,2025-01-04 22:54:36,2025-01-06 10:04:42,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63629752,2025-01-04 13:21:45,2025-02-05 04:02:57,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Bronx,10459.0,Closed,Online,31
+63629753,2025-01-04 21:17:55,2025-01-06 10:08:23,DCWP,Consumer Complaint,Restaurant,Queens,11377.0,Closed,Phone,1
+63629796,2025-01-04 21:10:10,2025-01-06 10:40:00,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10003.0,Closed,Online,1
+63630447,2025-01-04 19:41:06,2025-02-05 04:02:55,DCWP,Consumer Complaint,Cell Phone Store,Bronx,10468.0,Closed,Phone,31
+63631229,2025-01-04 23:58:20,2025-01-06 11:53:43,DCWP,Consumer Complaint,Supermarket or Grocery Store,Queens,11377.0,Closed,Phone,1
+63631230,2025-01-04 16:47:50,2025-01-06 09:48:09,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11213.0,Closed,Online,1
+63631231,2025-01-04 23:27:09,2025-01-06 11:56:39,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10014.0,Closed,Online,1
+63631250,2025-01-04 12:17:15,2025-03-20 10:31:47,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10036.0,Closed,Online,74
+63631251,2025-01-04 14:35:37,2025-02-05 04:02:58,DCWP,Consumer Complaint,Tow Truck Company,Queens,11423.0,Closed,Online,31
+63631329,2025-01-04 11:31:38,2025-01-06 15:06:48,DCWP,Consumer Complaint,Other Store (Non-Food),Bronx,10454.0,Closed,Phone,2
+63631959,2025-01-04 11:58:32,2025-01-06 12:09:34,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10033.0,Closed,Phone,2
+63632422,2025-01-04 18:18:44,2025-01-06 10:20:31,DCWP,Consumer Complaint,"Clothing, Shoe, or Accessories Store",Manhattan,10036.0,Closed,Phone,1
+63632813,2025-01-04 23:10:39,2025-01-06 10:01:41,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10014.0,Closed,Online,1
+63632820,2025-01-04 20:50:50,2025-01-06 15:21:55,DCWP,Consumer Complaint,Supermarket or Grocery Store,Manhattan,10065.0,Closed,Online,1
+63632821,2025-01-04 23:23:15,2025-01-06 14:45:11,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10014.0,Closed,Online,1
+63632933,2025-01-04 17:24:56,2025-01-15 14:48:54,DCWP,Consumer Complaint,"Clothing, Shoe, or Accessories Store",Brooklyn,11217.0,Closed,Online,10
+63632934,2025-01-04 22:21:11,2025-01-06 12:19:08,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63632935,2025-01-04 22:05:32,2025-01-06 09:54:35,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10003.0,Closed,Online,1
+63633515,2025-01-04 10:29:06,2025-01-06 15:31:11,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11209.0,Closed,Phone,2
+63633719,2025-01-04 18:06:34,2025-02-05 04:02:57,DCWP,Consumer Complaint,Cell Phone Store,Manhattan,10034.0,Closed,Phone,31
+63633733,2025-01-04 19:05:04,2025-02-05 04:02:55,DCWP,Consumer Complaint,Storage Warehouse,Bronx,10453.0,Closed,Phone,31
+63634312,2025-01-04 22:33:12,2025-01-06 14:23:01,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10011.0,Closed,Online,1
+63634338,2025-01-04 13:40:32,2025-01-06 10:43:03,DCWP,Consumer Complaint,Car Wash,Queens,11355.0,Closed,Online,1
+63634964,2025-01-05 19:21:14,2025-01-14 13:45:32,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10128.0,Closed,Online,8
+63634989,2025-01-05 03:03:36,2025-02-05 04:02:58,DCWP,Consumer Complaint,Hotel or Motel,Bronx,10452.0,Closed,Online,31
+63635047,2025-01-05 16:23:57,2025-01-15 11:04:28,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Manhattan,10019.0,Closed,Online,9
+63637757,2025-01-05 07:26:05,2025-01-07 11:46:36,DCWP,Consumer Complaint,Laundromat,Bronx,10470.0,Closed,Phone,2
+63637760,2025-01-05 14:26:58,2025-02-05 04:02:57,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Queens,11378.0,Closed,Phone,30
+63637844,2025-01-05 04:14:57,2025-02-06 04:01:16,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10455.0,Closed,Online,31
+63637853,2025-01-05 16:31:21,2025-02-05 04:02:55,DCWP,Consumer Complaint,Wholesale Food Market,Brooklyn,11221.0,Closed,Phone,30
+63638070,2025-01-05 22:46:07,2025-02-05 04:02:56,DCWP,Consumer Complaint,"Barber Shop, Beauty Salon, or Nail Salon",Queens,11419.0,Closed,Online,30
+63638071,2025-01-05 15:56:13,2025-01-06 12:06:34,DCWP,Consumer Complaint,"Clothing, Shoe, or Accessories Store",Queens,11360.0,Closed,Online,0
+63639308,2025-01-05 02:46:32,2025-01-06 14:35:38,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10455.0,Closed,Online,1
+63639400,2025-01-05 22:38:52,2025-01-06 12:15:37,DCWP,Consumer Complaint,Online or Mail Order,Brooklyn,11237.0,Closed,Online,0
+63639448,2025-01-05 08:15:00,2025-01-15 14:27:45,DCWP,Consumer Complaint,Mobile Food Vendor,Brooklyn,11228.0,Closed,Online,10
+63639457,2025-01-05 10:11:37,2025-01-24 15:20:07,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10010.0,Closed,Online,19
+63640038,2025-01-05 21:21:59,2025-01-06 10:24:05,DCWP,Consumer Complaint,Street Fair Vendor,Queens,11385.0,Closed,Phone,0
+63640819,2025-01-05 08:18:56,2025-01-06 11:40:54,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10036.0,Closed,Online,1
+63640832,2025-01-05 16:42:14,2025-01-06 11:56:39,DCWP,Consumer Complaint,Used Car Dealer,Queens,11367.0,Closed,Online,0
+63640888,2025-01-05 02:39:37,2025-01-06 14:42:10,DCWP,Consumer Complaint,Tobacco Sales,Manhattan,10035.0,Closed,Online,1
+63640889,2025-01-05 15:12:20,2025-01-07 10:34:06,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Manhattan,10024.0,Closed,Online,1
+63640902,2025-01-05 03:33:05,2025-01-07 11:22:31,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10458.0,Closed,Online,2
+63640972,2025-01-05 15:07:54,2025-01-06 10:20:30,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Manhattan,10035.0,Closed,Phone,0
+63641004,2025-01-05 12:16:32,2025-01-06 10:36:43,DCWP,Consumer Complaint,Stoop Line Stand,Queens,11373.0,Closed,Online,0
+63641152,2025-01-05 15:25:57,2025-01-06 11:07:45,DCWP,Consumer Complaint,Gas Station Convenience Store,Queens,11426.0,Closed,Online,0
+63642347,2025-01-05 16:43:46,2025-01-15 15:04:35,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11223.0,Closed,Online,9
+63642352,2025-01-05 22:44:14,2025-01-06 15:24:55,DCWP,Consumer Complaint,Tobacco Sales,Brooklyn,11209.0,Closed,Phone,0
+63642353,2025-01-05 10:23:00,2025-02-05 04:02:56,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11203.0,Closed,Online,30
+63642354,2025-01-05 09:12:16,2025-01-06 10:08:23,DCWP,Consumer Complaint,Used Car Dealer,Bronx,10468.0,Closed,Online,1
+63642485,2025-01-05 22:47:11,2025-01-10 09:24:07,DCWP,Consumer Complaint,Tobacco Sales,Staten Island,10306.0,Closed,Phone,4
+63642495,2025-01-05 18:45:26,2025-01-06 09:48:09,DCWP,Consumer Complaint,Supermarket or Grocery Store,Queens,11101.0,Closed,Phone,0
+63642710,2025-01-05 13:29:38,2025-02-05 04:02:56,DCWP,Consumer Complaint,Cell Phone Store,Brooklyn,11217.0,Closed,Phone,30
+63643879,2025-01-05 04:45:44,2025-02-05 04:02:56,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10454.0,Closed,Online,30
+63643880,2025-01-05 03:08:23,2025-01-06 15:52:29,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10456.0,Closed,Online,1
+63643951,2025-01-05 16:45:50,2025-01-06 10:23:50,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11235.0,Closed,Phone,0
+63643963,2025-01-05 15:15:29,2025-01-07 10:03:17,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Manhattan,10016.0,Closed,Phone,1
+63644057,2025-01-05 04:00:35,2025-02-20 04:02:29,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10458.0,Closed,Online,46
+63644058,2025-01-05 02:57:14,2025-01-15 11:04:29,DCWP,Consumer Complaint,Tobacco Sales,Manhattan,10026.0,Closed,Online,10
+63645471,2025-01-05 04:33:46,2025-01-14 13:02:00,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10454.0,Closed,Online,9
+63645589,2025-01-05 13:02:51,2025-01-06 11:19:49,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10471.0,Closed,Online,0
+63645619,2025-01-05 17:30:23,2025-01-06 11:41:23,DCWP,Consumer Complaint,Stoop Line Stand,Manhattan,10013.0,Closed,Online,0
+63647297,2025-01-05 09:15:05,2025-01-06 10:14:25,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11207.0,Closed,Phone,1
+63647303,2025-01-05 15:30:07,2025-02-05 04:02:58,DCWP,Consumer Complaint,Ticket Seller,Manhattan,10036.0,Closed,Online,30
+63647453,2025-01-06 13:30:32,2025-01-23 16:46:55,DCWP,Consumer Complaint,"Clothing, Shoe, or Accessories Store",Staten Island,10301.0,Closed,Phone,17
+63647549,2025-01-06 19:44:08,2025-01-07 10:43:07,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Brooklyn,11217.0,Closed,Phone,0
+63647783,2025-01-06 12:53:08,2025-01-31 12:17:05,DCWP,Consumer Complaint,Home Improvement Contractor,Staten Island,10314.0,Closed,Phone,24
+63649713,2025-01-06 14:34:37,2025-01-07 09:56:44,DCWP,Consumer Complaint,Other Store (Non-Food),Bronx,10455.0,Closed,Phone,0
+63649980,2025-01-06 19:35:42,2025-02-06 04:01:15,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11207.0,Closed,Online,30
+63650702,2025-01-06 18:46:27,2025-01-07 15:15:49,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11203.0,Closed,Phone,0
+63650703,2025-01-06 23:03:02,2025-01-27 12:20:33,DCWP,Consumer Complaint,Laundromat,Staten Island,10306.0,Closed,Online,20
+63650704,2025-01-06 09:12:17,2025-01-07 14:39:19,DCWP,Consumer Complaint,Tobacco Sales,Bronx,10459.0,Closed,Phone,1
+63650765,2025-01-06 13:26:08,2025-01-07 10:18:48,DCWP,Consumer Complaint,Car Rental,Brooklyn,11234.0,Closed,Phone,0
+63650767,2025-01-06 12:21:41,2025-02-06 04:01:13,DCWP,Consumer Complaint,Jewelry Store,Queens,11355.0,Closed,Online,30
+63650835,2025-01-06 11:34:01,2025-01-31 16:38:36,DCWP,Consumer Complaint,Restaurant,Queens,11109.0,Closed,Phone,25
+63652664,2025-01-06 12:46:18,2025-01-07 15:34:34,DCWP,Consumer Complaint,Drug Store or Pharmacy,Manhattan,10027.0,Closed,Phone,1
+63652711,2025-01-06 09:36:12,2025-01-08 12:01:40,DCWP,Consumer Complaint,Supermarket or Grocery Store,Brooklyn,11226.0,Closed,Phone,2
+63652712,2025-01-06 15:25:42,2025-02-06 04:01:11,DCWP,Consumer Complaint,Tow Truck Company,Bronx,10468.0,Closed,Online,30
+63654590,2025-01-06 16:15:41,2025-02-06 04:01:15,DCWP,Consumer Complaint,Storage Warehouse,Brooklyn,11230.0,Closed,Phone,30
+63654618,2025-01-06 12:58:09,2025-01-07 10:24:49,DCWP,Consumer Complaint,Supermarket or Grocery Store,Queens,11372.0,Closed,Phone,0
+63654621,2025-01-06 10:19:30,2025-02-06 04:01:15,DCWP,Consumer Complaint,Department Store or Megastore,Bronx,10455.0,Closed,Phone,30
+63654725,2025-01-06 18:38:24,2025-01-07 10:03:18,DCWP,Consumer Complaint,Car Wash,Queens,11420.0,Closed,Online,0
+63655360,2025-01-06 12:48:49,2025-01-07 11:25:30,DCWP,Consumer Complaint,Stoop Line Stand,Queens,11415.0,Closed,Online,0
+63655474,2025-01-06 09:34:47,2025-01-07 11:49:31,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11235.0,Closed,Online,1
+63656448,2025-01-06 14:44:46,2025-02-06 04:01:15,DCWP,Consumer Complaint,Furniture Store,Bronx,10475.0,Closed,Phone,30
+63656449,2025-01-06 18:15:08,2025-02-06 04:02:01,DCWP,Consumer Complaint,Employment Agency,Bronx,10468.0,Closed,Phone,30
+63656465,2025-01-06 11:37:55,2025-02-06 04:01:15,DCWP,Consumer Complaint,Online or Mail Order,Queens,11370.0,Closed,Phone,30
+63656541,2025-01-06 19:37:32,2025-02-06 04:01:15,DCWP,Consumer Complaint,Gas Station Pumps,Brooklyn,11230.0,Closed,Phone,30
+63656597,2025-01-06 18:29:09,2025-01-07 10:09:17,DCWP,Consumer Complaint,E-Cigarette Sales,Queens,11434.0,Closed,Online,0
+63656653,2025-01-06 14:43:02,2025-02-06 04:01:14,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11224.0,Closed,Phone,30
+63657213,2025-01-06 11:14:07,2025-01-07 10:43:07,DCWP,Consumer Complaint,Other Store (Non-Food),Manhattan,10009.0,Closed,Phone,0
+63657499,2025-01-06 12:16:35,2025-01-08 16:43:27,DCWP,Consumer Complaint,Pedicab,Manhattan,10001.0,Closed,Online,2
+63658375,2025-01-06 12:16:24,2025-02-06 04:01:11,DCWP,Consumer Complaint,Tour Guide,Manhattan,10038.0,Closed,Online,30
+63658493,2025-01-06 13:11:01,2025-01-08 16:24:58,DCWP,Consumer Complaint,Shipping Company,Brooklyn,11236.0,Closed,Phone,2
+63659070,2025-01-06 09:31:36,2025-01-07 10:06:16,DCWP,Consumer Complaint,Stoop Line Stand,Brooklyn,11220.0,Closed,Online,1
+63659071,2025-01-06 14:53:17,2025-01-07 10:03:17,DCWP,Consumer Complaint,Stoop Line Stand,Brooklyn,11204.0,Closed,Online,0
+63659388,2025-01-06 18:00:40,2025-02-06 04:01:14,DCWP,Consumer Complaint,Tow Truck Company,Brooklyn,11236.0,Closed,Phone,30
+63659485,2025-01-06 19:04:47,2025-01-08 16:43:27,DCWP,Consumer Complaint,Pedicab,Manhattan,10006.0,Closed,Online,1
+63660308,2025-01-06 14:14:23,2025-02-06 04:01:46,DCWP,Consumer Complaint,Supermarket or Grocery Store,Manhattan,10032.0,Closed,Phone,30
+63660309,2025-01-06 21:22:40,2025-01-08 12:13:59,DCWP,Consumer Complaint,Tobacco Sales,Brooklyn,11215.0,Closed,Online,1
+63660310,2025-01-06 21:51:29,2025-01-07 11:04:29,DCWP,Consumer Complaint,E-Cigarette Sales,Brooklyn,11222.0,Closed,Online,0
+63660358,2025-01-06 18:53:55,2025-01-08 16:40:27,DCWP,Consumer Complaint,Supermarket or Grocery Store,Queens,11693.0,Closed,Online,1
+63660359,2025-01-06 15:33:32,2025-01-07 10:46:10,DCWP,Consumer Complaint,"Bodega, Deli, or Convenience Store",Bronx,10467.0,Closed,Phone,0
+63660360,2025-01-06 12:55:15,2025-01-13 10:01:07,DCWP,Consumer Complaint,Restaurant,Manhattan,10002.0,Closed,Online,6
+63660361,2025-01-06 11:22:46,2025-02-06 04:01:15,DCWP,Consumer Complaint,Home Appliance Store,Brooklyn,11207.0,Closed,Phone,30
+63660498,2025-01-06 12:26:30,2025-02-19 09:44:41,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10119.0,Closed,Online,43
+63660503,2025-01-06 11:31:48,2025-02-06 04:01:14,DCWP,Consumer Complaint,Hotel or Motel,Manhattan,10036.0,Closed,Online,30
+63660504,2025-01-06 21:52:18,2025-01-07 12:16:39,DCWP,Consumer Complaint,E-Cigarette Sales,Manhattan,10030.0,Closed,Online,0
+63662821,2025-01-07 22:52:49,2025-01-08 12:32:07,DCWP,Consumer Complaint,Garage or Parking Lot,Queens,11414.0,Closed,Online,0
+63662822,2025-01-07 18:12:31,2025-09-12 14:48:32,DCWP,Consumer Complaint,"Smoking, Cigar, or Vape Store",Staten Island,10308.0,Closed,Online,247
+63662824,2025-01-07 11:46:35,2025-01-08 12:23:05,DCWP,Consumer Complaint,Tobacco Sales,Brooklyn,11233.0,Closed,Phone,1
+63662853,2025-01-07 10:19:36,2025-02-07 04:01:16,DCWP,Consumer Complaint,Gas Station Pumps,Bronx,10451.0,Closed,Phone,30
+63662856,2025-01-07 17:59:07,2025-01-27 12:17:33,DCWP,Consumer Complaint,Home Improvement Contractor,Queens,11428.0,Closed,Online,19
+63664496,2025-01-07 19:05:48,2025-01-08 16:52:39,DCWP,Consumer Complaint,Stoop Line Stand,Brooklyn,11220.0,Closed,Phone,0
+63664800,2025-01-07 10:03:17,2025-01-08 10:21:51,DCWP,Consumer Complaint,Supermarket or Grocery Store,Manhattan,10014.0,Closed,Phone,1
+63664803,2025-01-07 15:15:50,2025-01-08 11:13:16,DCWP,Consumer Complaint,Restaurant,Queens,11415.0,Closed,Phone,0
+63664833,2025-01-07 11:00:41,2025-01-08 10:27:50,DCWP,Consumer Complaint,Car Wash,Brooklyn,11223.0,Closed,Phone,0
+63664836,2025-01-07 18:04:15,2025-01-08 12:59:14,DCWP,Consumer Complaint,Laundromat,Brooklyn,11232.0,Closed,Online,0
+63665801,2025-01-07 19:56:33,2025-01-10 16:13:33,DCWP,Consumer Complaint,Supermarket or Grocery Store,Queens,11432.0,Closed,Online,2
+63666754,2025-01-07 21:46:39,2025-01-08 10:00:47,DCWP,Consumer Complaint,Other Store (Non-Food),Queens,11422.0,Closed,Online,0
+63666764,2025-01-07 13:38:54,2025-02-07 04:01:15,DCWP,Consumer Complaint,Garage or Parking Lot,Manhattan,10016.0,Closed,Phone,30
+63668386,2025-01-07 10:57:07,2025-02-07 04:01:15,DCWP,Consumer Complaint,Gas Station Convenience Store,Manhattan,10039.0,Closed,Phone,30
+63668689,2025-01-07 19:05:22,2025-01-31 12:26:08,DCWP,Consumer Complaint,Furniture Store,Staten Island,10314.0,Closed,Phone,23
+63669590,2025-01-07 15:08:58,2025-01-08 11:46:35,DCWP,Consumer Complaint,Laundromat,Queens,11355.0,Closed,Phone,0
+63670460,2025-01-07 15:53:16,2025-02-07 04:01:15,DCWP,Consumer Complaint,Tax Preparation Services,Brooklyn,11230.0,Closed,Phone,30
+63670534,2025-01-07 15:55:45,2025-01-08 08:45:02,DCWP,Consumer Complaint,Supermarket or Grocery Store,Bronx,10454.0,Closed,Phone,0
+63671429,2025-01-07 17:55:11,2025-02-07 04:01:16,DCWP,Consumer Complaint,Electronics Store,Brooklyn,11220.0,Closed,Phone,30
+63672341,2025-01-07 14:43:11,2025-02-07 04:01:15,DCWP,Consumer Complaint,Home Appliance Store,Brooklyn,11239.0,Closed,Phone,30
+63673290,2025-01-07 21:47:32,2025-01-15 11:10:45,DCWP,Consumer Complaint,"Barber Shop, Beauty Salon, or Nail Salon",Manhattan,10011.0,Closed,Online,7
+63673802,2025-01-07 16:09:49,2025-02-07 04:01:25,DCWP,Consumer Complaint,Other Store (Non-Food),Brooklyn,11214.0,Closed,Phone,30
+63674219,2025-01-07 15:20:53,2025-02-07 04:01:15,DCWP,Consumer Complaint,Home Improvement Contractor,Brooklyn,11219.0,Closed,Phone,30
+63674248,2025-01-07 18:38:22,2025-02-07 04:01:22,DCWP,Consumer Complaint,Hotel or Motel,Manhattan,10036.0,Closed,Online,30
+63676151,2025-01-07 15:15:26,2025-03-11 13:03:05,DCWP,Consumer Complaint,Tobacco Sales,Staten Island,10310.0,Closed,Phone,62
+63676272,2025-01-07 16:16:36,2025-01-08 10:34:07,DCWP,Consumer Complaint,Moving Company,Brooklyn,11205.0,Closed,Online,0
+63677246,2025-01-07 21:52:37,2025-01-08 08:57:06,DCWP,Consumer Complaint,Laundromat,Staten Island,10301.0,Closed,Online,0
+63677247,2025-01-07 19:12:46,2025-01-08 11:16:15,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10019.0,Closed,Phone,0
+63677248,2025-01-07 13:07:15,2025-02-07 04:01:16,DCWP,Consumer Complaint,Tour Bus,Manhattan,10017.0,Closed,Phone,30
+63677452,2025-01-07 09:30:32,2025-01-08 12:32:07,DCWP,Consumer Complaint,Street Fair Vendor,Manhattan,10016.0,Closed,Online,1

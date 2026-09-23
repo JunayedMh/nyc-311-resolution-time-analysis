@@ -1,0 +1,356 @@
+Unique_Key,Created_Date,Closed_Date,Agency,Complaint_Type,Descriptor,Borough,Incident_Zip,Status,Open_Data_Channel_Type,Resolution_Days
+63574271,2025-01-01 01:46:56,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10013.0,Closed,Mobile,6
+63580799,2025-01-01 01:49:32,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10451.0,Closed,Mobile,6
+63583551,2025-01-01 01:02:37,2025-01-01 04:42:15,DHS,Homeless Person Assistance,,Brooklyn,11201.0,Closed,Mobile,0
+63586433,2025-01-01 17:50:08,2025-04-16 03:58:09,DHS,Encampment,,Manhattan,10128.0,Closed,Online,104
+63586446,2025-01-01 16:56:31,2025-01-08 06:31:49,DHS,Encampment,,Manhattan,10022.0,Closed,Online,6
+63586460,2025-01-01 03:00:54,2025-01-01 04:42:48,DHS,Homeless Person Assistance,,Manhattan,10030.0,Closed,Online,0
+63586819,2025-01-01 09:46:28,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10458.0,Closed,Mobile,6
+63586820,2025-01-01 14:49:21,2025-01-02 08:50:24,DHS,Homeless Person Assistance,,Manhattan,10014.0,Closed,Mobile,0
+63586821,2025-01-01 08:17:27,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10019.0,Closed,Mobile,6
+63587576,2025-01-01 08:14:25,2025-01-06 07:16:42,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,4
+63587638,2025-01-01 17:27:47,2025-04-16 03:57:46,DHS,Encampment,,Manhattan,10128.0,Closed,Online,104
+63587640,2025-01-01 14:22:31,2025-04-27 05:07:18,DHS,Encampment,,Manhattan,10009.0,Closed,Mobile,115
+63588063,2025-01-01 09:59:23,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10021.0,Closed,Mobile,6
+63588730,2025-01-01 10:23:10,2025-01-06 07:15:02,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,4
+63588741,2025-01-01 16:29:11,2025-01-05 07:16:58,DHS,Encampment,,Queens,11375.0,Closed,Online,3
+63588776,2025-01-01 14:35:16,2025-01-01 15:23:25,DHS,Homeless Person Assistance,,Manhattan,10022.0,Closed,Online,0
+63588856,2025-01-01 13:05:04,2025-04-28 13:42:11,DHS,Encampment,,Manhattan,10012.0,Closed,Mobile,117
+63588857,2025-01-01 13:13:28,2025-04-27 09:18:04,DHS,Encampment,,Manhattan,10069.0,Closed,Online,115
+63589251,2025-01-01 02:48:28,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10029.0,Closed,Mobile,6
+63589901,2025-01-01 16:05:39,2025-04-27 05:07:42,DHS,Encampment,,Manhattan,10009.0,Closed,Mobile,115
+63590048,2025-01-01 14:23:03,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10001.0,Closed,Online,6
+63590117,2025-01-01 12:15:48,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10022.0,Closed,Phone,6
+63590118,2025-01-01 10:05:32,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10016.0,Closed,Online,6
+63590569,2025-01-01 15:34:12,2025-01-01 15:45:32,DHS,Homeless Person Assistance,,Manhattan,10023.0,Closed,Mobile,0
+63590587,2025-01-01 04:48:15,2025-01-01 09:05:25,DHS,Homeless Person Assistance,,Manhattan,10013.0,Closed,Mobile,0
+63590588,2025-01-01 11:26:46,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11201.0,Closed,Mobile,6
+63590593,2025-01-01 15:24:53,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10029.0,Closed,Mobile,6
+63591128,2025-01-01 18:20:40,2025-01-16 06:43:59,DHS,Encampment,,Manhattan,10016.0,Closed,Mobile,14
+63591207,2025-01-01 16:29:54,2025-04-27 05:11:38,DHS,Encampment,,Manhattan,10009.0,Closed,Phone,115
+63591803,2025-01-01 13:24:56,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11358.0,Closed,Mobile,6
+63591804,2025-01-01 13:23:56,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11206.0,Closed,Mobile,6
+63591817,2025-01-01 12:32:45,2025-01-01 14:32:16,DHS,Homeless Person Assistance,,Manhattan,10033.0,Closed,Mobile,0
+63593105,2025-01-01 08:36:27,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10022.0,Closed,Online,6
+63593468,2025-01-01 12:44:53,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10037.0,Closed,Online,6
+63594320,2025-01-01 12:53:43,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10006.0,Closed,Mobile,6
+63594472,2025-01-01 02:16:46,2025-01-01 04:42:36,DHS,Homeless Person Assistance,,Queens,11427.0,Closed,Phone,0
+63594478,2025-01-01 15:56:11,2025-01-08 06:27:53,DHS,Encampment,,Manhattan,10022.0,Closed,Online,6
+63594479,2025-01-01 10:07:24,2025-01-02 09:52:01,DHS,Encampment,,Manhattan,10016.0,Closed,Online,0
+63594734,2025-01-01 13:22:27,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10006.0,Closed,Phone,6
+63594761,2025-01-01 11:22:46,2025-03-25 06:48:14,DHS,Encampment,,Manhattan,10013.0,Closed,Mobile,82
+63595513,2025-01-01 11:11:42,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,6
+63596671,2025-01-02 13:40:42,2025-01-08 03:27:37,DHS,Encampment,,Brooklyn,11235.0,Closed,Online,5
+63597036,2025-01-02 19:54:50,2025-04-30 17:44:03,DHS,Encampment,,Manhattan,10012.0,Closed,Online,117
+63597063,2025-01-02 10:51:26,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11211.0,Closed,Mobile,5
+63597339,2025-01-02 13:16:27,2025-01-02 15:24:01,DHS,Homeless Person Assistance,,Manhattan,10065.0,Closed,Phone,0
+63597371,2025-01-02 14:01:02,2025-01-05 07:15:21,DHS,Encampment,,Manhattan,10011.0,Closed,Online,2
+63597374,2025-01-02 12:25:06,2025-01-02 12:43:25,DHS,Homeless Person Assistance,,Brooklyn,11238.0,Closed,Online,0
+63597383,2025-01-02 11:12:11,2025-01-02 14:44:51,DHS,Encampment,,Manhattan,10009.0,Closed,Mobile,0
+63598231,2025-01-02 09:48:54,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,5
+63599271,2025-01-02 09:06:28,2025-01-02 09:31:04,DHS,Homeless Person Assistance,,Manhattan,10019.0,Closed,Online,0
+63599273,2025-01-02 15:56:20,2025-01-02 23:45:28,DHS,Homeless Person Assistance,,Manhattan,10014.0,Closed,Phone,0
+63599535,2025-01-02 09:27:19,2025-01-02 15:26:01,DHS,Encampment,,Manhattan,10023.0,Closed,Mobile,0
+63599540,2025-01-02 10:37:49,2025-04-30 17:44:38,DHS,Encampment,,Bronx,10453.0,Closed,Mobile,118
+63599541,2025-01-02 13:14:28,2025-01-02 15:23:39,DHS,Homeless Person Assistance,,Brooklyn,11231.0,Closed,Mobile,0
+63599546,2025-01-02 09:37:27,2025-01-02 09:55:20,DHS,Homeless Person Assistance,,Manhattan,10014.0,Closed,Mobile,0
+63599577,2025-01-02 15:17:53,2025-01-05 07:18:36,DHS,Encampment,,Manhattan,10011.0,Closed,Online,2
+63600767,2025-01-02 01:00:39,2025-03-25 06:35:45,DHS,Encampment,,Manhattan,10002.0,Closed,Mobile,82
+63601040,2025-01-02 11:38:35,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10018.0,Closed,Phone,5
+63601061,2025-01-02 07:32:24,2025-01-02 14:45:53,DHS,Encampment,,Manhattan,10003.0,Closed,Phone,0
+63601117,2025-01-02 12:10:36,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10038.0,Closed,Online,5
+63601372,2025-01-02 08:22:07,2025-01-02 11:45:10,DHS,Encampment,,Queens,11377.0,Closed,Mobile,0
+63602905,2025-01-02 07:15:03,2025-01-02 14:47:20,DHS,Encampment,,Manhattan,10009.0,Closed,Phone,0
+63602918,2025-01-02 08:35:12,2025-01-02 08:51:25,DHS,Homeless Person Assistance,,Manhattan,10027.0,Closed,Online,0
+63602920,2025-01-02 14:29:46,2025-01-02 15:25:16,DHS,Homeless Person Assistance,,Brooklyn,11217.0,Closed,Phone,0
+63602933,2025-01-02 12:00:03,2025-01-02 14:45:15,DHS,Encampment,,Manhattan,10009.0,Closed,Online,0
+63603182,2025-01-02 07:50:04,2025-01-02 09:36:53,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,0
+63603218,2025-01-02 12:19:30,2025-04-30 17:44:21,DHS,Encampment,,Manhattan,10016.0,Closed,Phone,118
+63604667,2025-01-02 11:46:15,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Phone,5
+63604720,2025-01-02 09:32:35,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11413.0,Closed,Phone,5
+63604735,2025-01-02 15:12:17,2025-04-10 06:59:39,DHS,Encampment,,Manhattan,10016.0,Closed,Phone,97
+63605068,2025-01-02 11:55:30,2025-01-12 17:32:32,DHS,Encampment,,Manhattan,10009.0,Closed,Online,10
+63605102,2025-01-02 07:45:44,2025-01-02 14:46:22,DHS,Encampment,,Manhattan,10014.0,Closed,Mobile,0
+63605111,2025-01-02 15:46:08,2025-01-05 07:16:00,DHS,Encampment,,Queens,11418.0,Closed,Mobile,2
+63605112,2025-01-02 08:17:48,2025-04-22 06:38:04,DHS,Encampment,,Manhattan,10033.0,Closed,Online,109
+63605348,2025-01-02 15:38:05,2025-01-02 15:45:26,DHS,Homeless Person Assistance,,Manhattan,10016.0,Closed,Mobile,0
+63605364,2025-01-02 10:50:30,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10019.0,Closed,Mobile,5
+63605899,2025-01-02 11:57:09,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10019.0,Closed,Mobile,5
+63606685,2025-01-02 08:21:33,2025-01-02 14:48:20,DHS,Encampment,,Manhattan,10019.0,Closed,Online,0
+63606688,2025-01-02 11:57:48,2025-01-08 06:16:22,DHS,Encampment,,Manhattan,10001.0,Closed,Mobile,5
+63606887,2025-01-02 16:57:29,2025-04-22 06:37:31,DHS,Encampment,,Manhattan,10033.0,Closed,Online,109
+63606902,2025-01-02 07:27:32,2025-04-27 09:55:08,DHS,Encampment,,Bronx,10458.0,Closed,Phone,115
+63607025,2025-01-02 10:10:03,2025-01-16 07:01:21,DHS,Encampment,,Manhattan,10012.0,Closed,Online,13
+63608212,2025-01-02 04:52:00,2025-04-01 06:36:21,DHS,Encampment,,Manhattan,10002.0,Closed,Mobile,89
+63608423,2025-01-02 12:25:17,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10036.0,Closed,Mobile,5
+63608542,2025-01-02 08:07:02,2025-01-02 14:46:53,DHS,Encampment,,Manhattan,10018.0,Closed,Phone,0
+63609045,2025-01-02 12:43:02,2025-01-02 15:19:00,DHS,Homeless Person Assistance,,Manhattan,10028.0,Closed,Online,0
+63609063,2025-01-02 08:48:49,2025-01-12 19:24:20,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,10
+63609064,2025-01-02 16:06:10,2025-03-25 06:40:34,DHS,Encampment,,Manhattan,10013.0,Closed,Mobile,81
+63609644,2025-01-02 13:34:14,2025-01-08 03:28:23,DHS,Encampment,,Brooklyn,11235.0,Closed,Online,5
+63609891,2025-01-02 09:29:39,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,5
+63609899,2025-01-02 14:08:04,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10040.0,Closed,Online,5
+63610049,2025-01-02 14:52:20,2025-04-19 07:23:35,DHS,Encampment,,Manhattan,10065.0,Closed,Phone,106
+63610432,2025-01-02 15:44:32,2025-01-08 06:14:43,DHS,Encampment,,Manhattan,10001.0,Closed,Mobile,5
+63610470,2025-01-02 14:07:23,2025-01-02 15:34:17,DHS,Homeless Person Assistance,,Queens,11105.0,Closed,Phone,0
+63610476,2025-01-02 15:57:28,2025-01-02 23:45:51,DHS,Homeless Person Assistance,,Manhattan,10002.0,Closed,Phone,0
+63610487,2025-01-02 10:08:15,2025-01-02 14:47:47,DHS,Encampment,,Manhattan,10001.0,Closed,Mobile,0
+63611084,2025-01-03 17:14:34,2025-01-16 06:39:32,DHS,Encampment,,Manhattan,10016.0,Closed,Online,12
+63611087,2025-01-03 16:45:03,2025-04-30 16:26:51,DHS,Encampment,,Manhattan,10012.0,Closed,Online,116
+63611177,2025-01-03 14:51:28,2025-01-03 15:46:07,DHS,Homeless Person Assistance,,Brooklyn,11205.0,Closed,Phone,0
+63611178,2025-01-03 14:26:02,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10467.0,Closed,Phone,4
+63611763,2025-01-03 11:04:01,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11413.0,Closed,Phone,4
+63611934,2025-01-03 09:30:59,2025-01-03 09:47:01,DHS,Homeless Person Assistance,,Queens,11378.0,Closed,Mobile,0
+63611935,2025-01-03 08:59:57,2025-01-03 09:45:03,DHS,Homeless Person Assistance,,Bronx,10459.0,Closed,Mobile,0
+63611936,2025-01-03 09:57:18,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,4
+63612783,2025-01-03 16:14:22,2025-01-06 07:18:40,DHS,Encampment,,Manhattan,10011.0,Closed,Phone,2
+63612784,2025-01-03 19:55:48,2025-01-13 23:48:46,DHS,Encampment,,Manhattan,10019.0,Closed,Online,10
+63612785,2025-01-03 16:47:48,2025-01-13 23:49:29,DHS,Encampment,,Manhattan,10019.0,Closed,Mobile,10
+63612802,2025-01-03 14:00:47,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,4
+63612818,2025-01-03 15:21:30,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10016.0,Closed,Phone,4
+63613380,2025-01-03 15:49:58,2025-01-03 19:37:46,DHS,Homeless Person Assistance,,Brooklyn,11208.0,Closed,Mobile,0
+63613455,2025-01-03 15:28:24,2025-01-03 15:34:05,DHS,Homeless Person Assistance,,Manhattan,10003.0,Closed,Mobile,0
+63614226,2025-01-03 08:02:57,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,4
+63614292,2025-01-03 08:02:39,2025-04-27 11:39:01,DHS,Encampment,,Manhattan,10016.0,Closed,Online,114
+63614293,2025-01-03 20:22:56,2025-01-08 06:22:04,DHS,Encampment,,Manhattan,10018.0,Closed,Mobile,4
+63614354,2025-01-03 12:19:07,2025-04-01 06:32:08,DHS,Encampment,,Manhattan,10002.0,Closed,Phone,87
+63614374,2025-01-03 09:52:53,2025-04-30 17:43:45,DHS,Encampment,,Brooklyn,11232.0,Closed,Online,117
+63614376,2025-01-03 12:37:55,2025-01-28 06:47:22,DHS,Encampment,,Manhattan,10019.0,Closed,Online,24
+63614377,2025-01-03 08:04:04,2025-01-03 08:29:06,DHS,Homeless Person Assistance,,Manhattan,10017.0,Closed,Online,0
+63614893,2025-01-03 10:19:46,2025-01-03 11:17:14,DHS,Homeless Person Assistance,,Queens,11377.0,Closed,Mobile,0
+63615832,2025-01-03 11:36:55,2025-01-14 06:46:35,DHS,Encampment,,Manhattan,10010.0,Closed,Mobile,10
+63615833,2025-01-03 14:19:02,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10013.0,Closed,Online,4
+63615907,2025-01-03 14:34:30,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10036.0,Closed,Online,4
+63615911,2025-01-03 09:58:45,2025-01-03 11:16:51,DHS,Homeless Person Assistance,,Bronx,10456.0,Closed,Phone,0
+63616382,2025-01-03 13:27:44,2025-01-03 14:34:21,DHS,Homeless Person Assistance,,Manhattan,10011.0,Closed,Mobile,0
+63617385,2025-01-03 14:01:36,2025-01-03 15:34:31,DHS,Homeless Person Assistance,,Manhattan,10168.0,Closed,Online,0
+63617442,2025-01-03 11:34:49,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10039.0,Closed,Phone,4
+63617891,2025-01-03 10:00:30,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,4
+63618918,2025-01-03 09:45:10,2025-04-28 13:41:00,DHS,Encampment,,Manhattan,10012.0,Closed,Phone,115
+63618954,2025-01-03 18:17:16,2025-01-08 06:36:14,DHS,Encampment,,Manhattan,10018.0,Closed,Mobile,4
+63619399,2025-01-03 15:44:31,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Phone,4
+63620435,2025-01-03 09:33:20,2025-01-03 11:16:14,DHS,Homeless Person Assistance,,Queens,11103.0,Closed,Online,0
+63620441,2025-01-03 08:05:16,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10016.0,Closed,Online,4
+63620444,2025-01-03 08:05:29,2025-01-06 07:15:25,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,2
+63620890,2025-01-03 13:56:47,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10002.0,Closed,Mobile,4
+63621994,2025-01-02 18:07:35,2025-01-06 07:18:06,DHS,Encampment,,Queens,11377.0,Closed,Mobile,3
+63622025,2025-01-03 14:03:20,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10022.0,Closed,Online,4
+63622026,2025-01-03 12:55:24,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11234.0,Closed,Phone,4
+63622033,2025-01-03 13:55:46,2025-04-30 17:43:26,DHS,Encampment,,Brooklyn,11215.0,Closed,Mobile,117
+63622421,2025-01-03 12:25:25,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10035.0,Closed,Mobile,4
+63623757,2025-01-05 00:09:49,2025-04-30 17:41:58,DHS,Encampment,,Manhattan,10014.0,Closed,Mobile,115
+63623760,2025-01-04 06:45:07,2025-01-06 07:17:34,DHS,Encampment,,Queens,11377.0,Closed,Mobile,2
+63623765,2025-01-04 13:45:36,2025-01-04 14:01:00,DHS,Homeless Person Assistance,,Manhattan,10016.0,Closed,Online,0
+63623772,2025-01-04 12:42:59,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Mobile,3
+63623789,2025-01-04 15:25:49,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10003.0,Closed,Phone,3
+63625083,2025-01-04 11:40:33,2025-01-14 07:16:46,DHS,Encampment,,Manhattan,10016.0,Closed,Mobile,9
+63625088,2025-01-04 13:46:36,2025-01-04 14:01:53,DHS,Homeless Person Assistance,,Manhattan,10016.0,Closed,Online,0
+63625096,2025-01-04 10:01:17,2025-04-23 06:43:50,DHS,Encampment,,Manhattan,10030.0,Closed,Phone,108
+63626589,2025-01-04 13:55:43,2025-01-04 14:03:55,DHS,Homeless Person Assistance,,Manhattan,10017.0,Closed,Online,0
+63628159,2025-01-04 10:18:33,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10002.0,Closed,Phone,3
+63628160,2025-01-04 11:54:40,2025-01-13 23:47:51,DHS,Encampment,,Manhattan,10019.0,Closed,Mobile,9
+63628162,2025-01-04 13:49:56,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,3
+63628163,2025-01-04 15:34:11,2025-01-04 16:51:17,DHS,Homeless Person Assistance,,Queens,11377.0,Closed,Phone,0
+63628168,2025-01-04 09:15:43,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11385.0,Closed,Phone,3
+63628173,2025-01-04 14:32:45,2025-01-04 14:40:18,DHS,Homeless Person Assistance,,Manhattan,10016.0,Closed,Mobile,0
+63628175,2025-01-04 10:55:43,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11226.0,Closed,Phone,3
+63628179,2025-01-04 10:14:29,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10002.0,Closed,Mobile,3
+63629680,2025-01-04 11:59:26,2025-04-30 17:42:55,DHS,Encampment,,Staten Island,10305.0,Closed,Phone,116
+63629710,2025-01-04 11:37:52,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Mobile,3
+63629727,2025-01-04 08:10:35,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11378.0,Closed,Mobile,3
+63629729,2025-01-04 13:57:28,2025-01-04 14:01:33,DHS,Homeless Person Assistance,,Manhattan,10017.0,Closed,Online,0
+63630379,2025-01-04 13:00:33,2025-01-08 03:26:19,DHS,Encampment,,Brooklyn,11235.0,Closed,Mobile,3
+63631159,2025-01-04 09:01:40,2025-01-04 09:13:57,DHS,Homeless Person Assistance,,Queens,11378.0,Closed,Mobile,0
+63631185,2025-01-04 10:06:44,2025-01-04 10:48:11,DHS,Homeless Person Assistance,,Manhattan,10003.0,Closed,Phone,0
+63631222,2025-01-04 09:50:59,2025-01-04 10:47:51,DHS,Homeless Person Assistance,,Queens,11419.0,Closed,Mobile,0
+63631225,2025-01-04 13:47:55,2025-01-04 14:02:09,DHS,Homeless Person Assistance,,Manhattan,10017.0,Closed,Online,0
+63631226,2025-01-04 13:54:53,2025-01-04 14:03:39,DHS,Homeless Person Assistance,,Manhattan,10016.0,Closed,Online,0
+63632727,2025-01-04 10:35:37,2025-04-01 03:15:50,DHS,Encampment,,Manhattan,10002.0,Closed,Phone,86
+63632728,2025-01-04 17:44:00,2025-04-30 17:42:16,DHS,Encampment,,Brooklyn,11232.0,Closed,Online,115
+63632764,2025-01-04 11:45:41,2025-01-04 13:59:54,DHS,Homeless Person Assistance,,Manhattan,10023.0,Closed,Mobile,0
+63632793,2025-01-04 02:41:02,2025-01-08 06:15:32,DHS,Encampment,,Manhattan,10001.0,Closed,Mobile,4
+63632801,2025-01-04 13:51:31,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10065.0,Closed,Phone,3
+63632803,2025-01-04 15:26:37,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10039.0,Closed,Mobile,3
+63632818,2025-01-04 14:42:28,2025-01-04 15:29:49,DHS,Homeless Person Assistance,,Queens,11691.0,Closed,Phone,0
+63632819,2025-01-04 14:35:33,2025-01-04 14:39:57,DHS,Homeless Person Assistance,,Manhattan,10033.0,Closed,Phone,0
+63634241,2025-01-04 07:36:07,2025-01-06 07:12:17,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,1
+63634244,2025-01-04 09:05:18,2025-01-04 10:46:57,DHS,Homeless Person Assistance,,Brooklyn,11207.0,Closed,Phone,0
+63634251,2025-01-04 15:22:59,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10003.0,Closed,Phone,3
+63634291,2025-01-04 13:19:17,2025-01-04 14:00:29,DHS,Homeless Person Assistance,,Manhattan,10011.0,Closed,Mobile,0
+63635445,2025-01-05 17:54:50,2025-04-30 17:40:05,DHS,Encampment,,Brooklyn,11220.0,Closed,Mobile,114
+63635457,2025-01-05 10:13:29,2025-04-22 06:40:41,DHS,Encampment,,Manhattan,10025.0,Closed,Mobile,106
+63636394,2025-01-05 19:04:29,2025-04-30 17:26:33,DHS,Encampment,,Bronx,10453.0,Closed,Online,114
+63636395,2025-01-05 10:02:41,2025-01-06 09:19:55,DHS,Homeless Person Assistance,,Brooklyn,11222.0,Closed,Phone,0
+63636399,2025-01-05 10:03:38,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10025.0,Closed,Phone,2
+63636403,2025-01-05 10:25:31,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10025.0,Closed,Online,2
+63636407,2025-01-05 10:06:19,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10033.0,Closed,Mobile,2
+63636928,2025-01-05 08:50:45,2025-01-06 09:16:39,DHS,Homeless Person Assistance,,Manhattan,10030.0,Closed,Online,1
+63637962,2025-01-05 07:42:52,2025-04-29 07:05:14,DHS,Encampment,,Manhattan,10003.0,Closed,Online,113
+63637966,2025-01-05 15:22:35,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11372.0,Closed,Mobile,2
+63637984,2025-01-05 09:27:16,2025-01-06 07:13:08,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,0
+63637986,2025-01-05 09:21:56,2025-04-30 17:41:20,DHS,Encampment,,Manhattan,10022.0,Closed,Online,115
+63637993,2025-01-05 11:45:02,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10002.0,Closed,Phone,2
+63637994,2025-01-05 17:02:13,2025-02-15 07:25:48,DHS,Encampment,,Bronx,10454.0,Closed,Mobile,40
+63637996,2025-01-05 11:18:31,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,2
+63638002,2025-01-05 15:50:56,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10014.0,Closed,Mobile,2
+63639507,2025-01-05 15:04:37,2025-01-06 09:31:55,DHS,Homeless Person Assistance,,Brooklyn,11213.0,Closed,Phone,0
+63639508,2025-01-05 11:53:49,2025-01-06 07:16:59,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,0
+63639511,2025-01-05 13:59:47,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,2
+63639517,2025-01-05 15:55:51,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10014.0,Closed,Mobile,2
+63639556,2025-01-05 06:51:21,2025-04-30 17:41:40,DHS,Encampment,,Brooklyn,11211.0,Closed,Online,115
+63639558,2025-01-05 14:11:01,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10026.0,Closed,Mobile,2
+63640985,2025-01-05 13:56:24,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,2
+63640986,2025-01-05 15:42:07,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10128.0,Closed,Phone,2
+63640998,2025-01-05 11:27:26,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,2
+63641011,2025-01-05 13:36:12,2025-01-06 09:28:35,DHS,Homeless Person Assistance,,Manhattan,10009.0,Closed,Mobile,0
+63641027,2025-01-05 13:03:53,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10005.0,Closed,Phone,2
+63642575,2025-01-05 13:32:48,2025-04-30 17:40:23,DHS,Encampment,,Brooklyn,11232.0,Closed,Online,115
+63642576,2025-01-05 09:44:56,2025-01-06 07:12:35,DHS,Encampment,,Manhattan,10011.0,Closed,Mobile,0
+63642580,2025-01-05 10:13:18,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11375.0,Closed,Phone,2
+63642587,2025-01-05 09:01:18,2025-01-06 09:17:04,DHS,Homeless Person Assistance,,Manhattan,10030.0,Closed,Online,1
+63642614,2025-01-05 13:13:13,2025-01-06 09:23:40,DHS,Homeless Person Assistance,,Brooklyn,11211.0,Closed,Mobile,0
+63642628,2025-01-05 12:51:44,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11358.0,Closed,Phone,2
+63642634,2025-01-05 08:59:53,2025-04-30 17:40:41,DHS,Encampment,,Manhattan,10009.0,Closed,Online,115
+63642643,2025-01-05 12:42:47,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10032.0,Closed,Mobile,2
+63642653,2025-01-05 08:57:36,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Mobile,2
+63644145,2025-01-05 14:19:15,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Mobile,2
+63644179,2025-01-05 10:30:04,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10464.0,Closed,Phone,2
+63644188,2025-01-05 15:05:53,2025-01-06 09:32:19,DHS,Homeless Person Assistance,,Manhattan,10069.0,Closed,Mobile,0
+63645696,2025-01-05 11:48:13,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10018.0,Closed,Online,2
+63645711,2025-01-05 09:14:54,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10003.0,Closed,Mobile,2
+63645759,2025-01-05 15:00:03,2025-01-06 09:31:18,DHS,Homeless Person Assistance,,Brooklyn,11213.0,Closed,Phone,0
+63645761,2025-01-05 21:25:01,2025-01-08 06:16:05,DHS,Encampment,,Manhattan,10001.0,Closed,Online,2
+63645762,2025-01-04 15:17:44,2025-04-16 03:57:21,DHS,Encampment,,Manhattan,10128.0,Closed,Online,101
+63645766,2025-01-05 11:25:22,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Online,2
+63645770,2025-01-05 15:47:25,2025-01-06 09:21:22,DHS,Homeless Person Assistance,,Manhattan,10029.0,Closed,Online,0
+63645775,2025-01-05 09:16:15,2025-01-06 08:55:03,DHS,Homeless Person Assistance,,Manhattan,10025.0,Closed,Mobile,0
+63645776,2025-01-05 13:32:49,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11103.0,Closed,Mobile,2
+63645898,2025-01-05 17:38:11,2025-04-30 17:26:51,DHS,Encampment,,Manhattan,10009.0,Closed,Phone,114
+63647362,2025-01-05 12:52:09,2025-04-26 13:02:40,DHS,Encampment,,Manhattan,10003.0,Closed,Online,111
+63647365,2025-01-05 13:06:48,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10022.0,Closed,Phone,2
+63647366,2025-01-05 12:47:30,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11354.0,Closed,Mobile,2
+63647367,2025-01-05 15:46:29,2025-01-06 09:22:42,DHS,Homeless Person Assistance,,Brooklyn,11237.0,Closed,Mobile,0
+63647370,2025-01-05 12:52:28,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11372.0,Closed,Mobile,2
+63647414,2025-01-05 12:04:03,2025-04-30 17:41:03,DHS,Encampment,,Manhattan,10009.0,Closed,Mobile,115
+63647421,2025-01-05 14:39:47,2025-01-06 09:24:34,DHS,Homeless Person Assistance,,Brooklyn,11223.0,Closed,Mobile,0
+63647422,2025-01-05 12:47:28,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Mobile,2
+63647436,2025-01-05 14:54:06,2025-01-06 09:30:04,DHS,Homeless Person Assistance,,Brooklyn,11236.0,Closed,Phone,0
+63648143,2025-01-06 11:07:45,2025-01-06 19:16:47,DHS,Encampment,,Manhattan,10014.0,Closed,Mobile,0
+63648144,2025-01-06 14:31:18,2025-01-06 19:11:55,DHS,Encampment,,Manhattan,10002.0,Closed,Online,0
+63648154,2025-01-06 15:11:08,2025-04-16 06:42:24,DHS,Encampment,,Manhattan,10019.0,Closed,Mobile,99
+63648161,2025-01-06 10:13:43,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10014.0,Closed,Phone,1
+63648192,2025-01-06 15:12:20,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10021.0,Closed,Phone,1
+63648193,2025-01-06 09:09:20,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10016.0,Closed,Online,1
+63649234,2025-01-06 09:25:26,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,1
+63649241,2025-01-06 15:08:13,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10036.0,Closed,Mobile,1
+63649262,2025-01-06 09:16:16,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11214.0,Closed,Mobile,1
+63649918,2025-01-06 08:19:39,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Phone,1
+63649947,2025-01-06 09:34:59,2025-03-25 06:16:25,DHS,Encampment,,Manhattan,10009.0,Closed,Online,77
+63649978,2025-01-06 15:25:52,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Phone,1
+63650085,2025-01-06 20:40:18,2025-04-30 17:10:12,DHS,Encampment,,Brooklyn,11232.0,Closed,Online,113
+63651121,2025-01-06 14:52:04,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11235.0,Closed,Mobile,1
+63651747,2025-01-06 10:40:59,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11435.0,Closed,Phone,1
+63651867,2025-01-06 11:00:54,2025-01-08 07:04:29,DHS,Encampment,,Manhattan,10001.0,Closed,Mobile,1
+63652002,2025-01-06 10:44:19,2025-03-21 00:00:37,DHS,Encampment,,Manhattan,10002.0,Closed,Phone,73
+63652864,2025-01-06 11:48:32,2025-01-08 10:17:39,DHS,Homeless Person Assistance,,Manhattan,10036.0,Closed,Mobile,1
+63653614,2025-01-06 12:50:37,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10010.0,Closed,Online,1
+63653707,2025-01-06 08:37:17,2025-01-13 23:42:31,DHS,Encampment,,Manhattan,10036.0,Closed,Online,7
+63653708,2025-01-06 08:31:12,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10012.0,Closed,Phone,1
+63653806,2025-01-06 13:51:45,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11413.0,Closed,Online,1
+63653807,2025-01-06 08:49:42,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10016.0,Closed,Phone,1
+63654695,2025-01-06 11:55:31,2025-01-07 10:18:47,DHS,Homeless Person Assistance,,Manhattan,10019.0,Closed,Mobile,0
+63654897,2025-01-06 09:12:12,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10014.0,Closed,Mobile,1
+63655571,2025-01-06 11:24:25,2025-04-08 03:43:47,DHS,Encampment,,Queens,11377.0,Closed,Mobile,91
+63655572,2025-01-06 08:39:24,2025-04-02 05:32:39,DHS,Encampment,,Queens,11377.0,Closed,Mobile,85
+63655628,2025-01-06 10:31:25,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10036.0,Closed,Mobile,1
+63655629,2025-01-06 10:22:27,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11354.0,Closed,Online,1
+63655740,2025-01-06 14:29:11,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10036.0,Closed,Phone,1
+63656758,2025-01-06 13:21:38,2025-01-06 13:34:54,DHS,Homeless Person Assistance,,Manhattan,10039.0,Closed,Mobile,0
+63656827,2025-01-06 15:57:31,2025-01-07 07:42:59,DHS,Homeless Person Assistance,,Manhattan,10005.0,Closed,Mobile,0
+63657331,2025-01-06 09:32:34,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11377.0,Closed,Mobile,1
+63657497,2025-01-06 11:01:50,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11230.0,Closed,Online,1
+63657498,2025-01-06 11:53:31,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10004.0,Closed,Phone,1
+63657556,2025-01-06 10:13:17,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10019.0,Closed,Phone,1
+63657557,2025-01-06 09:21:26,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,1
+63657705,2025-01-06 11:27:29,2025-04-30 17:10:34,DHS,Encampment,,Manhattan,10022.0,Closed,Phone,114
+63657722,2025-01-06 14:26:05,2025-01-28 06:47:05,DHS,Encampment,,Manhattan,10019.0,Closed,Mobile,21
+63658609,2025-01-06 09:27:03,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11378.0,Closed,Mobile,1
+63658815,2025-01-06 10:53:31,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11207.0,Closed,Phone,1
+63659381,2025-01-06 13:31:09,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10016.0,Closed,Mobile,1
+63660605,2025-01-06 14:35:54,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11235.0,Closed,Mobile,1
+63661101,2025-01-06 15:46:29,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11691.0,Closed,Phone,1
+63661102,2025-01-06 14:11:08,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11213.0,Closed,Phone,1
+63661112,2025-01-06 14:49:11,2025-04-27 09:35:20,DHS,Encampment,,Manhattan,10003.0,Closed,Online,110
+63661113,2025-01-06 14:24:23,2025-04-14 04:16:46,DHS,Encampment,,Manhattan,10028.0,Closed,Phone,97
+63661127,2025-01-06 11:29:56,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10022.0,Closed,Phone,1
+63661256,2025-01-06 09:35:25,2025-04-30 17:26:16,DHS,Encampment,,Manhattan,10016.0,Closed,Mobile,114
+63662536,2025-01-06 12:30:28,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11354.0,Closed,Mobile,1
+63662685,2025-01-06 12:09:25,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11201.0,Closed,Online,1
+63663283,2025-01-07 09:38:13,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10019.0,Closed,Mobile,0
+63663284,2025-01-07 09:36:54,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10001.0,Closed,Mobile,0
+63663291,2025-01-07 12:09:13,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10003.0,Closed,Mobile,0
+63664532,2025-01-07 09:32:20,2025-01-07 23:19:01,DHS,Encampment,,Manhattan,10009.0,Closed,Mobile,0
+63664542,2025-01-07 11:49:17,2025-01-07 12:09:14,DHS,Homeless Person Assistance,,Queens,11414.0,Closed,Online,0
+63664560,2025-01-07 13:17:42,2025-01-07 15:49:40,DHS,Homeless Person Assistance,,Queens,11413.0,Closed,Phone,0
+63664561,2025-01-07 08:32:19,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10000.0,Closed,Phone,0
+63664562,2025-01-07 16:02:33,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10038.0,Closed,Online,0
+63664567,2025-01-07 08:22:43,2025-01-07 10:19:44,DHS,Homeless Person Assistance,,Queens,11373.0,Closed,Phone,0
+63664573,2025-01-07 16:30:08,2025-01-12 06:43:37,DHS,Encampment,,Manhattan,10011.0,Closed,Online,4
+63664574,2025-01-07 08:48:17,2025-01-07 10:18:03,DHS,Homeless Person Assistance,,Brooklyn,11215.0,Closed,Phone,0
+63664575,2025-01-07 12:27:51,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Phone,0
+63666491,2025-01-07 10:46:34,2025-01-07 12:49:03,DHS,Encampment,,Manhattan,10003.0,Closed,Mobile,0
+63666492,2025-01-07 18:22:10,2025-01-31 06:55:20,DHS,Encampment,,Queens,11374.0,Closed,Online,23
+63666494,2025-01-07 12:08:50,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10458.0,Closed,Phone,0
+63666520,2025-01-07 10:22:33,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10453.0,Closed,Online,0
+63666521,2025-01-07 13:07:50,2025-01-07 14:24:54,DHS,Encampment,,Manhattan,10019.0,Closed,Online,0
+63666545,2025-01-07 11:49:05,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10069.0,Closed,Phone,0
+63666546,2025-01-07 13:26:09,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10021.0,Closed,Mobile,0
+63666563,2025-01-07 15:27:34,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Phone,0
+63667122,2025-01-07 10:02:32,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11105.0,Closed,Mobile,0
+63668417,2025-01-07 13:53:23,2025-01-14 06:16:22,DHS,Encampment,,Queens,11432.0,Closed,Mobile,6
+63668427,2025-01-07 08:51:15,2025-01-07 10:20:04,DHS,Homeless Person Assistance,,Brooklyn,11218.0,Closed,Phone,0
+63668439,2025-01-07 08:44:57,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10003.0,Closed,Online,0
+63668467,2025-01-07 15:00:10,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10001.0,Closed,Phone,0
+63668469,2025-01-07 09:18:25,2025-03-25 06:16:40,DHS,Encampment,,Manhattan,10009.0,Closed,Online,76
+63668470,2025-01-07 10:41:05,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11215.0,Closed,Online,0
+63668499,2025-01-07 12:21:43,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10028.0,Closed,Online,0
+63668930,2025-01-07 14:05:08,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10010.0,Closed,Mobile,0
+63670162,2025-01-07 12:44:49,2025-01-07 14:08:57,DHS,Homeless Person Assistance,,Brooklyn,11201.0,Closed,Phone,0
+63670168,2025-01-07 09:44:23,2025-01-07 14:04:14,DHS,Encampment,,Manhattan,10023.0,Closed,Mobile,0
+63670184,2025-01-07 10:51:15,2025-01-07 12:48:18,DHS,Encampment,,Manhattan,10014.0,Closed,Phone,0
+63670185,2025-01-07 07:33:10,2025-01-09 14:39:52,DHS,Encampment,,Manhattan,10025.0,Closed,Online,2
+63670194,2025-01-07 08:54:06,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10013.0,Closed,Phone,0
+63670762,2025-01-07 14:50:28,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11369.0,Closed,Mobile,0
+63670820,2025-01-07 09:41:38,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10010.0,Closed,Mobile,0
+63672023,2025-01-07 08:07:25,2025-04-28 14:22:08,DHS,Encampment,,Manhattan,10016.0,Closed,Phone,111
+63672031,2025-01-07 11:12:43,2025-01-07 11:19:20,DHS,Homeless Person Assistance,,Queens,11374.0,Closed,Phone,0
+63672032,2025-01-07 13:47:54,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Brooklyn,11201.0,Closed,Phone,0
+63672040,2025-01-07 11:51:29,2025-01-07 12:05:01,DHS,Homeless Person Assistance,,Brooklyn,11213.0,Closed,Phone,0
+63672052,2025-01-07 12:12:41,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Queens,11372.0,Closed,Online,0
+63672058,2025-01-07 09:30:01,2025-01-07 10:19:18,DHS,Homeless Person Assistance,,Brooklyn,11209.0,Closed,Phone,0
+63672059,2025-01-07 08:26:07,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10001.0,Closed,Phone,0
+63672069,2025-01-07 08:38:25,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10017.0,Closed,Phone,0
+63672609,2025-01-07 08:29:02,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10038.0,Closed,Mobile,0
+63672672,2025-01-07 09:55:17,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10023.0,Closed,Mobile,0
+63673903,2025-01-07 10:51:22,2025-01-12 06:43:53,DHS,Encampment,,Manhattan,10011.0,Closed,Online,4
+63674091,2025-01-07 08:27:41,2025-01-07 14:25:44,DHS,Encampment,,Manhattan,10001.0,Closed,Mobile,0
+63674092,2025-01-07 09:06:33,2025-01-07 23:19:49,DHS,Encampment,,Manhattan,10009.0,Closed,Phone,0
+63674107,2025-01-07 15:25:52,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10010.0,Closed,Phone,0
+63674522,2025-01-07 08:27:07,2025-01-07 10:09:53,DHS,Homeless Person Assistance,,Manhattan,10040.0,Closed,Mobile,0
+63675704,2025-01-07 14:25:14,2025-04-02 05:32:19,DHS,Encampment,,Queens,11377.0,Closed,Online,84
+63675705,2025-01-07 08:00:39,2025-04-26 13:00:28,DHS,Encampment,,Manhattan,10022.0,Closed,Mobile,109
+63675706,2025-01-07 11:22:06,2025-02-15 07:24:58,DHS,Encampment,,Brooklyn,11216.0,Closed,Mobile,38
+63675707,2025-01-07 10:01:44,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10459.0,Closed,Phone,0
+63675769,2025-01-07 14:38:51,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Bronx,10467.0,Closed,Mobile,0
+63675781,2025-01-07 10:08:17,2025-01-07 10:20:53,DHS,Homeless Person Assistance,,Queens,11385.0,Closed,Online,0
+63675906,2025-01-07 17:34:24,2025-01-13 06:52:33,DHS,Encampment,,Manhattan,10011.0,Closed,Online,5
+63676024,2025-01-07 09:57:06,2025-01-07 14:48:05,DHS,Encampment,,Manhattan,10009.0,Closed,Mobile,0
+63676029,2025-01-07 08:59:55,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10011.0,Closed,Phone,0
+63676368,2025-01-07 12:48:00,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10031.0,Closed,Mobile,0
+63677636,2025-01-07 07:33:32,2025-04-10 07:02:43,DHS,Encampment,,Bronx,10457.0,Closed,Mobile,92
+63677642,2025-01-07 12:44:01,2025-01-07 14:07:35,DHS,Homeless Person Assistance,,Brooklyn,11235.0,Closed,Phone,0
+63677652,2025-01-07 08:19:45,2025-01-07 11:56:17,DHS,Encampment,,Brooklyn,11220.0,Closed,Mobile,0
+63677928,2025-01-07 10:21:13,2025-01-07 23:59:59,DHS,Homeless Person Assistance,"No closed date, I assumed they were closed at EOW.",Manhattan,10019.0,Closed,Phone,0
+63678579,2025-01-07 22:28:52,2025-04-30 17:09:53,DHS,Encampment,,Bronx,10453.0,Closed,Mobile,112
+63680182,2025-01-07 20:47:38,2025-01-08 12:25:32,DHS,Encampment,,Manhattan,10003.0,Closed,Phone,0
+63681774,2025-01-07 20:50:40,2025-01-08 17:45:06,DHS,Encampment,,Manhattan,10003.0,Closed,Phone,0
