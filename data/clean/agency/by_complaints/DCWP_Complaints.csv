@@ -1,2 +1,2 @@
-Ticket_Count,Median,Mean,P75,P90,Max,Pct_of_DCWP,Cumulative_Pct
-291,2.0,13.625429553264604,30.0,32.0,247,100.0,100.0
+Complaint_Type,Ticket_Count,Median,Mean,P75,P90,Max,Pct_of_DCWP,Cumulative_Pct
+Consumer Complaint,291,2.0,13.625429553264604,30.0,32.0,247,100.0,100.0

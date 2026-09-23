@@ -1,3 +1,3 @@
-Ticket_Count,Median,Mean,P75,P90,Max,Pct_of_DHS,Cumulative_Pct
-225,1.0,1.5733333333333333,3.0,5.0,6,63.38,63.38
-130,12.5,49.823076923076925,109.75,115.0,118,36.62,100.0
+Complaint_Type,Ticket_Count,Median,Mean,P75,P90,Max,Pct_of_DHS,Cumulative_Pct
+Homeless Person Assistance,225,1.0,1.5733333333333333,3.0,5.0,6,63.38,63.38
+Encampment,130,12.5,49.823076923076925,109.75,115.0,118,36.62,100.0
