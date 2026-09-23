@@ -1,0 +1,54 @@
+Unique_Key,Created_Date,Closed_Date,Agency,Complaint_Type,Descriptor,Borough,Incident_Zip,Status,Open_Data_Channel_Type,Resolution_Days
+63589048,2025-01-01 19:52:26,2025-02-19 11:57:54,DOE,School Maintenance,Other School Condition,Queens,11372.0,Closed,Phone,48
+63597152,2025-01-02 17:49:25,2025-01-06 13:27:05,DOE,School Maintenance,Plumbing Problem,Queens,11385.0,Closed,Online,3
+63597449,2025-01-02 14:53:03,2025-03-26 10:54:46,DOE,School Maintenance,Other School Condition,Brooklyn,11201.0,Closed,Online,82
+63599308,2025-01-02 15:43:47,2025-02-26 12:55:35,DOE,School Maintenance,Other School Condition,Queens,11385.0,Closed,Phone,54
+63604709,2025-01-02 12:15:29,2025-02-19 13:23:39,DOE,School Maintenance,Rodents/Mice,Bronx,10475.0,Closed,Online,48
+63610874,2025-01-03 13:15:32,2025-01-06 13:48:27,DOE,School Maintenance,Unclean Condition,Queens,11366.0,Closed,Online,3
+63612292,2025-01-04 00:17:35,2025-03-26 09:30:39,DOE,School Maintenance,Unclean Condition,Brooklyn,11226.0,Closed,Online,81
+63612306,2025-01-03 18:41:32,2025-01-22 13:21:14,DOE,School Maintenance,Asbestos,Manhattan,10040.0,Closed,Phone,18
+63613634,2025-01-03 12:23:37,2025-02-26 12:54:03,DOE,School Maintenance,Heating Problem,Queens,11385.0,Closed,Online,54
+63620124,2025-01-03 11:14:30,2025-03-20 08:57:01,DOE,School Maintenance,Rodents/Mice,Brooklyn,11221.0,Closed,Phone,75
+63644378,2025-01-05 23:34:34,2025-01-06 09:13:49,DOE,School Maintenance,Rodents/Mice,Queens,11358.0,Closed,Phone,0
+63647542,2025-01-06 14:47:33,2025-02-19 11:57:12,DOE,School Maintenance,Heating Problem,Queens,11369.0,Closed,Online,43
+63647555,2025-01-06 13:07:32,2026-05-18 12:33:41,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63647793,2025-01-06 12:30:09,2025-03-26 14:58:25,DOE,School Maintenance,Other School Condition,Bronx,10452.0,Closed,Phone,79
+63649422,2025-01-06 22:27:01,2025-01-15 15:37:44,DOE,School Maintenance,Snow/Ice,Staten Island,10309.0,Closed,Phone,8
+63649572,2025-01-06 12:52:47,2025-03-26 14:57:02,DOE,School Maintenance,Plumbing Problem,Bronx,10452.0,Closed,Phone,79
+63653226,2025-01-06 12:44:38,2025-01-15 09:04:21,DOE,School Maintenance,Heating Problem,Bronx,10451.0,Closed,Online,8
+63653341,2025-01-06 18:58:44,2025-03-20 10:14:05,DOE,School Maintenance,Heating Problem,Brooklyn,11206.0,Closed,Online,72
+63655215,2025-01-06 16:43:53,2025-03-20 10:15:36,DOE,School Maintenance,Heating Problem,Brooklyn,11206.0,Closed,Online,72
+63657219,2025-01-06 19:01:26,2025-03-20 10:13:37,DOE,School Maintenance,Leaky Roof,Brooklyn,11206.0,Closed,Online,72
+63657263,2025-01-06 18:56:09,2025-03-20 10:14:57,DOE,School Maintenance,Heating Problem,Brooklyn,11206.0,Closed,Online,72
+63658992,2025-01-06 20:45:27,2025-01-22 13:21:45,DOE,School Maintenance,Rodents/Mice,Manhattan,10031.0,Closed,Phone,15
+63659032,2025-01-06 18:59:58,2025-01-08 09:28:37,DOE,School Maintenance,Heating Problem,Queens,11691.0,Closed,Online,1
+63661053,2025-01-06 09:39:19,2025-01-22 10:11:20,DOE,School Maintenance,Heating Problem,Bronx,10473.0,Closed,Phone,16
+63662468,2025-01-06 14:43:16,2025-03-20 08:34:33,DOE,School Maintenance,Other School Condition,Brooklyn,11214.0,Closed,Phone,72
+63663332,2025-01-07 07:51:25,2025-02-12 10:30:47,DOE,School Maintenance,Heating Problem,Queens,11106.0,Closed,Online,36
+63663346,2025-01-07 18:13:54,2025-02-26 08:32:40,DOE,School Maintenance,Heating Problem,Queens,11435.0,Closed,Online,49
+63665809,2025-01-07 09:48:06,2025-03-20 10:11:13,DOE,School Maintenance,Heating Problem,Brooklyn,11206.0,Closed,Online,72
+63665810,2025-01-07 08:55:44,2026-05-18 12:33:46,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63665811,2025-01-07 08:54:43,2026-05-18 12:33:45,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63665812,2025-01-07 08:55:45,2026-05-18 12:33:44,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63665917,2025-01-07 12:38:55,2025-03-17 15:08:05,DOE,School Maintenance,Heating Problem,Brooklyn,11207.0,Closed,Online,69
+63665938,2025-01-07 09:04:32,2025-01-15 15:37:28,DOE,School Maintenance,Snow/Ice,Staten Island,10312.0,Closed,Phone,8
+63665960,2025-01-07 09:11:22,2026-05-18 12:33:47,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63667775,2025-01-07 11:06:57,2025-02-26 12:49:36,DOE,School Maintenance,Heating Problem,Queens,11385.0,Closed,Online,50
+63667776,2025-01-07 14:00:36,2025-02-24 11:52:20,DOE,School Maintenance,Heating Problem,Queens,11358.0,Closed,Online,47
+63667777,2025-01-07 08:01:04,2026-05-18 12:33:42,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63667778,2025-01-07 06:21:37,2025-03-26 14:38:03,DOE,School Maintenance,Heating Problem,Bronx,10456.0,Closed,Phone,78
+63667786,2025-01-07 09:55:57,2025-01-15 09:40:14,DOE,School Maintenance,Heating Problem,Bronx,10451.0,Closed,Phone,7
+63669790,2025-01-07 14:03:47,2025-02-24 11:47:08,DOE,School Maintenance,Heating Problem,Queens,11358.0,Closed,Online,47
+63671595,2025-01-07 17:03:41,2025-02-26 12:48:36,DOE,School Maintenance,Heating Problem,Queens,11385.0,Closed,Online,49
+63673341,2025-01-07 15:41:48,2025-01-22 10:07:57,DOE,School Maintenance,Heating Problem,Bronx,10461.0,Closed,Online,14
+63673440,2025-01-07 07:37:05,2025-01-08 09:14:33,DOE,School Maintenance,Heating Problem,Queens,11364.0,Closed,Online,1
+63674455,2025-01-07 07:35:54,2025-01-07 07:45:49,DOE,School Maintenance,Heating Problem,Queens,11106.0,Closed,Online,0
+63675581,2025-01-07 12:09:45,2026-05-18 12:33:48,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Phone,496
+63676183,2025-01-07 09:25:23,2025-01-07 14:28:32,DOE,School Maintenance,Heating Problem,Manhattan,10034.0,Closed,Online,0
+63677230,2025-01-07 08:46:33,2025-03-20 10:12:01,DOE,School Maintenance,Heating Problem,Brooklyn,11206.0,Closed,Online,72
+63677231,2025-01-07 08:40:53,2026-05-18 12:33:43,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63677232,2025-01-07 17:53:44,2025-01-22 13:22:18,DOE,School Maintenance,Heating Problem,Manhattan,10029.0,Closed,Online,14
+63677233,2025-01-07 09:14:37,2025-02-26 12:51:40,DOE,School Maintenance,Lack of Supplies,Queens,11378.0,Closed,Phone,50
+63677510,2025-01-07 07:15:40,2025-03-20 10:12:49,DOE,School Maintenance,Heating Problem,Brooklyn,11206.0,Closed,Online,72
+63677675,2025-01-07 08:50:14,2026-05-18 12:33:43,DOE,School Maintenance,Heating Problem,Queens,11373.0,Closed,Online,496
+63677676,2025-01-07 12:23:55,2025-02-19 11:56:26,DOE,School Maintenance,Heating Problem,Queens,11369.0,Closed,Phone,42
