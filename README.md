@@ -52,7 +52,7 @@ The final file is 85,122 rows by 11 columns, every row `Closed`, no missing valu
 
 ## What the resolution times look like
 
-<img src="figures/chart2_distribution_histogram.png" width="900" alt="Two histograms of resolution days on a log y-axis. Left panel zooms on 0 to 30 days. Right panel shows the full range 0 to 621 days with reference lines at 100 and 365 days.">
+<img src="figures/chart2_distribution_histogram.png" width="900" alt="Two histograms of resolution days on a log y-axis. Left panel zooms on 0 to 30 days. Right panel shows the full range 0 to 622 days with reference lines at 100 and 365 days.">
 
 | Statistic          | Days  |
 | ------------------ | ----- |
@@ -82,7 +82,7 @@ The fast end behaves nothing like the slow end, which is easiest to see with the
 
 <img src="figures/chart4_slowest_vs_fastest.png" width="900" alt="Two bar charts side by side. Left: the ten slowest complaint types in median days, led by Uprooted Stump at 175. Right: the ten fastest in median hours, led by Non-Emergency Police Matter at 1.18 hours and ending with Traffic at 0.48 hours.">
 
-For the fast panel, tickets where the create and close timestamps are identical are removed first, otherwise the same-day closures would swamp the measurement and every category would read as zero. What is left still clears in under 1.2 hours of median clock time, and the list is almost entirely NYPD quality-of-life enforcement: noise, drinking, drug activity, illegal fireworks. The gap between the two panels is three orders of magnitude.
+For the fast panel, tickets where the create and close timestamps are identical are removed first, otherwise the same-day closures would swamp the measurement and every category would read as zero. What is left still clears in under 1.2 hours of median clock time, and the list is almost entirely NYPD quality-of-life enforcement: noise, drinking, drug activity, illegal fireworks. Comparing the two panels, the slowest median and the fastest one are close to four orders of magnitude apart.
 
 The top of the volume distribution is even more concentrated than the top of the latency distribution. `Noise - Residential` alone is 30,224 tickets, 35.5% of everything. Add `Heat/Hot Water` (14,711) and `Illegal Parking` (9,745) and three complaint types account for 64.2% of the week. Ten types reach 76.2%, which leaves the remaining 123 categories sharing under a quarter of the workload.
 
@@ -126,13 +126,13 @@ Two agencies absorb 80.8% of the week's work. The table sorts every other agency
 
 EDC is the clearest case. Its 452 tickets are all `Noise - Helicopter`, one complaint type, and its distribution is remarkably tight: median 138.0, 90th percentile 140.0, maximum 157. Every helicopter-noise ticket takes roughly four and a half months because the review involves aviation authorities outside the city. The agency is fast at everything it does; the one job it does is slow.
 
-DOE runs the same pattern on 53 tickets, all `School Maintenance`, median 50 days and a maximum of 496. DOHMH does the opposite in the same agency: `Rodent` and `Indoor Air Quality` close at a median of 0 days with over 90% inside 48 hours, while `Food Establishment`, `Smoking Or Vaping` and `Non-Residential Heat` all report a median, 70th percentile, 90th percentile and maximum of exactly 60.0 days, which is a fixed administrative window rather than a queue.
+DOE runs the same pattern on 53 tickets, all `School Maintenance`, median 50 days and a maximum of 496. DOHMH shows both patterns inside one agency: `Rodent` and `Indoor Air Quality` close at a median of 0 days with over 90% inside 48 hours, while `Food Establishment`, `Smoking Or Vaping` and `Non-Residential Heat` all report a median, 70th percentile, 90th percentile and maximum of exactly 60.0 days, which is a fixed administrative window rather than a queue.
 
 The strongest evidence that the badge is not the cause sits inside single agencies:
 
 - TLC closes `Lost Property` (120 tickets) at a median of 0 days with a maximum of 3, and takes a median of 79 days on `For Hire Vehicle Complaint` (278 tickets) and 76.5 on `Taxi Complaint` (124 tickets), because those are disciplinary proceedings rather than lookups.
 - HPD closes `Heat/Hot Water` (14,711 tickets) at a median of 1.0 day, and `Unsanitary Condition` (1,273 tickets) at a median of 20 days.
-- DSNY closes `Dirty Condition` at a median of 0 days and `Graffiti` (346 tickets) at 35, since graffiti removal needs different equipment and property-owner coordination.
+- DSNY closes `Dirty Condition` at a median of 0 days and `Graffiti` (324 tickets) at 35, since graffiti removal needs different equipment and property-owner coordination.
 - DOB closes `Real Time Enforcement` at a median of 0 days, and `Building/Use` (285 tickets) at 63 with a mean of 121.60.
 
 ### 4. The long tail is narrow, and it belongs to three agencies
